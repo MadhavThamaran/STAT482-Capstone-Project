@@ -102,8 +102,9 @@ mask = df["book_year"].notna() & (df["book_year"] >= df["film_year"])
 df = exclude(mask, "book_not_published_before_film", df, excluded_rows)
 
 # 3d2. Book must be published after 1850 (pre-1851 books lack consistent Goodreads metadata)
-mask = df["book_year"].notna() & (df["book_year"] <= 1850)
-df = exclude(mask, "book_published_1850_or_earlier", df, excluded_rows)
+# Also exclude rows where publication year is unknown — cannot verify post-1850 compliance
+mask = df["book_year"].isna() | (df["book_year"] <= 1850)
+df = exclude(mask, "book_published_1850_or_earlier_or_unknown_year", df, excluded_rows)
 
 # 3e. Exclude series / multi-book sources
 series_pattern = r'\b(series|trilogy|saga|cycle|sequence|franchise)\b'
@@ -395,7 +396,7 @@ GENRE_KEYWORDS = {
 
 # Genre target ranges (min, max) per bucket
 GENRE_TARGETS = {
-    "Drama_Literary":        (20, 51),  # broad catch-all for literary fiction
+    "Drama_Literary":        (20, 53),  # broad catch-all for literary fiction
     "Fantasy_SciFi":         (20, 30),
     "Romance":               (10, 20),
     "Thriller_Mystery_Crime":(20, 30),
