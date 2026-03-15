@@ -1,0 +1,201 @@
+﻿row_id,book_title,book_author,book_publication_year,goodreads_match_title,goodreads_match_score,book_avg_rating,book_ratings_count
+1,69,Ryu Murakami,1987,,0,,
+2,A Good Year,Peter Mayle,2004,A Good Year,100,3.61,5283.0
+3,A Princess of Mars,Edgar Rice Burroughs,1917,A Princess of Mars,100,3.8,69.0
+4,A Watcher in the Woods,Florence Engel Randall,1976,The Watcher in the Woods,100,3.46,333.0
+5,All Quiet on the Western Front,Erich Maria Remarque,1929,All Quiet on the Western Front,100,3.93,255610.0
+6,A Connecticut Yankee in King Arthur's Court,Mark Twain,1889,A Connecticut Yankee in King Arthur's Court,100,3.76,820.0
+7,A Stir of Echoes,Richard Matheson,1958,A Stir of Echoes,100,3.89,8925.0
+8,A Very Private Gentleman,Martin Booth,1990,A Very Private Gentleman,100,3.61,898.0
+9,A Wrinkle in Time,Madeleine L'Engle,1962,A Wrinkle in Time,100,4.04,321.0
+10,Anime Supremacy!,Mizuki Tsujimura,2014,The Gore Supremacy,75,3.58,121.0
+11,A Mother's Gift,Britney Spears and Lynne Spears,2001,A Mother's Gift,100,3.19,533.0
+12,Adam Resurrected,Yoram Kaniuk,1969,Omega Resurrected,78,2.37,35.0
+13,Airborn,Kenneth Oppel,2004,Airborn (Economy),63,4.16,11.0
+14,Annihilation,Jeff VanderMeer,2014,Annihilation,100,3.63,860.0
+15,Atomised,Michel Houellebecq,1998,Atomised,100,3.78,2628.0
+16,A Widow for One Year,John Irving,1998,A Widow for One Year,100,3.74,684.0
+17,All the Way,Andy Behrens,2001,,0,,
+18,All You Need Is Kill,Hiroshi Sakurazaka,2009,All You Need Is Kill,100,4.05,10315.0
+19,Ben-Hur: A Tale of the Christ,Lew Wallace,1880,Ben-Hur: A Tale of the Christ,100,4.02,43.0
+20,Berlin Alexanderplatz,Alfred Döblin,1929,Berlin-Hamlet,64,4.25,7.0
+21,"Crouching Tiger, Hidden Dragon",Wang Dulu,1942,"Crouching Tiger, Hidden Dragon, Vol. 5",90,4.03,33.0
+22,A Scanner Darkly,Philip K. Dick,1977,A Scanner Darkly,100,4.04,165.0
+23,Beautiful Creatures,Kami Garcia and Margaret Stohl,2009,Beautiful Creatures,100,3.81,204.0
+24,Do Androids Dream of Electric Sheep?,Philip K. Dick,1967,Do Androids Dream of Electric Sheep?,100,4.08,77.0
+25,Dune,Frank Herbert,1965,Dune,100,4.2,8271.0
+26,The Lord of the Rings,J. R. R. Tolkien,1954,The Lord of the Rings,100,4.59,257.0
+27,Dragons of Autumn Twilight,Margaret Weis and Tracy Hickman,1984,Dragons of Autumn Twilight,100,4.02,171.0
+28,Radio Free Albemuth,Philip K. Dick,1976,The Cardio-Free Diet,68,3.44,67.0
+29,Fahrenheit 451,Ray Bradbury,1953,Fahrenheit 451,100,3.97,598.0
+30,Jurassic Park,Michael Crichton,1990,Jurassic Park,100,3.97,1154.0
+31,Timeline,Michael Crichton,1999,Timeline,100,3.83,150786.0
+32,Eragon,Christopher Paolini,2003,Eragon,100,3.86,178.0
+33,The Girl Who Leapt Through Time,Yasutaka Tsutsui,1966,The Girl who Leapt Through Time,100,3.15,63.0
+34,Ready Player One,Ernest Cline,2011,Ready Player One,100,4.31,376328.0
+35,Planet of the Apes,Pierre Boulle,1963,Planet of the Apes,100,3.91,75.0
+36,Waltz into Darkness,Cornell Woolrich,1947,Cast into Darkness,86,3.55,98.0
+37,Northern Lights,Philip Pullman,1995,Northern Lights,100,3.29,853.0
+38,The Hobbit,J. R. R. Tolkien,1937,The Hobbit,100,4.25,7733.0
+39,The Wonderful Wizard of Oz,L. Frank Baum,1900,The Wonderful Wizard of Oz,100,3.98,199.0
+40,Spaceman of Bohemia,Jaroslav Kalfař,2017,Spaceman of Bohemia,100,3.89,960.0
+41,A Walk to Remember,Nicholas Sparks,1999,A Walk to Remember,100,4.15,549725.0
+42,Nights in Rodanthe,Nicholas Sparks,2002,Nights in Rodanthe,100,3.82,131201.0
+43,Dear John,Nicholas Sparks,2006,Dear John,100,4.01,447841.0
+44,After,Anna Todd,2014,After,100,3.73,17474.0
+45,After Ever Happy,Anna Todd,2015,"After Ever Happy (After, #4)",80,4.08,13331.0
+46,Possession: A Romance,A. S. Byatt,1990,Possession: A Romance,100,3.88,926.0
+47,The Nanny Diaries,Emma McLaughlin and Nicola Kraus,2002,The Nanny Diaries,100,3.4,592.0
+48,The Last Song,Nicholas Sparks,2009,The Last Song,100,4.14,430780.0
+49,After Everything,Anna Todd,2015,After Everything,100,3.36,86.0
+50,The Notebook,Nicholas Sparks,1996,The Notebook,100,4.07,5796.0
+51,A Painted House,John Grisham,2001,A Painted House,100,3.67,60826.0
+52,Angels & Demons,Dan Brown,2000,The Angels of Mons,81,2.5,1.0
+53,One Shot,Lee Child,2004,One Shot,100,3.73,430.0
+54,3 Assassins,Kōtarō Isaka,2004,ASSASSINS,90,3.93,469.0
+55,Death on the Nile,Agatha Christie,1937,Death on the Nile,100,4.07,191.0
+56,Along Came a Spider,James Patterson,1993,Along Came a Spider,100,4.09,341.0
+57,Detective,Arthur Hailey,1997,Detective,100,3.86,1922.0
+58,The Feather Men,Sir Ranulph Fiennes,1991,The Feather Men,100,3.89,420.0
+59,Heidi,Johanna Spyri,1880,Heidi,100,3.97,81.0
+60,And Then There Were None,Agatha Christie,1939,And Then There Were None,100,4.23,429352.0
+61,The Assassination of Jesse James by the Coward Robert Ford,Ron Hansen,1983,The Assassination of Jesse James by the Coward Robert Ford,100,3.91,1646.0
+62,The Killer Inside Me,Jim Thompson,1952,The Killer Inside Me,100,3.89,21.0
+63,Murder on the Orient Express,Agatha Christie,1934,Murder on the Orient Express,100,4.16,1434.0
+64,Antikiller,Daniil Koretsky,1999,,0,,
+65,The Constant Gardener,John le Carré,2001,The Constant Gardener,100,3.78,13682.0
+66,The Lincoln Lawyer,Michael Connelly,2005,The Lincoln Lawyer,100,4.14,193.0
+67,Blood Work,Michael Connelly,1998,Blood Work,100,4.11,133.0
+68,The Crime of Father Amaro,José Maria de Eça de Queiroz,1875,The Secret of Father Alcazar,75,3.27,3.0
+69,"Tinker, Tailor, Soldier, Spy",John le Carré,1974,"Tinker, Tailor, Soldier, Spy",100,4.04,1412.0
+70,Emil and the Detectives,Erich Kästner,1929,Emil and the Detectives,100,4.1,28.0
+71,Dreamcatcher,Stephen King,2001,Dreamcatcher,100,3.59,118369.0
+72,Escape to Witch Mountain,Alexander Key,1968,Escape to Witch Mountain,100,3.88,70.0
+73,Carrie,Stephen King,1974,Carrie,100,3.93,1972.0
+74,Cell,Stephen King,2006,Cell,100,3.64,147949.0
+75,Dracula,Bram Stoker,1897,Dracula,100,3.98,8731.0
+76,Exit Wounds,John Westermann,1990,Hesitation Wounds,71,3.68,11.0
+77,The Amityville Horror,Jay Anson,1977,The Amityville Horror,100,3.82,82759.0
+78,The Ghost,Robert Harris,2007,The Ghost,100,3.68,7933.0
+79,Doctor Sleep,Stephen King,2013,Doctor Sleep,100,4.1,98088.0
+80,Firestarter,Stephen King,1980,Firestarter,100,3.85,145067.0
+81,Charlotte Gray,Sebastian Faulks,1999,Charlotte Gray,100,3.79,7494.0
+82,A History of Violence,John Wagner,1997,A History of Violence,100,3.44,42.0
+83,War Horse,Michael Morpurgo,1982,War Horse,100,4.13,53.0
+84,Father of the Bride,Edward Streeter,1949,Father of the Bride.,100,3.65,26.0
+85,Hart's War,John Katzenbach,1999,Hart's War,100,3.94,812.0
+86,All the King's Men,Robert Penn Warren,1946,All the King's Men,100,4.08,1005.0
+87,The Fake Fusé: Satomi Hakkenden,Kazuki Sakuraba,2010,Fake is a state of mind,62,4.67,15.0
+88,The War of the Worlds,H. G. Wells,1898,The War of the Worlds,100,3.8,1777.0
+89,Jitter Joint,Howard Swindle,1999,Strip Joint,69,4.0,10.0
+90,Eye of the Needle,Ken Follett,1978,Eye of the Needle,100,4.17,94753.0
+91,Bless the Child,Cathy Cash Spellman,1993,Bless the Child,100,3.77,14.0
+92,Bridge to Terabithia,Katherine Paterson,1977,Bridge to Terabithia,100,3.98,343901.0
+93,Avalon High,Meg Cabot,2005,Avalon High,100,3.8,37740.0
+94,The BFG,Roald Dahl,1982,,0,,
+95,Charlie and the Chocolate Factory,Roald Dahl,1964,Charlie and the Chocolate Factory,100,4.11,975.0
+96,Wonder Boys,Michael Chabon,1995,Wonder Boys,100,3.93,24688.0
+97,Charlotte's Web,E. B. White,1952,Charlotte's Web,100,4.15,2161.0
+98,Nineteen Eighty-Four,George Orwell,1949,Nineteen Eighty-Four,100,4.14,247.0
+99,The Children of Men,P. D. James,1992,The Children of Men,100,3.69,28529.0
+100,The Adventures of Pinocchio,Carlo Collodi,1883,Adventures of Pinocchio,100,3.86,279.0
+101,Battle Royale,Koushun Takami,1999,Battle Royale,100,4.24,36373.0
+102,Derailed,James Siegel,2003,Derailed,100,3.77,1612.0
+103,Headhunters,Jules Bass,2001,Headhunters,100,3.79,978.0
+104,Starship Troopers,Robert A. Heinlein,1959,Starship Troopers,100,3.99,510.0
+105,Around the World in Eighty Days,Jules Verne,1873,Around the World in Eighty Days,100,3.91,102.0
+106,Battlefield Earth,L. Ron Hubbard,1982,Battlefield Earth,100,3.49,311.0
+107,Journey to the Center of the Earth,Jules Verne,1864,Journey to the Center of the Earth,100,3.84,232.0
+108,On Stranger Tides,Tim Powers,1987,On Stranger Tides,100,3.86,4715.0
+109,The Adventures of Tom Sawyer,Mark Twain,1876,The Adventures of Tom Sawyer,100,3.9,6679.0
+110,King Solomon's Mines,Sir H. Rider Haggard,1885,King Solomon's Mines,100,3.8,30.0
+111,Buffalo Soldiers,Robert O'Connor,1993,Buffalo Soldiers,100,3.8,192.0
+112,Sahara,Clive Cussler,1992,Sahara,100,3.95,134.0
+113,Shutter Island,Dennis Lehane,2003,Shutter Island,100,4.08,115869.0
+114,The Jungle Books,Rudyard Kipling,1894,The Jungle Books,100,4.01,109.0
+115,The Call of the Wild,Jack London,1903,The Call of the Wild,100,3.83,392.0
+116,About a Boy,Nick Hornby,1998,About a Boy,100,3.79,102740.0
+117,A Room with a View,E. M. Forster,1908,A Room with a View,100,3.91,521.0
+118,Girl with a Pearl Earring,Tracy Chevalier,1999,Girl With a Pearl Earring,100,3.85,8245.0
+119,Breakfast with Scot,Michael Downing,1999,Breakfast with Scot,100,3.61,260.0
+120,High Fidelity,Nick Hornby,1995,High Fidelity,100,3.94,1840.0
+121,It,Stephen King,1986,,0,,
+122,The Unknown Soldier,Väinö Linna,1954,Unknown Soldier,100,3.53,338.0
+123,Call Me By Your Name,André Aciman,2007,Call Me by Your Name,100,4.19,13051.0
+124,Death Wish,Brian Garfield,1972,Death Wish,100,4.96,26.0
+125,Devdas,Sarat Chandra Chattopadhyay,1917,,0,,
+126,Diner,Yumeaki Hirayama,2009,The Diner,100,3.38,8.0
+127,Far from the Madding Crowd,Thomas Hardy,1874,Far from the Madding Crowd,100,3.92,278.0
+128,First Blood,David Morrell,1972,First Blood,100,3.97,242.0
+129,Freaky Friday,Mary Rodgers,1972,Freaky Friday,100,3.71,6575.0
+130,Golden Slumber,Kōtarō Isaka,2007,The Golden Globe,76,4.05,985.0
+131,Great Expectations,Charles Dickens,1860,Great Expectations,100,3.75,5484.0
+132,I Want to Eat Your Pancreas,Yoru Sumino,2014,I Want to Eat Your Pancreas,100,3.98,82.0
+133,Joker Game,Koji Yanagi,2008,The Poker Game,90,5.0,2.0
+134,Lisa and Lottie,Erich Kästner,1949,Lisa and Lottie,100,4.09,50.0
+135,Me and Earl and the Dying Girl,Jesse Andrews,2012,Me and Earl and the Dying Girl,100,3.58,85578.0
+136,Porno,Irvine Welsh,2002,Porno,100,3.78,13315.0
+137,Shaft,Ernest Tidyman,1970,Shaft,100,3.38,3.0
+138,The Bad Seed,William March,1954,The Bad Seed,100,4.06,184.0
+139,The Christmas Note,Donna VanLiere,2011,The Christmas Note,100,3.81,61.0
+140,The Earthquake Bird,Susanna Jones,2001,The Earthquake Bird,100,3.5,317.0
+141,The Girl in the Spider's Web,David Lagercrantz,2015,The Girl in the Spider's Web,100,3.74,451.0
+142,The Go-Between,L. P. Hartley,1953,The Go-between,100,3.93,59.0
+143,The Martian,Andy Weir,2011,The Martian,100,4.39,435440.0
+144,These Foolish Things,Deborah Moggach,2004,These Foolish Things,100,3.46,353.0
+145,Trainspotting,Irvine Welsh,1993,Trainspotting,100,4.08,59522.0
+146,Verses of Love,Habiburrahman El Shirazy,2003,The Eyes of Love,84,3.75,16.0
+147,Les Misérables,Victor Hugo,1862,Les Misérables,100,4.14,3525.0
+148,Nightmare Alley,William Lindsay Gresham,1946,Nightmare Alley,100,4.05,17.0
+149,Pet Sematary,Stephen King,1983,Pet Sematary,100,3.92,1621.0
+150,'Salem's Lot,Stephen King,1975,'Salem's Lot,100,3.99,3130.0
+151,The Devil All the Time,Donald Ray Pollock,2011,The Devil All the Time,100,4.09,9852.0
+152,The Exorcist,William Peter Blatty,1971,The Exorcist,100,4.14,1251.0
+153,The Witches,Roald Dahl,1983,The Witches,100,4.17,1173.0
+154,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1995,Wicked: The Life and Times of the Wicked Witch of the West,100,3.52,913.0
+155,After We Collided,Anna Todd,2014,After We All Died,82,4.89,9.0
+156,After We Fell,Anna Todd,2014,After We Fall,92,4.27,4480.0
+157,It Ends with Us,Colleen Hoover,2016,It Ends with Us,100,4.43,88278.0
+158,Black Beauty,Anna Sewell,1877,Black Beauty,100,3.94,1157.0
+159,Bonjour Tristesse,Françoise Sagan,1954,Bonjour Tristesse,100,3.62,91.0
+160,Deep Water,Patricia Highsmith,1957,Deep Water,100,3.8,129.0
+161,Fletch,Gregory Mcdonald,1974,,0,,
+162,"Good Morning, Midnight",Lily Brooks-Dalton,2016,"Good Morning, Midnight",100,3.89,2372.0
+163,I'm Thinking of Ending Things,Iain Reid,2016,I'm Thinking of Ending Things,100,3.32,9163.0
+164,Lassie Come-Home,Eric Knight,1940,Lassie Come Home,100,4.16,18.0
+165,Legend of the Galactic Heroes,Yoshiki Tanaka,1982,Dawn (Legend of the Galactic Heroes #1),89,4.05,57.0
+166,True Grit,Charles Portis,1968,True Grit,100,4.13,766.0
+167,The Lucky One,Nicholas Sparks,2008,The Lucky One,100,4.1,270822.0
+168,The Mysterious Island,Jules Verne,1874,The Mysterious Island,100,4.08,114.0
+169,The Pirates! in an Adventure with Scientists,Gideon Defoe,2004,The Pirates! In an Adventure with Scientists,100,3.88,2940.0
+170,The Siege of Trencher's Farm,Gordon Williams,1969,The Siege Of Trencher's Farm,100,3.38,5.0
+171,The Host,Stephenie Meyer,2008,The Host,100,3.84,1521.0
+172,The Mortal Instruments – Book One: City of Bones,Cassandra Clare,2007,The Mortal Instruments: City of Bones,87,4.35,666.0
+173,Detective in the Bar,Naomi Azuma,1981,The Detective's Brother,76,5.0,2.0
+174,"Brideshead Revisited, The Sacred & Profane Memories of Captain Charles Ryder",Evelyn Waugh,1945,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,97,3.99,511.0
+175,Dinner with a Perfect Stranger: An Invitation Worth Considering,David Gregory,2005,Dinner with a Perfect Stranger: An Invitation Worth Considering,100,3.97,2634.0
+176,Fever Pitch,Nick Hornby,1992,Fever Pitch,100,3.72,370.0
+177,Header,Edward Lee,1995,Header,100,3.85,280.0
+178,Snow Angels,Stewart O'Nan,1994,Snow Angels,100,3.5,1425.0
+179,The Other Boleyn Girl,Philippa Gregory,2001,The Other Boleyn Girl,100,4.04,3711.0
+180,The Devil Wears Prada,Lauren Weisberger,2003,The Devil Wears Prada,100,3.7,4774.0
+181,The Secret Dreamworld of a Shopaholic,Madeline Wickham (as Sophie Kinsella),2003,"The Secret Dreamworld of a Shopaholic (Shopaholic, #1)",83,3.62,1804.0
+182,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,The Girls' Guide to Hunting and Fishing,100,3.29,115807.0
+183,The Lost World,Arthur Conan Doyle,1912,The Lost World,100,3.98,47.0
+184,The Picture of Dorian Gray,Oscar Wilde,1890,The Picture of Dorian Gray,100,4.06,8362.0
+185,The Poseidon Adventure,Paul Gallico,1972,The Poseidon Adventure,100,3.91,6843.0
+186,Treasure Island,Robert Louis Stevenson,1883,Treasure Island,100,3.82,581.0
+187,Stardust,Neil Gaiman,1999,Stardust,100,4.08,3618.0
+188,The Time Traveler's Wife,Audrey Niffenegger,2003,The Time Traveler's Wife,100,3.95,747127.0
+189,The Da Vinci Code,Dan Brown,2003,The Da Vinci Code,100,3.79,695.0
+190,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,The Hitchhiker's Guide to the Galaxy,100,4.2,9.0
+191,She: A History of Adventure,H. Rider Haggard,1886,She: A History of Adventure,100,3.59,19.0
+192,The Bridge of San Luis Rey,Thornton Wilder,1927,The Bridge of San Luis Rey,100,3.8,22429.0
+193,Hannibal,Thomas Harris,1999,Hannibal,100,3.72,1378.0
+194,Red Dragon,Thomas Harris,1981,Red Dragon,100,4.02,41.0
+195,Skipping Christmas,John Grisham,2001,Skipping Christmas,100,3.47,39965.0
+196,The Last Ride,Thomas Eidson,1996,The Last Ride,100,3.16,18.0
+197,The Name of the Game is Kidnapping,Keigo Higashino,2002,The Name of the Game is Death,80,4.2,60.0
+198,The Runaway Jury,John Grisham,1996,The Runaway Jury,100,3.96,774.0
+199,The Sum of All Fears,Tom Clancy,1991,"The Sum of All Fears (Jack Ryan, #6)",72,3.99,959.0
+200,The Mirror Crack'd from Side to Side,Agatha Christie,1962,The Mirror Crack'd from Side to Side,100,3.89,30.0
