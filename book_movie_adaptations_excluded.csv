@@ -1,0 +1,354 @@
+﻿book_title,book_author,film_title,film_year,fiction_work_raw,film_adaptation_raw,exclusion_reason
+One Thousand and One Nights,,Arabian Nights,2015,One Thousand and One Nights (Arabic: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ ʾAlf Laylah wa-Laylah),Arabian Nights (Portuguese: As Mil e uma Noites) (2015),missing_book_title_or_author
+Amu,Shonali Bose,Amu,2005,"Amu (2005), Shonali Bose",Amu (2005),book_not_published_before_film
+The Christmas Secret,Donna VanLiere,The Christmas Secret,2002,"The Christmas Secret (2009), Donna VanLiere",The Christmas Secret (2002),book_not_published_before_film
+The Christmas Shoes,Donna VanLiere,The Christmas Shoes,2002,"The Christmas Shoes (2002), Donna VanLiere",The Christmas Shoes (2002),book_not_published_before_film
+Dinner with a Perfect Stranger: An Invitation Worth Considering,David Gregory,The Perfect Stranger,2005,"Dinner with a Perfect Stranger: An Invitation Worth Considering (2005), David Gregory",The Perfect Stranger (2005),book_not_published_before_film
+Sideways,Rex Pickett,Sideways,2004,"Sideways (2004), Rex Pickett",Sideways (2004),book_not_published_before_film
+The Sixth of May,Tomas Ross,06/05,2003,"The Sixth of May (Dutch: De Zesde Mei) (2003), Tomas Ross",06/05 (2003),book_not_published_before_film
+The Song of the Damned,Austregésilo Carrano Bueno,Brainstorm,2000,"The Song of the Damned (Portuguese: Canto dos Malditos) (2001), Austregésilo Carrano Bueno",Brainstorm (Portuguese: Bicho de Sete Cabeças) (2000),book_not_published_before_film
+The Adventures of Captain Alatriste,Arturo Pérez-Reverte,Alatriste,2006,"The Adventures of Captain Alatriste (Spanish: Las aventuras del capitán Alatriste) (1996–present) (series), Arturo Pérez-Reverte",Alatriste (2006),source_is_series_not_single_book
+The Black Stallion,Walter Farley,The Young Black Stallion,2003,"The Black Stallion (1941–1989) (series), Walter Farley",The Young Black Stallion (2003),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Identity,2002,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Identity (2002),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Supremacy,2004,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Supremacy (2004),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Ultimatum,2007,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Ultimatum (2007),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Legacy,2012,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Legacy (2012),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,Jason Bourne,2016,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",Jason Bourne (2016),source_is_series_not_single_book
+Bridget Jones,Helen Fielding,Bridget Jones's Diary,2001,"Bridget Jones (1996–2016) (series), Helen Fielding",Bridget Jones's Diary (2001),source_is_series_not_single_book
+Bridget Jones,Helen Fielding,Bridget Jones: The Edge of Reason,2004,"Bridget Jones (1996–2016) (series), Helen Fielding",Bridget Jones: The Edge of Reason (2004),source_is_series_not_single_book
+Bridget Jones,Helen Fielding,Bridget Jones's Baby,2016,"Bridget Jones (1996–2016) (series), Helen Fielding",Bridget Jones's Baby (2016),source_is_series_not_single_book
+The Cheetah Girls,Deborah Gregory,The Cheetah Girls,2003,"The Cheetah Girls (1999–2006) (series), Deborah Gregory",The Cheetah Girls (2003),source_is_series_not_single_book
+The Cheetah Girls,Deborah Gregory,The Cheetah Girls 2,2006,"The Cheetah Girls (1999–2006) (series), Deborah Gregory",The Cheetah Girls 2 (2006),source_is_series_not_single_book
+The Cheetah Girls,Deborah Gregory,The Cheetah Girls: One World,2008,"The Cheetah Girls (1999–2006) (series), Deborah Gregory",The Cheetah Girls: One World (2008),source_is_series_not_single_book
+The Chronicles of Narnia,C.S. Lewis,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",source_is_series_not_single_book
+The Chronicles of Narnia,C.S. Lewis,The Chronicles of Narnia: Prince Caspian,2008,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis",The Chronicles of Narnia: Prince Caspian (2008),source_is_series_not_single_book
+The Chronicles of Narnia,C.S. Lewis,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis",The Chronicles of Narnia: The Voyage of the Dawn Treader (2010),source_is_series_not_single_book
+The Dark Is Rising Sequence,Susan Cooper,The Seeker,2007,"The Dark Is Rising Sequence (1965–1977) (series), Susan Cooper",The Seeker (2007),source_is_series_not_single_book
+The Dark Tower,Stephen King,The Dark Tower,2017,"The Dark Tower (1998–2012) (series), Stephen King",The Dark Tower (2017),source_is_series_not_single_book
+Fifty Shades,E. L. James,Fifty Shades of Grey,2015,"Fifty Shades (2011—2012) (series), E. L. James",Fifty Shades of Grey (2015),source_is_series_not_single_book
+Fifty Shades,E. L. James,Fifty Shades Darker,2017,"Fifty Shades (2011—2012) (series), E. L. James",Fifty Shades Darker (2017),source_is_series_not_single_book
+Fifty Shades,E. L. James,Fifty Shades Freed,2018,"Fifty Shades (2011—2012) (series), E. L. James",Fifty Shades Freed (2018),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: Overlooking View,2007,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: Overlooking View (2007),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: A Study in Murder – Part 1,2007,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: A Study in Murder – Part 1 (2007),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: Remaining Sense of Pain,2008,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: Remaining Sense of Pain (2008),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: The Hollow Shrine,2008,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: The Hollow Shrine (2008),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: Paradox Spiral,2008,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: Paradox Spiral (2008),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: Oblivion Recording,2008,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: Oblivion Recording (2008),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: A Study in Murder – Part 2,2009,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: A Study in Murder – Part 2 (2009),source_is_series_not_single_book
+The Garden of Sinners,Kinoko Nasu,The Garden of Sinners: Future Gospel,2013,"The Garden of Sinners (空の境界, Kara no Kyōkai) (1998–1999) (series), Kinoko Nasu",The Garden of Sinners: Future Gospel (2013),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Philosopher's Stone,2001,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Philosopher's Stone (2001),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Chamber of Secrets,2002,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Chamber of Secrets (2002),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Prisoner of Azkaban,2004,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Prisoner of Azkaban (2004),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Goblet of Fire,2005,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Goblet of Fire (2005),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Order of the Phoenix,2007,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Order of the Phoenix (2007),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Half-Blood Prince,2009,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Half-Blood Prince (2009),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Deathly Hallows – Part 1,2010,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Deathly Hallows – Part 1 (2010),source_is_series_not_single_book
+Harry Potter,J. K. Rowling,Harry Potter and the Deathly Hallows – Part 2,2011,"Harry Potter (1997–2007) (series), J. K. Rowling",Harry Potter and the Deathly Hallows – Part 2 (2011),source_is_series_not_single_book
+Haruchika,Sei Hatsuno,Haruta & Chika,2017,"Haruchika (ハルチカ) (2008–present) (series), Sei Hatsuno",Haruta & Chika (2017),source_is_series_not_single_book
+The Hunger Games,Suzanne Collins,The Hunger Games,2012,"The Hunger Games (2008–2010, 2020–2025) (series), Suzanne Collins",The Hunger Games (2012),source_is_series_not_single_book
+The Hunger Games,Suzanne Collins,The Hunger Games: Catching Fire,2013,"The Hunger Games (2008–2010, 2020–2025) (series), Suzanne Collins",The Hunger Games: Catching Fire (2013),source_is_series_not_single_book
+The Hunger Games,Suzanne Collins,The Hunger Games: Mockingjay - Part 1,2014,"The Hunger Games (2008–2010, 2020–2025) (series), Suzanne Collins",The Hunger Games: Mockingjay - Part 1 (2014),source_is_series_not_single_book
+The Hunger Games,Suzanne Collins,The Hunger Games: Mockingjay - Part 2,2015,"The Hunger Games (2008–2010, 2020–2025) (series), Suzanne Collins",The Hunger Games: Mockingjay - Part 2 (2015),source_is_series_not_single_book
+The Hunger Games,Suzanne Collins,The Hunger Games: The Ballad of Songbirds & Snakes,2023,"The Hunger Games (2008–2010, 2020–2025) (series), Suzanne Collins",The Hunger Games: The Ballad of Songbirds & Snakes (2023),source_is_series_not_single_book
+Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind: The Movie,2000,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind: The Movie (2000),source_is_series_not_single_book
+Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind II: Tribulation Force,2002,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind II: Tribulation Force (2002),source_is_series_not_single_book
+Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind: World at War,2005,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind: World at War (2005),source_is_series_not_single_book
+Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind,2014,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind (2014),source_is_series_not_single_book
+Mary Poppins,P. L. Travers,Mary Poppins Returns,2018,"Mary Poppins (1934–1988) (series), P. L. Travers",Mary Poppins Returns (2018),source_is_series_not_single_book
+Millennium,Stieg Larsson,The Girl with the Dragon Tattoo,2009,"Millennium (2005–2007) (series), Stieg Larsson",The Girl with the Dragon Tattoo (2009),source_is_series_not_single_book
+Millennium,Stieg Larsson,The Girl Who Played with Fire,2009,"Millennium (2005–2007) (series), Stieg Larsson",The Girl Who Played with Fire (2009),source_is_series_not_single_book
+Millennium,Stieg Larsson,The Girl Who Kicked the Hornets' Nest,2009,"Millennium (2005–2007) (series), Stieg Larsson",The Girl Who Kicked the Hornets' Nest (2009),source_is_series_not_single_book
+Millennium,Stieg Larsson,The Girl with the Dragon Tattoo,2011,"Millennium (2005–2007) (series), Stieg Larsson",The Girl with the Dragon Tattoo (2011),source_is_series_not_single_book
+Nurse Matilda,Christianna Brand,Nanny McPhee,2005,"Nurse Matilda (1964–1974) (series), Christianna Brand",Nanny McPhee (2005),source_is_series_not_single_book
+Nurse Matilda,Christianna Brand,Nanny McPhee and the Big Bang,2010,"Nurse Matilda (1964–1974) (series), Christianna Brand",Nanny McPhee and the Big Bang (2010),source_is_series_not_single_book
+Percy Jackson & the Olympians,Rick Riordan,Percy Jackson & the Olympians: The Lightning Thief,2010,"Percy Jackson & the Olympians (2005–2009) (series), Rick Riordan",Percy Jackson & the Olympians: The Lightning Thief (2010),source_is_series_not_single_book
+Percy Jackson & the Olympians,Rick Riordan,Percy Jackson: Sea of Monsters,2013,"Percy Jackson & the Olympians (2005–2009) (series), Rick Riordan",Percy Jackson: Sea of Monsters (2013),source_is_series_not_single_book
+The Princess Diaries,Meg Cabot,The Princess Diaries,2002,"The Princess Diaries (2000–2009) (series), Meg Cabot",The Princess Diaries (2002),source_is_series_not_single_book
+The Princess Diaries,Meg Cabot,The Princess Diaries 2: Royal Engagement,2004,"The Princess Diaries (2000–2009) (series), Meg Cabot",The Princess Diaries 2: Royal Engagement (2004),source_is_series_not_single_book
+Riverworld,Philip José Farmer,Riverworld,2003,"Riverworld (1971–1983) (series), Philip José Farmer",Riverworld (2003),source_is_series_not_single_book
+Riverworld,Philip José Farmer,Riverworld,2010,"Riverworld (1971–1983) (series), Philip José Farmer",Riverworld (2010),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan Ki Beti,2002,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan Ki Beti (2002),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan & Jane,2002,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan & Jane (2002),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan II,2005,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan II (2005),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan,2013,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan (2013),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,The Legend of Tarzan,2016,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",The Legend of Tarzan (2016),source_is_series_not_single_book
+Twilight,Stephenie Meyer,Twilight,2008,"Twilight (2005–2008) (series), Stephenie Meyer",Twilight (2008),source_is_series_not_single_book
+Twilight,Stephenie Meyer,The Twilight Saga: New Moon,2009,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: New Moon (2009),source_is_series_not_single_book
+Twilight,Stephenie Meyer,The Twilight Saga: Eclipse,2010,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Eclipse (2010),source_is_series_not_single_book
+Twilight,Stephenie Meyer,The Twilight Saga: Breaking Dawn – Part 1,2011,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Breaking Dawn – Part 1 (2011),source_is_series_not_single_book
+Twilight,Stephenie Meyer,The Twilight Saga: Breaking Dawn – Part 2,2012,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Breaking Dawn – Part 2 (2012),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,The Tigger Movie,2000,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",The Tigger Movie (2000),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,The Book of Pooh: Stories from the Heart,2001,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",The Book of Pooh: Stories from the Heart (2001),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie the Pooh: A Very Merry Pooh Year,2002,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie the Pooh: A Very Merry Pooh Year (2002),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Piglet's Big Movie,2003,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Piglet's Big Movie (2003),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie the Pooh: Springtime with Roo,2004,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie the Pooh: Springtime with Roo (2004),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Pooh's Heffalump Movie,2005,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Pooh's Heffalump Movie (2005),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Pooh's Heffalump Halloween Movie,2005,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Pooh's Heffalump Halloween Movie (2005),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Super Sleuth Christmas Movie,2007,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Super Sleuth Christmas Movie (2007),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Tigger and Pooh and a Musical Too,2009,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Tigger and Pooh and a Musical Too (2009),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Super Duper Super Sleuths,2010,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Super Duper Super Sleuths (2010),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie the Pooh,2011,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie the Pooh (2011),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Christopher Robin,2018,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Christopher Robin (2018),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie-the-Pooh: Blood and Honey,2023,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie-the-Pooh: Blood and Honey (2023),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie-the-Pooh: Blood and Honey 2,2024,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie-the-Pooh: Blood and Honey 2 (2024),source_is_series_not_single_book
+The Other Boleyn Girl,Philippa Gregory,The Other Boleyn Girl (2003) (TV),2003,"The Other Boleyn Girl (2001), Philippa Gregory",The Other Boleyn Girl (2003) (TV),film_appears_to_be_tv_or_dtv
+4.50 from Paddington,Agatha Christie,Crime Is Our Business,2008,"4.50 from Paddington (1957), Agatha Christie",Crime Is Our Business (French: Le Crime est notre affaire) (2008),likely_non_english_language_film
+All She Was Worth,Miyuki Miyabe,Helpless,2012,"All She Was Worth (火車, Kasha) (1992), Miyuki Miyabe",Helpless (Korean: 화차; RR: Hwa-cha) (2012),likely_non_english_language_film
+An Ancient Tale: A Novel in Polish History,Józef Ignacy Kraszewski,An Ancient Tale: When the Sun Was a God,2003,"An Ancient Tale: A Novel in Polish History (Polish: Stara baśń. Powieść z dziejów Polski) (1876), Józef Ignacy Kraszewski",An Ancient Tale: When the Sun Was a God (Polish: Stara baśń: Kiedy słońce było bogiem) (2003),likely_non_english_language_film
+Balzac and the Little Chinese Seamstress,Dai Sijie,Balzac and the Little Chinese Seamstress,2002,"Balzac and the Little Chinese Seamstress (French: Balzac et la petite tailleuse chinoise) (2000), Dai Sijie",Balzac and the Little Chinese Seamstress (2002),likely_non_english_language_film
+Death Notice,Zhou Haohui,Death Notice,2023,"Death Notice (Chinese: 死亡通知单：暗黑者) (2014), Zhou Haohui",Death Notice (Chinese: 暗殺風暴) (2023),likely_non_english_language_film
+Fear and Trembling,Amélie Nothomb,Fear and Trembling,2003,"Fear and Trembling (French: Stupeur et tremblements) (1999), Amélie Nothomb",Fear and Trembling (French: Stupeur et Tremblements) (2003),likely_non_english_language_film
+La chair du maître,Dany Laferrière,Heading South,2005,"La chair du maître (1997), Dany Laferrière",Heading South (French: Vers le sud) (2005),likely_non_english_language_film
+Mother of Mine,Heikki Hietamies,Mother of Mine,2005,"Mother of Mine (Finnish: Äideistä parhain) (1999), Heikki Hietamies","Mother of Mine (Finnish: Äideistä parhain, Swedish: Den bästa av mödrar) (2005)",likely_non_english_language_film
+Sacred Wood,Liu Qingbang,Blind Shaft,2003,"Sacred Wood (Chinese: 神木 Shen Mu) (1999), Liu Qingbang",Blind Shaft (Chinese: 盲井; pinyin: Mángjǐng) (2003),likely_non_english_language_film
+The Ax,Donald E. Westlake,The Axe,2005,"The Ax (1997), Donald E. Westlake",The Axe (French: Le couperet) (2005),likely_non_english_language_film
+The Beast in the Heart,Cristina Comencini,Don't Tell,2005,"The Beast in the Heart (Italian: La bestia nel cuore) (2003), Cristina Comencini",Don't Tell (Italian: La bestia nel cuore) (2005),likely_non_english_language_film
+The Blue Room,Georges Simenon,The Blue Room,2002,"The Blue Room (French: La Chambre bleue) (1964), Georges Simenon",The Blue Room (Spanish: La habitación azul) (2002),likely_non_english_language_film
+The Good German,Joseph Kanon,The Good German,2006,"The Good German (2001), Joseph Kanon",The Good German (2006),likely_non_english_language_film
+Water Margin,Shi Nai'an,Troublesome Night 16,2002,"Water Margin (Chinese: 水滸傳) (1963), Shi Nai'an",Troublesome Night 16 (Chinese: 水滸傳) (2002),likely_non_english_language_film
+White Fang,Jack London,White Fang,2018,"White Fang (1906), Jack London",White Fang (French: Croc-Blanc) (2018),likely_non_english_language_film
+Will O' the Wisp,Pierre Drieu La Rochelle,"Oslo, August 31st",2011,"Will O' the Wisp (French: Le feu follet) (1931), Pierre Drieu La Rochelle","Oslo, August 31st (Norwegian: Oslo, 31. august) (2011)",likely_non_english_language_film
+The Bridge of San Luis Rey,Thornton Wilder,The Bridge of San Luis Rey,2004,"The Bridge of San Luis Rey (1927), Thornton Wilder",The Bridge of San Luis Rey (2004),not_selected_sampling_design
+The Island of Doctor Moreau,H. G. Wells,Dr. Moreau's House of Pain,2004,"The Island of Doctor Moreau (1896), H. G. Wells",Dr. Moreau's House of Pain (2004),not_selected_sampling_design
+The Rules of Attraction,Bret Easton Ellis,The Rules of Attraction,2002,"The Rules of Attraction (1987), Bret Easton Ellis",The Rules of Attraction (2002),not_selected_sampling_design
+The Shipping News,Annie Proulx,The Shipping News,2001,"The Shipping News (1993), Annie Proulx",The Shipping News (2001),not_selected_sampling_design
+The Poseidon Adventure,Paul Gallico,Poseidon,2006,"The Poseidon Adventure (1972), Paul Gallico",Poseidon (2006),not_selected_sampling_design
+Treasure Island,Robert Louis Stevenson,Pirates of Treasure Island,2006,"Treasure Island (1883), Robert Louis Stevenson",Pirates of Treasure Island (2006),not_selected_sampling_design
+About Schmidt,Louis Begley,About Schmidt,2002,"About Schmidt (1996), Louis Begley",About Schmidt (2002),not_selected_sampling_design
+Adams Fall,Sean Desmond,Abandon,2002,"Adams Fall (2000), Sean Desmond",Abandon (2002),not_selected_sampling_design
+Adiliya by the River,Jin Renshun,Green Tea,2003,"Adiliya by the River (1999), Jin Renshun",Green Tea (2003),not_selected_sampling_design
+Adolphe,Benjamin Constant,Adolphe,2002,"Adolphe (1816), Benjamin Constant",Adolphe (2002),not_selected_sampling_design
+All the Pretty Horses,Cormac McCarthy,All the Pretty Horses,2000,"All the Pretty Horses (1992), Cormac McCarthy",All the Pretty Horses (2000),not_selected_sampling_design
+American Psycho,Bret Easton Ellis,American Psycho 2: All-American Girl,2002,"American Psycho (1991), Bret Easton Ellis",American Psycho 2: All-American Girl (2002),not_selected_sampling_design
+American Splendor,Harvey Pekar,American Splendor,2003,"American Splendor (1976–2008), Harvey Pekar",American Splendor (2003),not_selected_sampling_design
+Back When We Were Grownups,Anne Tyler,Back When We Were Grownups,2004,"Back When We Were Grownups (2001), Anne Tyler",Back When We Were Grownups (2004),not_selected_sampling_design
+Baise-moi,Virginie Despentes,Baise-moi,2000,"Baise-moi (1993), Virginie Despentes",Baise-moi (2000),not_selected_sampling_design
+Big Fish: A Novel of Mythic Proportions,Daniel Wallace,Big Fish,2003,"Big Fish: A Novel of Mythic Proportions (1998), Daniel Wallace",Big Fish (2003),not_selected_sampling_design
+Big Trouble,Dave Barry,Big Trouble,2002,"Big Trouble (1999), Dave Barry",Big Trouble (2002),not_selected_sampling_design
+Blood Red Rivers,Jean-Christophe Grangé,The Crimson Rivers,2000,"Blood Red Rivers (French: Les rivières pourpres) (1997), Jean-Christophe Grangé",The Crimson Rivers (2000),not_selected_sampling_design
+Blueprint,Charlotte Kerner,Blueprint,2003,"Blueprint (German: Blaupause) (1999), Charlotte Kerner",Blueprint (2003),not_selected_sampling_design
+Boogiepop and Others,Kouhei Kadono,Boogiepop and Others,2000,"Boogiepop and Others (1998), Kouhei Kadono",Boogiepop and Others (2000),not_selected_sampling_design
+Chocolat,Joanne Harris,Chocolat,2000,"Chocolat (1999), Joanne Harris",Chocolat (2000),not_selected_sampling_design
+Christmas at Twenty-Nine,Kamato Toshio,Singles,2003,"Christmas at Twenty-Nine (2002), Kamato Toshio",Singles (2003),not_selected_sampling_design
+City of God,Paulo Lins,City of God,2002,"City of God (Portuguese: Cidade de Deus) (1997), Paulo Lins",City of God (2002),not_selected_sampling_design
+Cold Mountain,Charles Frazier,Cold Mountain,2003,"Cold Mountain (1997), Charles Frazier",Cold Mountain (2003),not_selected_sampling_design
+Crossfire Trail,Louis L'Amour,Crossfire Trail,2001,"Crossfire Trail (1954), Louis L'Amour",Crossfire Trail (2001),not_selected_sampling_design
+"Deadly, Unna?",Phillip Gwynne,Australian Rules,2002,"Deadly, Unna? (1998), Phillip Gwynne",Australian Rules (2002),not_selected_sampling_design
+Disappearing Acts,Terry McMillan,Disappearing Acts,2000,"Disappearing Acts (1989), Terry McMillan",Disappearing Acts (2000),not_selected_sampling_design
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,Divine Secrets of the Ya-Ya Sisterhood,2002,"Divine Secrets of the Ya-Ya Sisterhood (1996), Rebecca Wells",Divine Secrets of the Ya-Ya Sisterhood (2002),not_selected_sampling_design
+Don't Say a Word,Andrew Klavan,Don't Say a Word,2001,"Don't Say a Word (1991), Andrew Klavan",Don't Say a Word (2001),not_selected_sampling_design
+Enduring Love,Ian McEwan,Enduring Love,2004,"Enduring Love (1997), Ian McEwan",Enduring Love (2004),not_selected_sampling_design
+Enigma,Robert Harris,Enigma,2001,"Enigma (1995), Robert Harris",Enigma (2001),not_selected_sampling_design
+Fail-Safe,Eugene Burdick and Harvey Wheeler,Fail Safe,2000,"Fail-Safe (1962), Eugene Burdick and Harvey Wheeler",Fail Safe (2000),not_selected_sampling_design
+Focus,Arthur Miller,Focus,2002,"Focus (1945), Arthur Miller",Focus (2002),not_selected_sampling_design
+Gasoline,Elena Stancanelli,Gasoline,2001,"Gasoline (Italian: Benzina) (1998), Elena Stancanelli",Gasoline (2001),not_selected_sampling_design
+Gods and Generals,Jeffrey Shaara,Gods and Generals,2003,"Gods and Generals (1996), Jeffrey Shaara",Gods and Generals (2003),not_selected_sampling_design
+Imagining Argentina,Lawrence Thornton,Imagining Argentina,2003,"Imagining Argentina (1987), Lawrence Thornton",Imagining Argentina (2003),not_selected_sampling_design
+Jack's Return Home,Ted Lewis,Get Carter,2000,"Jack's Return Home (1970), Ted Lewis",Get Carter (2000),not_selected_sampling_design
+Lady Audley's Secret,Mary Elizabeth Braddon,Lady Audley's Secret,2000,"Lady Audley's Secret (1862), Mary Elizabeth Braddon",Lady Audley's Secret (2000),not_selected_sampling_design
+Layer Cake,J. J. Connolly,Layer Cake,2004,"Layer Cake (2000), J. J. Connolly",Layer Cake (2004),not_selected_sampling_design
+Le Divorce,Diane Johnson,Le Divorce,2003,"Le Divorce (1997), Diane Johnson",Le Divorce (2003),not_selected_sampling_design
+Man on Fire,A. J. Quinnell,Man on Fire,2004,"Man on Fire (1980), A. J. Quinnell",Man on Fire (2004),not_selected_sampling_design
+Mystic River,Dennis Lehane,Mystic River,2003,"Mystic River (2001), Dennis Lehane",Mystic River (2003),not_selected_sampling_design
+Nicholas Nickleby,Charles Dickens,Nicholas Nickleby,2002,"Nicholas Nickleby (serialised 1838–1839, published as a book 1839), Charles Dickens",Nicholas Nickleby (2002),not_selected_sampling_design
+Pollyanna,Eleanor H. Porter,Pollyanna,2003,"Pollyanna (1913), Eleanor H. Porter",Pollyanna (2003),not_selected_sampling_design
+Ratman's Notebooks,Stephen Gilbert,Willard,2003,"Ratman's Notebooks (1969), Stephen Gilbert",Willard (2003),not_selected_sampling_design
+Ripley's Game,Patricia Highsmith,Ripley's Game,2002,"Ripley's Game (1974), Patricia Highsmith",Ripley's Game (2002),not_selected_sampling_design
+Skinwalkers,Tony Hillerman,Skinwalkers,2002,"Skinwalkers (1986), Tony Hillerman",Skinwalkers (2002),not_selected_sampling_design
+Solaris,Stanislaw Lem,Solaris,2002,"Solaris (1961), Stanislaw Lem",Solaris (2002),not_selected_sampling_design
+Spider,Patrick McGarth,Spider,2002,"Spider (1990), Patrick McGarth",Spider (2002),not_selected_sampling_design
+Tales of the South Pacific,James A. Michener,South Pacific,2001,"Tales of the South Pacific (1947), James A. Michener",South Pacific (2001),not_selected_sampling_design
+The 25th Hour,David Benioff,25th Hour,2002,"The 25th Hour (2001), David Benioff",25th Hour (2002),not_selected_sampling_design
+The Beach,Alex Garland,The Beach,2000,"The Beach (1996), Alex Garland",The Beach (2000),not_selected_sampling_design
+The Big Bounce,Elmore Leonard,The Big Bounce,2004,"The Big Bounce (written 1966, published 1969), Elmore Leonard",The Big Bounce (2004),not_selected_sampling_design
+The Blank Wall,Elisabeth Sanxay Holding,The Deep End,2001,"The Blank Wall (1947), Elisabeth Sanxay Holding",The Deep End (2001),not_selected_sampling_design
+The Body,Richard Sapir,The Body,2001,"The Body (1983), Richard Sapir",The Body (2001),not_selected_sampling_design
+The Caveman's Valentine,George Dawes Green,The Caveman's Valentine,2001,"The Caveman's Valentine (1994), George Dawes Green",The Caveman's Valentine (2001),not_selected_sampling_design
+The Dancer Upstairs,Nicholas Shakespeare,The Dancer Upstairs,2002,"The Dancer Upstairs (1995), Nicholas Shakespeare",The Dancer Upstairs (2002),not_selected_sampling_design
+The Dangerous Lives of Altar Boys,Chris Fuhrman,The Dangerous Lives of Altar Boys,2002,"The Dangerous Lives of Altar Boys (2001), Chris Fuhrman",The Dangerous Lives of Altar Boys (2002),not_selected_sampling_design
+The Five People You Meet in Heaven,Mitch Albom,The Five People You Meet in Heaven,2004,"The Five People You Meet in Heaven (2003), Mitch Albom",The Five People You Meet in Heaven (2004),not_selected_sampling_design
+The Flight of the Phoenix,Elleston Trevor,Flight of the Phoenix,2004,"The Flight of the Phoenix (1964), Elleston Trevor",Flight of the Phoenix (2004),not_selected_sampling_design
+The Forest,José Maria Ferreira de Castro (as Ferreira de Castro),The Forest,2002,"The Forest (Portuguese: A Selva) (1900), José Maria Ferreira de Castro (as Ferreira de Castro)",The Forest (2002),not_selected_sampling_design
+The Four Feathers,A. E. W. Mason,The Four Feathers,2002,"The Four Feathers (1902), A. E. W. Mason",The Four Feathers (2002),not_selected_sampling_design
+The Golden Bowl,Henry James,The Golden Bowl,2000,"The Golden Bowl (1904), Henry James",The Golden Bowl (2000),not_selected_sampling_design
+The Holy Innocents,Gilbert Adair,The Dreamers,2003,"The Holy Innocents (1988), Gilbert Adair",The Dreamers (2003),not_selected_sampling_design
+The Hound of the Baskervilles,Arthur Conan Doyle,The Hound of the Baskervilles,2002,"The Hound of the Baskervilles (serialised 1901—1902, published as a book 1902), Arthur Conan Doyle",The Hound of the Baskervilles (2002),not_selected_sampling_design
+The Hours,Michael Cunningham,The Hours,2002,"The Hours (1998), Michael Cunningham",The Hours (2002),not_selected_sampling_design
+The Human Stain,Philip Roth,The Human Stain,2003,"The Human Stain (2000), Philip Roth",The Human Stain (2003),not_selected_sampling_design
+The Manchurian Candidate,Richard Condon,The Manchurian Candidate,2004,"The Manchurian Candidate (1959), Richard Condon",The Manchurian Candidate (2004),not_selected_sampling_design
+The Mayor of Casterbridge,Thomas Hardy,The Mayor of Casterbridge,2003,"The Mayor of Casterbridge (1886), Thomas Hardy",The Mayor of Casterbridge (2003),not_selected_sampling_design
+The Open Range Men,Lauran Paine,Open Range,2003,"The Open Range Men (1990), Lauran Paine",Open Range (2003),not_selected_sampling_design
+The Phantom of the Opera,Gaston Leroux,The Phantom of the Opera,2004,"The Phantom of the Opera (French: Le Fantôme de l'Opéra) (serialised 1909–1910, published as a book 1910), Gaston Leroux",The Phantom of the Opera (2004),not_selected_sampling_design
+The Pillar of Light,Gerald N. Lund,The Work and the Glory,2004,"The Pillar of Light (1990), Gerald N. Lund",The Work and the Glory (2004),not_selected_sampling_design
+The Quiet American,Graham Greene,The Quiet American,2002,"The Quiet American (1955), Graham Greene",The Quiet American (2002),not_selected_sampling_design
+The Scarlet Pimpernel,Baroness Emmuska Orczy,The Forecourt Pimpernel,2001,"The Scarlet Pimpernel (1903–1905), Baroness Emmuska Orczy",The Forecourt Pimpernel (2001),not_selected_sampling_design
+The Stepford Wives,Ira Levin,The Stepford Wives,2004,"The Stepford Wives (1972), Ira Levin",The Stepford Wives (2004),not_selected_sampling_design
+The Tesseract,Alex Garland,The Tesseract,2003,"The Tesseract (1998), Alex Garland",The Tesseract (2003),not_selected_sampling_design
+The Time Machine,H. G. Wells,The Time Machine,2002,"The Time Machine (1895), H. G. Wells",The Time Machine (2002),not_selected_sampling_design
+The Twins,Tessa de Loo,Twin Sisters,2002,"The Twins (Dutch: De Tweeling) (2000), Tessa de Loo",Twin Sisters (2002),not_selected_sampling_design
+Theatre,W. Somerset Maugham,Being Julia,2004,"Theatre (1937), W. Somerset Maugham",Being Julia (2004),not_selected_sampling_design
+Thin Air,Robert B. Parker,Thin Air,2000,"Thin Air (1995), Robert B. Parker",Thin Air (2000),not_selected_sampling_design
+Vanity Fair,William Makepeace Thackeray,Vanity Fair,2004,"Vanity Fair (1847–1848), William Makepeace Thackeray",Vanity Fair (2004),not_selected_sampling_design
+Walking Shadow,Robert B. Parker,Walking Shadow,2001,"Walking Shadow (1994), Robert B. Parker",Walking Shadow (2001),not_selected_sampling_design
+What's the Worst That Could Happen?,Donald E. Westlake,What's the Worst That Could Happen?,2001,"What's the Worst That Could Happen? (1996), Donald E. Westlake",What's the Worst That Could Happen? (2001),not_selected_sampling_design
+Woman Wanted,Joanna McClelland Glass,Woman Wanted,2000,"Woman Wanted (1984), Joanna McClelland Glass",Woman Wanted (2000),not_selected_sampling_design
+"Yo, Puta",Isabel Pisano,Whore,2004,"Yo, Puta (2003), Isabel Pisano",Whore (2004),not_selected_sampling_design
+Young Adam,Alexander Trocchi,Young Adam,2003,"Young Adam (1957), Alexander Trocchi",Young Adam (2003),not_selected_sampling_design
+Zona Zamfirova,Stefan Sremac,Zona Zamfirova,2002,"Zona Zamfirova (1906), Stefan Sremac",Zona Zamfirova (2002),not_selected_sampling_design
+Belphégor,Arthur Bernède,Belphégor - Le fantôme du Louvre,2001,"Belphégor (1927), Arthur Bernède",Belphégor - Le fantôme du Louvre (2001),not_selected_sampling_design
+Broken April,Ismail Kadare,Abril Despedaçado (Behind the Sun),2001,"Broken April (1978), Ismail Kadare",Abril Despedaçado (Behind the Sun) (2001),not_selected_sampling_design
+The Judgment,Chart Korbjitti,Ai-Fak,2004,"The Judgment (Thai: คำพิพากษา) (1981), Chart Korbjitti",Ai-Fak (Thai: ไอ้ฟัก) (2004),not_selected_sampling_design
+À ton image,Louise L. Lambrichs,À ton image,2004,"À ton image (1998), Louise L. Lambrichs",À ton image (2004),not_selected_sampling_design
+American Knees,Shawn Wong,Americanese,2006,"American Knees (1995), Shawn Wong",Americanese (2006),not_selected_sampling_design
+Angel,Elizabeth Taylor,Angel,2007,"Angel (1957), Elizabeth Taylor",Angel (2007),not_selected_sampling_design
+Anne of Green Gables,Lucy Maud Montgomery,Anne of Green Gables: A New Beginning,2009,"Anne of Green Gables (1908), Lucy Maud Montgomery",Anne of Green Gables: A New Beginning (2009),not_selected_sampling_design
+Ask the Dust,John Fante,Ask the Dust,2006,"Ask the Dust (1939), John Fante",Ask the Dust (2006),not_selected_sampling_design
+Asking for Trouble,Elizabeth Young,The Wedding Date,2005,"Asking for Trouble (2001), Elizabeth Young",The Wedding Date (2005),not_selected_sampling_design
+Asylum,Patrick McGrath,Asylum,2005,"Asylum (1996), Patrick McGrath",Asylum (2005),not_selected_sampling_design
+Atonement,Ian McEwan,Atonement,2007,"Atonement (2001), Ian McEwan",Atonement (2007),not_selected_sampling_design
+Babylon Babies,Maurice Georges Dantec,Babylon A.D.,2008,"Babylon Babies (1999), Maurice Georges Dantec",Babylon A.D. (2008),not_selected_sampling_design
+Be Cool,Elmore Leonard,Be Cool,2005,"Be Cool (1999), Elmore Leonard",Be Cool (2005),not_selected_sampling_design
+Bee Season,Myla Goldberg,Bee Season,2005,"Bee Season (2000), Myla Goldberg",Bee Season (2005),not_selected_sampling_design
+Beowulf,unknown,Beowulf,2007,"Beowulf (c. 700–1000 AD), unknown",Beowulf (2007),not_selected_sampling_design
+Blood and Chocolate,Annette Curtis Klause,Blood & Chocolate,2007,"Blood and Chocolate (1997), Annette Curtis Klause",Blood & Chocolate (2007),not_selected_sampling_design
+Breakfast on Pluto,Patrick McCabe,Breakfast on Pluto,2005,"Breakfast on Pluto (1998), Patrick McCabe",Breakfast on Pluto (2005),not_selected_sampling_design
+Brothers by Blood,Ingvar Ambjørnsen,Elsk meg i morgen,2005,"Brothers by Blood (Norwegian: Brødre i Blodet) (1996), Ingvar Ambjørnsen",Elsk meg i morgen (2005),not_selected_sampling_design
+Candy: A Novel of Love and Addiction,Luke Davies,Candy,2006,"Candy: A Novel of Love and Addiction (1998), Luke Davies",Candy (2006),not_selected_sampling_design
+Carlito's Way,Edwin Torres,Carlito's Way: Rise to Power,2005,"Carlito's Way (1975), Edwin Torres",Carlito's Way: Rise to Power (2005),not_selected_sampling_design
+Casino Royale,Ian Fleming,Casino Royale,2006,"Casino Royale (1953), Ian Fleming",Casino Royale (2006),not_selected_sampling_design
+Death Sentence,Brian Garfield,Death Sentence,2007,"Death Sentence (1975), Brian Garfield",Death Sentence (2007),not_selected_sampling_design
+December Boys,Michael Noonan,December Boys,2007,"December Boys (1963), Michael Noonan",December Boys (2007),not_selected_sampling_design
+Elsk meg i morgen,Ingvar Ambjørnsen,Elsk meg i morgen,2005,"Elsk meg i morgen (Love Me Tomorrow) (1999), Ingvar Ambjørnsen",Elsk meg i morgen (2005),not_selected_sampling_design
+Emotional Arithmetic,Matt Cohen,Emotional Arithmetic,2008,"Emotional Arithmetic (1990), Matt Cohen",Emotional Arithmetic (2008),not_selected_sampling_design
+Everything Is Illuminated,Jonathan Safran Foer,Everything Is Illuminated,2005,"Everything Is Illuminated (2002), Jonathan Safran Foer",Everything Is Illuminated (2005),not_selected_sampling_design
+Fatelessness,Imre Kertész,Fateless,2005,"Fatelessness (Hungarian: Sorstalanság) (1975), Imre Kertész",Fateless (2005),not_selected_sampling_design
+"First Love, Last Rites",Ian McEwan,Butterflies,2005,"First Love, Last Rites (1975), Ian McEwan",Butterflies (2005),not_selected_sampling_design
+Freedomland,Richard Price,Freedomland,2006,"Freedomland (1998), Richard Price",Freedomland (2006),not_selected_sampling_design
+God's Puzzle,Shinji Kimoto,God's Puzzle,2008,"God's Puzzle (神様のパズル, Kamisama no pazuru) (2002), Shinji Kimoto",God's Puzzle (2008),not_selected_sampling_design
+Hard to Be a God,Arkady and Boris Strugatsky,Hard to Be a God,2008,"Hard to Be a God (Russian: Трудно быть богом) (1964), Arkady and Boris Strugatsky",Hard to Be a God (2008),not_selected_sampling_design
+Hating Alison Ashley,Robin Klein,Hating Alison Ashley,2005,"Hating Alison Ashley (1984), Robin Klein",Hating Alison Ashley (2005),not_selected_sampling_design
+I Am Legend,Richard Matheson,I Am Legend,2007,"I Am Legend (1954), Richard Matheson",I Am Legend (2007),not_selected_sampling_design
+I Know What You Did Last Summer,Lois Duncan,I'll Always Know What You Did Last Summer,2006,"I Know What You Did Last Summer (1973), Lois Duncan",I'll Always Know What You Did Last Summer (2006),not_selected_sampling_design
+"I Love You, Beth Cooper",Larry Doyle,"I Love You, Beth Cooper",2009,"I Love You, Beth Cooper (2007), Larry Doyle","I Love You, Beth Cooper (2009)",not_selected_sampling_design
+Japan Sinks,Sakyo Komatsu,Sinking of Japan,2006,"Japan Sinks (日本沈没, Nippon Chinbotsu) (1973), Sakyo Komatsu",Sinking of Japan (2006),not_selected_sampling_design
+Like a Fire is Burning,Gerald N. Lund,The Work and the Glory: American Zion,2005,"Like a Fire is Burning (1991), Gerald N. Lund",The Work and the Glory: American Zion (2005),not_selected_sampling_design
+"Mine-Haha, or On the Bodily Education of Young Girls",Frank Wedekind,The Fine Art of Love: Mine Ha-Ha,2005,"Mine-Haha, or On the Bodily Education of Young Girls (1903), Frank Wedekind",The Fine Art of Love: Mine Ha-Ha (2005),not_selected_sampling_design
+My Brother's Wife,Jaime Bayly,My Brother's Wife,2005,"My Brother's Wife (Spanish: La mujer de mi hermano) (2002), Jaime Bayly",My Brother's Wife (2005),not_selected_sampling_design
+Night Watch,Sergey Lukyanenko,Day Watch,2006,"Night Watch (Russian: «Ночной Дозор») (1998), Sergey Lukyanenko",Day Watch (2006),not_selected_sampling_design
+No Country for Old Men,Cormac McCarthy,No Country for Old Men,2007,"No Country for Old Men (2005), Cormac McCarthy",No Country for Old Men (2007),not_selected_sampling_design
+Oil!,Upton Sinclair,There Will Be Blood,2007,"Oil! (1927), Upton Sinclair",There Will Be Blood (2007),not_selected_sampling_design
+Oliver Twist,Charles Dickens,Oliver Twist,2005,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Oliver Twist (2005),not_selected_sampling_design
+Parineeta,Sharat Chandra Chattopadhyay,Parineeta,2005,"Parineeta (1914), Sharat Chandra Chattopadhyay",Parineeta (2005),not_selected_sampling_design
+Rain,V.C. Andrews,Rain,2006,"Rain (2000), V.C. Andrews",Rain (2006),not_selected_sampling_design
+Return of the Living Dead,John Russo,Return of the Living Dead: Necropolis,2005,"Return of the Living Dead (1977), John Russo",Return of the Living Dead: Necropolis (2005),not_selected_sampling_design
+Revolutionary Road,Richard Yates,Revolutionary Road,2008,"Revolutionary Road (1961), Richard Yates",Revolutionary Road (2008),not_selected_sampling_design
+Ripley Under Ground,Patricia Highsmith,Ripley Under Ground,2005,"Ripley Under Ground (1970), Patricia Highsmith",Ripley Under Ground (2005),not_selected_sampling_design
+Sheep,Simon Maginn,The Dark,2005,"Sheep (2004), Simon Maginn",The Dark (2005),not_selected_sampling_design
+The Black Dahlia,James Ellroy,The Black Dahlia,2006,"The Black Dahlia (1987), James Ellroy",The Black Dahlia (2006),not_selected_sampling_design
+The Body Snatchers,Jack Finney,The Invasion,2007,"The Body Snatchers (1955), Jack Finney",The Invasion (2007),not_selected_sampling_design
+The Boy in the Striped Pyjamas,John Boyne,The Boy in the Striped Pyjamas,2008,"The Boy in the Striped Pyjamas (2006), John Boyne",The Boy in the Striped Pyjamas (2008),not_selected_sampling_design
+The Christmas Blessing,Donna VanLiere,The Christmas Blessing,2005,"The Christmas Blessing (2003), Donna VanLiere",The Christmas Blessing (2005),not_selected_sampling_design
+The Christmas Hope,Donna VanLiere,The Christmas Hope,2009,"The Christmas Hope (2005), Donna VanLiere",The Christmas Hope (2009),not_selected_sampling_design
+The City of Ember,Jeanne DuPrau,City of Ember,2008,"The City of Ember (2003), Jeanne DuPrau",City of Ember (2008),not_selected_sampling_design
+The Damned Utd,David Peace,The Damned United,2009,"The Damned Utd (2006), David Peace",The Damned United (2009),not_selected_sampling_design
+The Dying Animal,Philip Roth,Elegy,2008,"The Dying Animal (2001), Philip Roth",Elegy (2008),not_selected_sampling_design
+The Fox and the Hound,Daniel P. Mannix,The Fox and the Hound 2,2006,"The Fox and the Hound (1967), Daniel P. Mannix",The Fox and the Hound 2 (2006),not_selected_sampling_design
+The Hound of Florence,Felix Salten,The Shaggy Dog,2006,"The Hound of Florence (German: Der Hund von Florenz) (1923), Felix Salten",The Shaggy Dog (2006),not_selected_sampling_design
+The Housekeeper and the Professor,Yōko Ogawa,The Professor's Beloved Equation,2006,"The Housekeeper and the Professor (博士の愛した数式, hakase no ai shita suushiki) (2003), Yōko Ogawa",The Professor's Beloved Equation (2006),not_selected_sampling_design
+The Kites,Romain Gary,Les cerfs-volants,2007,"The Kites (French: Les Cerfs-volants) (1980), Romain Gary",Les cerfs-volants (2007),not_selected_sampling_design
+The Land That Time Forgot,Edgar Rice Burroughs,The Land That Time Forgot,2009,"The Land That Time Forgot (1918), Edgar Rice Burroughs",The Land That Time Forgot (2009),not_selected_sampling_design
+"The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne,A Cock and Bull Story,2006,"The Life and Opinions of Tristram Shandy, Gentleman (1759–1767), Laurence Sterne",A Cock and Bull Story (2006),not_selected_sampling_design
+The Little White Horse,Elizabeth Goudge,The Secret of Moonacre,2009,"The Little White Horse (1946), Elizabeth Goudge",The Secret of Moonacre (2009),not_selected_sampling_design
+The Lovely Bones,Alice Sebold,The Lovely Bones,2009,"The Lovely Bones (2002), Alice Sebold",The Lovely Bones (2009),not_selected_sampling_design
+The Old Curiosity Shop,Charles Dickens,The Old Curiosity Shop,2007,"The Old Curiosity Shop (serialised 1840–1841, published as a book 1841), Charles Dickens",The Old Curiosity Shop (2007),not_selected_sampling_design
+The Painted Veil,W. Somerset Maugham,The Painted Veil,2006,"The Painted Veil (1925), W. Somerset Maugham",The Painted Veil (2006),not_selected_sampling_design
+The Prince and the Pauper,Mark Twain,The Prince and the Pauper: Double Trouble,2007,"The Prince and the Pauper (1881), Mark Twain",The Prince and the Pauper: Double Trouble (2007),not_selected_sampling_design
+The Reader,Bernhard Schlink,The Reader,2008,"The Reader (1995), Bernhard Schlink",The Reader (2008),not_selected_sampling_design
+The Road,Cormac McCarthy,The Road,2009,"The Road (2006), Cormac McCarthy",The Road (2009),not_selected_sampling_design
+The Sea-Wolf,Jack London,The Sea Wolf,2008,"The Sea-Wolf (1904), Jack London",The Sea Wolf (2008),not_selected_sampling_design
+The Secret Life of Bees,Sue Monk Kidd,The Secret Life of Bees,2008,"The Secret Life of Bees (2002), Sue Monk Kidd",The Secret Life of Bees (2008),not_selected_sampling_design
+The Song of Everlasting Sorrow,Wang Anyi,Everlasting Regret,2005,"The Song of Everlasting Sorrow (Chinese: 長恨歌, Cháng hèn gē) (1995), Wang Anyi",Everlasting Regret (2005),not_selected_sampling_design
+The Taking of Pelham One Two Three,Morton Freedgood,The Taking of Pelham 123,2009,"The Taking of Pelham One Two Three (1973), Morton Freedgood",The Taking of Pelham 123 (2009),not_selected_sampling_design
+The Thirty-Nine Steps,John Buchan,The 39 Steps,2008,"The Thirty-Nine Steps (1915), John Buchan",The 39 Steps (2008),not_selected_sampling_design
+The Wind in the Willows,Kenneth Grahame,The Wind in the Willows,2006,"The Wind in the Willows (1908), Kenneth Grahame",The Wind in the Willows (2006),not_selected_sampling_design
+"There's a Porpoise Close Behind Us, Arthur Barker",Noel Langley,These Foolish Things,2005,"There's a Porpoise Close Behind Us, Arthur Barker (1936), Noel Langley",These Foolish Things (2005),not_selected_sampling_design
+Twenty Thousand Leagues Under the Seas,Jules Verne,"30,000 Leagues Under the Sea",2007,"Twenty Thousand Leagues Under the Seas (French: Vingt mille lieues sous les mers) (1870), Jules Verne","30,000 Leagues Under the Sea (2007)",not_selected_sampling_design
+Vengeance,George Jonas,Munich,2005,"Vengeance (1984), George Jonas",Munich (2005),not_selected_sampling_design
+Wide Sargasso Sea,Jean Rhys,Wide Sargasso Sea,2006,"Wide Sargasso Sea (1966), Jean Rhys",Wide Sargasso Sea (2006),not_selected_sampling_design
+Zift,Vladislav Todorov,Zift,2008,"Zift (Bulgarian: Дзифт, Dzift) (2006), Vladislav Todorov",Zift (2008),not_selected_sampling_design
+Almayer's Folly,Joseph Conrad,Hanyut,2011,"Almayer's Folly (1895), Joseph Conrad",Hanyut (2011),not_selected_sampling_design
+Anna Karenina,Leo Tolstoy,Anna Karenina,2012,"Anna Karenina (serialised 1873–1887, published as a book 1888), Leo Tolstoy",Anna Karenina (2012),not_selected_sampling_design
+Another,Yukito Ayatsuji,Another,2012,"Another (アナザー, Anazā) (2009), Yukito Ayatsuji",Another (2012),not_selected_sampling_design
+Bel-Ami,Guy de Maupassant,Bel Ami,2012,"Bel-Ami (1885), Guy de Maupassant",Bel Ami (2012),not_selected_sampling_design
+Brighton Rock,Graham Greene,Brighton Rock,2010,"Brighton Rock (1938), Graham Greene",Brighton Rock (2010),not_selected_sampling_design
+Endless Love,Scott Spencer,Endless Love,2014,"Endless Love (1979), Scott Spencer",Endless Love (2014),not_selected_sampling_design
+Extremely Loud and Incredibly Close,Jonathan Safran Foer,Extremely Loud and Incredibly Close,2012,"Extremely Loud and Incredibly Close (2005), Jonathan Safran Foer",Extremely Loud and Incredibly Close (2012),not_selected_sampling_design
+Fires on the Plain,Shōhei Ōoka,Fires on the Plain,2014,"Fires on the Plain (野火, Nobi) (1959), Shōhei Ōoka",Fires on the Plain (2014),not_selected_sampling_design
+Flowers in the Attic,V. C. Andrews,Flowers in the Attic,2014,"Flowers in the Attic (1979), V. C. Andrews",Flowers in the Attic (2014),not_selected_sampling_design
+Gulliver's Travels,Jonathan Swift,Gulliver's Travels,2010,"Gulliver's Travels (1726), Jonathan Swift",Gulliver's Travels (2010),not_selected_sampling_design
+I Am Number Four,Pittacus Lore,I Am Number Four,2011,"I Am Number Four (2010), Pittacus Lore",I Am Number Four (2011),not_selected_sampling_design
+Journey Under the Midnight Sun,Keigo Higashino,Into the White Night,2010,"Journey Under the Midnight Sun (白夜行, Byakuyakō) (1999), Keigo Higashino",Into the White Night (2010),not_selected_sampling_design
+Kami no Tsuki,Mitsuyo Kakuta,Pale Moon,2014,"Kami no Tsuki (2012), Mitsuyo Kakuta",Pale Moon (2014),not_selected_sampling_design
+"Kirishima, bukatsu yamerutteyo",Ryo Asai,The Kirishima Thing,2012,"Kirishima, bukatsu yamerutteyo (2010), Ryo Asai",The Kirishima Thing (2012),not_selected_sampling_design
+Lemonade Mouth,Mark Peter Hughes,Lemonade Mouth,2011,"Lemonade Mouth (2007), Mark Peter Hughes",Lemonade Mouth (2011),not_selected_sampling_design
+Let the Right One In,John Ajvide Lindqvist,Let Me In,2010,"Let the Right One In (Swedish: Låt den rätte komma in) (2004), John Ajvide Lindqvist",Let Me In (2010),not_selected_sampling_design
+Life of Pi,Yann Martel,Life of Pi,2012,"Life of Pi (2001), Yann Martel",Life of Pi (2012),not_selected_sampling_design
+Moby-Dick,Herman Melville,Moby Dick,2011,"Moby-Dick (1851), Herman Melville",Moby Dick (2011),not_selected_sampling_design
+My Friend Flicka,Mary O'Hara,Flicka: Country Pride,2012,"My Friend Flicka (1941), Mary O'Hara",Flicka: Country Pride (2012),not_selected_sampling_design
+One for the Money,Janet Evanovich,One for the Money,2011,"One for the Money (1994), Janet Evanovich",One for the Money (2011),not_selected_sampling_design
+Salmon Fishing in the Yemen,Paul Torday,Salmon Fishing in the Yemen,2011,"Salmon Fishing in the Yemen (2006), Paul Torday",Salmon Fishing in the Yemen (2011),not_selected_sampling_design
+Tess of the d'Urbervilles,Thomas Hardy,Trishna,2011,"Tess of the d'Urbervilles (1891), Thomas Hardy",Trishna (2011),not_selected_sampling_design
+The Borrowers,Mary Norton,Arrietty,2010,"The Borrowers (1952), Mary Norton",Arrietty (2010),not_selected_sampling_design
+The Dark Fields,Alan Glynn,Limitless,2011,"The Dark Fields (2001), Alan Glynn",Limitless (2011),not_selected_sampling_design
+The Eagle of the Ninth,Rosemary Sutcliff,The Eagle,2011,"The Eagle of the Ninth (1954), Rosemary Sutcliff",The Eagle (2011),not_selected_sampling_design
+The First Men in the Moon,H. G. Wells,The First Men in the Moon,2010,"The First Men in the Moon (1901), H. G. Wells",The First Men in the Moon (2010),not_selected_sampling_design
+The Great Gatsby,F. Scott Fitzgerald,The Great Gatsby,2013,"The Great Gatsby (1925), F. Scott Fitzgerald",The Great Gatsby (2013),not_selected_sampling_design
+The Help,Kathryn Stockett,The Help,2011,"The Help (2009), Kathryn Stockett",The Help (2011),not_selected_sampling_design
+The Howling,Gary Brandner,The Howling: Reborn,2011,"The Howling (1977), Gary Brandner",The Howling: Reborn (2011),not_selected_sampling_design
+The Key,Jun'ichirō Tanizaki,The Key,2014,"The Key (鍵, Kagi) (1956), Jun'ichirō Tanizaki",The Key (2014),not_selected_sampling_design
+The Return of the Native,Thomas Hardy,The Return of the Native,2010,"The Return of the Native (1878), Thomas Hardy",The Return of the Native (2010),not_selected_sampling_design
+The Virginian: A Horseman of the Plains,Owen Wister,The Virginian,2014,"The Virginian: A Horseman of the Plains (1902), Owen Wister",The Virginian (2014),not_selected_sampling_design
+The Wheel Spins,Ethel Lina White,The Lady Vanishes,2013,"The Wheel Spins (1936), Ethel Lina White",The Lady Vanishes (2013),not_selected_sampling_design
+The Woman in Black,Susan Hill,The Woman in Black: Angel of Death,2014,"The Woman in Black (1983), Susan Hill",The Woman in Black: Angel of Death (2014),not_selected_sampling_design
+Water for Elephants,Sara Gruen,Water for Elephants,2011,"Water for Elephants (2006), Sara Gruen",Water for Elephants (2011),not_selected_sampling_design
+Winter's Bone,Daniel Woodrell,Winter's Bone,2010,"Winter's Bone (2006), Daniel Woodrell",Winter's Bone (2010),not_selected_sampling_design
+"Woman, Thou Art Loosed!: Healings the Wounds of the Past",T. D. Jakes,Woman Thou Art Loosed: On the 7th Day,2012,"Woman, Thou Art Loosed!: Healings the Wounds of the Past (1993), T. D. Jakes",Woman Thou Art Loosed: On the 7th Day (2012),not_selected_sampling_design
+Verses of Love,Habiburrahman El Shirazy,Verses of Love 2,2017,"Verses of Love (Indonesian: Ayat-Ayat Cinta) (2003), Habiburrahman El Shirazy",Verses of Love 2 (2017),not_selected_sampling_design
+Les Misérables,Victor Hugo,Les Misérables,2019,"Les Misérables (1862), Victor Hugo",Les Misérables (2019),not_selected_sampling_design
+Black Beauty,Anna Sewell,Black Beauty,2020,"Black Beauty (1877), Anna Sewell",Black Beauty (2020),not_selected_sampling_design
+Bonjour Tristesse,Françoise Sagan,Bonjour Tristesse,2024,"Bonjour Tristesse (Hello Sadness) (1954), Françoise Sagan",Bonjour Tristesse (2024),not_selected_sampling_design
+Deep Water,Patricia Highsmith,Deep Water,2022,"Deep Water (1957), Patricia Highsmith",Deep Water (2022),not_selected_sampling_design
+Fletch,Gregory Mcdonald,"Confess, Fletch",2022,"Fletch (1974), Gregory Mcdonald","Confess, Fletch (2022)",not_selected_sampling_design
+"Good Morning, Midnight",Lily Brooks-Dalton,The Midnight Sky,2020,"Good Morning, Midnight (2016), Lily Brooks-Dalton",The Midnight Sky (2020),not_selected_sampling_design
+I'm Thinking of Ending Things,Iain Reid,I'm Thinking of Ending Things,2020,"I'm Thinking of Ending Things (2016), Iain Reid",I'm Thinking of Ending Things (2020),not_selected_sampling_design
+Journey to the West,Wu Cheng'en,The Monkey King,2023,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",The Monkey King (2023),not_selected_sampling_design
+Lassie Come-Home,Eric Knight,Lassie Come Home,2020,"Lassie Come-Home (1940), Eric Knight",Lassie Come Home (2020),not_selected_sampling_design
+Legend of the Galactic Heroes,Yoshiki Tanaka,Legend of the Galactic Heroes: Die Neue These - Intrigue,2022,"Legend of the Galactic Heroes (Japanese: 銀河英雄伝説, Hepburn: Ginga Eiyū Densetsu) (1982–1987), Yoshiki Tanaka",Legend of the Galactic Heroes: Die Neue These - Intrigue (2022),not_selected_sampling_design
+Lonely Castle in the Mirror,Mizuki Tsujimura,Lonely Castle in the Mirror,2022,"Lonely Castle in the Mirror (かがみの孤城, Kagami no Kojō) (2017), Mizuki Tsujimura",Lonely Castle in the Mirror (2022),not_selected_sampling_design
+Martin Eden,Jack London,Jack London's Martin Eden,2021,"Martin Eden (1909), Jack London",Jack London's Martin Eden (2021),not_selected_sampling_design
+News of the World,Paulette Jiles,News of the World,2020,"News of the World (2016), Paulette Jiles",News of the World (2020),not_selected_sampling_design
+Peter and Wendy,J. M. Barrie,Peter Pan & Wendy,2023,"Peter and Wendy (1911), J. M. Barrie",Peter Pan & Wendy (2023),not_selected_sampling_design
+Rebecca,Daphne du Maurier,Rebecca,2020,"Rebecca (1938), Daphne du Maurier",Rebecca (2020),not_selected_sampling_design
+Ring,Koji Suzuki,Sadako DX,2022,"Ring (リング, Ringu) (1991), Koji Suzuki",Sadako DX (2022),not_selected_sampling_design
+Strangers,Taichi Yamada,All of Us Strangers,2023,"Strangers (異人たちとの夏, Ijintachi to no natsu) (1987), Taichi Yamada",All of Us Strangers (2023),not_selected_sampling_design
+The Alzheimer Case,Jef Geeraerts,Memory,2022,"The Alzheimer Case (Dutch: De zaak Alzheimer) (2000), Jef Geeraerts",Memory (2022),not_selected_sampling_design
+The Caine Mutiny,Herman Wouk,The Caine Mutiny Court-Martial,2023,"The Caine Mutiny (1952), Herman Wouk",The Caine Mutiny Court-Martial (2023),not_selected_sampling_design
+The Color Purple,Alice Walker,The Color Purple,2023,"The Color Purple (1982), Alice Walker",The Color Purple (2023),not_selected_sampling_design
+The Dangerous Liaisons,Pierre Choderlos de Laclos,Dangerous Liaisons,2022,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Dangerous Liaisons (2022),not_selected_sampling_design
+The Devotion of Suspect X,Keigo Higashino,Jaane Jaan,2023,"The Devotion of Suspect X (容疑者Xの献身, Yōgisha Ekkusu no Kenshin) (2005), Keigo Higashino",Jaane Jaan (2023),not_selected_sampling_design
+The Dig,John Preston,The Dig,2021,"The Dig (2007), John Preston",The Dig (2021),not_selected_sampling_design
+The House of the Lost on the Cape,Sachiko Kashiwaba,The House of the Lost on the Cape,2021,"The House of the Lost on the Cape (岬のマヨイガ, Misaki no Mayoiga) (2015), Sachiko Kashiwaba",The House of the Lost on the Cape (2021),not_selected_sampling_design
+The Hunchback of Notre-Dame,Victor Hugo,Quasi,2023,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",Quasi (2023),not_selected_sampling_design
+The Hundred and One Dalmatians,Dodie Smith,Cruella,2021,"The Hundred and One Dalmatians (1956), Dodie Smith",Cruella (2021),not_selected_sampling_design
+The Invisible Man,H. G. Wells,The Invisible Man,2020,"The Invisible Man (1897), H. G. Wells",The Invisible Man (2020),not_selected_sampling_design
+The Last Thing He Wanted,Joan Didion,The Last Thing He Wanted,2020,"The Last Thing He Wanted (1996), Joan Didion",The Last Thing He Wanted (2020),not_selected_sampling_design
+The Life Before Us,Romain Gary (as Émile Ajar),The Life Ahead,2020,"The Life Before Us (French: La vie devant soi) (1975), Romain Gary (as Émile Ajar)",The Life Ahead (2020),not_selected_sampling_design
+The Radleys,Matt Haig,The Radleys,2024,"The Radleys (2010), Matt Haig",The Radleys (2024),not_selected_sampling_design
+The Wages of Fear,Georges-Jean Arnaud,The Wages of Fear,2024,"The Wages of Fear (French: Le Salaire de la peur) (1950), Georges-Jean Arnaud",The Wages of Fear (2024),not_selected_sampling_design
+Wieland,Charles Brockden Brown,Wieland,2024,"Wieland (1798), Charles Brockden Brown",Wieland (2024),not_selected_sampling_design
+The Bandits of Bombay,Satyajit Ray,Bombaiyer Bombete,2003,"The Bandits of Bombay (Bengali: বোম্বাইয়ের বোম্বেটে, Bombaiyer Bombete) (1976), Satyajit Ray",Bombaiyer Bombete (2003),not_selected_sampling_design
+The Queen of the Damned,Anne Rice,Queen of the Damned,2002,"The Queen of the Damned (1988), Anne Rice",Queen of the Damned (2002),not_selected_sampling_design
+The Devil Wears Prada,Lauren Weisberger,The Devil Wears Prada,2006,"The Devil Wears Prada (2003), Lauren Weisberger",The Devil Wears Prada (2006),not_selected_sampling_design
+The Glass Rabbit,Toshiko Takagi,Glass no Usagi,2005,"The Glass Rabbit (ガラスのうさぎ, Garasu no Usagi) (1977), Toshiko Takagi",Glass no Usagi (2005),not_selected_sampling_design
+Uncle Remus,Joel Chandler Harris,The Adventures of Brer Rabbit,2006,"Uncle Remus (1881), Joel Chandler Harris",The Adventures of Brer Rabbit (2006),not_selected_sampling_design
+Vampire$,John Steakley,Vampires: The Turning,2005,"Vampire$ (1990), John Steakley",Vampires: The Turning (2005),not_selected_sampling_design
