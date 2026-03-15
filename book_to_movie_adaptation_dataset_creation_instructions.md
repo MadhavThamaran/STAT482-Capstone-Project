@@ -68,7 +68,7 @@ A title can be included only if all of the following are true:
 1. The **movie release year** is between **2000 and 2024**, inclusive
 2. The movie is a **feature film**
 3. The movie is based primarily on a **single identifiable book or novel**
-4. The source book was published **before** the movie release
+4. The source book was published **after 1850** and **before** the movie release
 5. The movie has an available **IMDb rating**
 6. The movie has available **opening weekend domestic box office**
 7. The source book has accessible metadata such as:
@@ -97,6 +97,7 @@ A title should be excluded if any of the following hold:
 4. Key outcome data is missing
 5. The source book cannot be matched confidently to book metadata
 6. There are duplicate records for the same adaptation and the duplicate cannot be resolved cleanly
+7. The source book was published **in 1850 or earlier** (pre-1851 books are excluded due to insufficient and inconsistent metadata availability on modern platforms such as Goodreads)
 
 ---
 
