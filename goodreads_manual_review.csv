@@ -1,0 +1,20 @@
+﻿row_id,book_title,book_author,gr_candidate_title,gr_candidate_year,gr_avg_rating,gr_ratings_count,title_score,combo_score,reason,action
+1,69,Ryu Murakami,69: Sixty-Nine,1993,3.63,43,100,100,"title_sim=100, year_diff=6",AUTO-FILLED
+10,Anime Supremacy!,Mizuki Tsujimura,The Brain Supremacy: Notes from the Frontiers of Neuroscience,2012,3.37,25,80,83,"title_sim=80, year_diff=2",MANUAL REVIEW
+12,Adam Resurrected,Yoram Kaniuk,Resurrected (Resurrected Series Book 1),,3.80,43,81,81,"title_sim=81, year_diff=999",MANUAL REVIEW
+13,Airborn,Kenneth Oppel,"Airborn (Matt Cruse, #1)",2004,4.16,3,100,105,"title_sim=100, year_diff=0",AUTO-FILLED
+17,All the Way,Andy Behrens,All the Way,2007,3.41,204,100,100,"title_sim=100, year_diff=6",AUTO-FILLED
+20,Berlin Alexanderplatz,Alfred Döblin,Berlin-Hamlet,,4.25,7,64,64,"title_sim=64, year_diff=999",MANUAL REVIEW
+28,Radio Free Albemuth,Philip K. Dick,Radio Free Albemuth,1985,3.80,79,100,100,"title_sim=100, year_diff=9",AUTO-FILLED
+64,Antikiller,Daniil Koretsky,,,,,0,0,No candidates in subset,
+68,The Crime of Father Amaro,José Maria de Eça de Queiroz,The Secret of Father Alcazar,,3.27,3,75,75,"title_sim=75, year_diff=999",MANUAL REVIEW
+76,Exit Wounds,John Westermann,"Exit Wounds (Joanna Brady, #11)",,3.99,3474,100,100,"title_sim=100, year_diff=999",AUTO-FILLED
+87,The Fake Fusé: Satomi Hakkenden,Kazuki Sakuraba,"Fake Foods: Fried, Fast, and Processed: The Incredibly Disgusting Story",2011,2.80,10,77,81,"title_sim=77, year_diff=1",MANUAL REVIEW
+89,Jitter Joint,Howard Swindle,Juke Joint,2005,4.41,31,72,72,"title_sim=72, year_diff=6",MANUAL REVIEW
+94,The BFG,Roald Dahl,The BFG,1982,4.22,82,100,105,"title_sim=100, year_diff=0",AUTO-FILLED
+121,It,Stephen King,It,1986,4.19,216,100,105,"title_sim=100, year_diff=0",AUTO-FILLED
+125,Devdas,Sarat Chandra Chattopadhyay,,,,,0,0,No candidates in subset,
+130,Golden Slumber,Kōtarō Isaka,The Golden Summers: An Antic History Of Newport,,4.20,5,85,85,"title_sim=85, year_diff=999",AUTO-FILLED
+161,Fletch,Gregory Mcdonald,"Fletch (Fletch, #1)",1976,3.91,15,100,103,"title_sim=100, year_diff=2",AUTO-FILLED
+173,Detective in the Bar,Naomi Azuma,"Captive in the Dark (The Dark Duet, #1)",,4.00,10,76,76,"title_sim=76, year_diff=999",MANUAL REVIEW
+199,The Sum of All Fears,Tom Clancy,"The Sum of All Fears (Jack Ryan Universe, #7)",1991,3.99,735,100,105,"title_sim=100, year_diff=0",AUTO-FILLED

@@ -22,6 +22,14 @@ env/
 fiction_to_feature_films_raw.csv
 fiction_to_feature_films_long.csv
 
+# Large IMDb / Goodreads raw files
+goodreads_books.json
+goodreads_candidate_subset.csv
+title.basics.tsv
+title.ratings.tsv
+title.basics.tsv.gz
+title.ratings.tsv.gz
+
 # OS
 .DS_Store
 Thumbs.db

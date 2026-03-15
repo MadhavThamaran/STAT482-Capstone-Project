@@ -1,0 +1,26 @@
+﻿row_id,film_title,movie_release_year,imdb_matched_title,imdb_sim,tmdb_matched_title,tmdb_sim,runtime_filled,votes_filled,month_filled,mpaa_filled
+4,The Watcher in the Woods,2017,,0.826,The Watcher in the Woods,1.0,False,False,True,False
+7,Stir of Echoes: The Homecoming,2007,,0.452,Stir of Echoes: The Homecoming,1.0,False,False,True,True
+11,Brave New Girl,2004,,0.373,Brave New Girl,1.0,False,False,True,False
+13,Airborn,2012,Airborne,0.933,Airborne,0.933,True,True,True,True
+15,The Elementary Particles,2021,,0.667,,0.0,False,False,False,False
+27,Dragonlance: Dragons of Autumn Twilight,2008,,0.533,Dragonlance: Dragons of Autumn Twilight,1.0,False,False,True,True
+28,Radio Free Albemuth,2011,Radio Free Albemuth,1.0,,0.0,True,True,False,False
+51,A Painted House,2003,,0.714,A Painted House,1.0,False,False,True,False
+57,Detective,2005,,0.692,,0.667,False,False,False,False
+68,O Crime do Padre Amaro,2005,,0.723,,0.723,False,False,False,False
+87,"Fusé: Memoirs of the Hunter Girl (伏 鉄砲娘の捕物帳, Fusé: Teppō Musume no Torimonochō)",2012,,0.667,,0.541,False,False,False,False
+93,Avalon High,2010,,0.706,Avalon High,1.0,False,False,True,True
+111,Buffalo Soldiers,2003,,0.667,Buffalo Soldiers,1.0,False,False,True,True
+117,A Room with a View,2007,OOM with a View,0.909,A Room with a View,1.0,True,False,True,False
+129,Freaky Friday,2018,,0.733,Freaky Friday,1.0,False,False,True,True
+134,Das doppelte Lottchen,2017,,0.629,Das doppelte Lottchen,1.0,False,False,True,False
+138,The Bad Seed,2018,,0.8,The Bad Seed,1.0,False,False,True,True
+139,The Christmas Note,2015,The Christmas Bet,0.857,The Christmas Note,1.0,True,False,True,False
+142,The Go-Between,2015,The in-Between,0.857,The Go-Between,1.0,False,False,True,False
+169,The Pirates! In an Adventure with Scientists,2012,,0.568,The Pirates! In an Adventure with Scientists!,1.0,False,False,True,True
+173,"Detective in the Bar (探偵はBARにいる, Tantei wa bar ni iru)",2011,,0.556,,0.303,False,False,False,False
+184,The Picture (of Dorian Gray),2009,,0.652,,0.0,False,False,False,False
+190,The Hitchhiker's Guide to the Galaxy,2004,The Hitchhiker's Guide to the Galaxy,1.0,,0.0,True,True,False,False
+191,She,2001,She,1.0,,0.6,True,True,False,False
+197,G@me,2003,,0.8,g@me.,1.0,False,False,True,False
