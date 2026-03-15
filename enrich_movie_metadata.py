@@ -39,13 +39,19 @@ IMDB_RATINGS    = "title.ratings.tsv"
 OUTPUT_CSV      = "book_movie_adaptations_final_200.csv"
 REVIEW_CSV      = "movie_match_review.csv"
 
+# Load token from .env file if not already in environment
+_env_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+if os.path.exists(_env_file):
+    with open(_env_file) as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _k, _v = _line.split("=", 1)
+                os.environ.setdefault(_k.strip(), _v.strip())
+
 TMDB_BEARER_TOKEN = os.environ.get("TMDB_BEARER_TOKEN", "")
 if not TMDB_BEARER_TOKEN:
-    raise EnvironmentError(
-        "TMDB_BEARER_TOKEN not set. "
-        "Run: set TMDB_BEARER_TOKEN=your_token_here  (Windows)\n"
-        "  or export TMDB_BEARER_TOKEN=your_token_here  (Mac/Linux)"
-    )
+    raise EnvironmentError("TMDB_BEARER_TOKEN not set. Add it to .env file.")
 
 IMDB_SIM_THRESHOLD  = 0.85   # minimum title similarity to accept IMDb match
 TMDB_SIM_THRESHOLD  = 0.80   # minimum title similarity to accept TMDb match
