@@ -18,17 +18,8 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (large raw files — keep processed CSVs)
-fiction_to_feature_films_raw.csv
-fiction_to_feature_films_long.csv
-
-# Large IMDb / Goodreads raw files
-goodreads_books.json
-goodreads_candidate_subset.csv
-title.basics.tsv
-title.ratings.tsv
-title.basics.tsv.gz
-title.ratings.tsv.gz
+# Large raw data files — entire data/raw/ folder is excluded
+data/raw/
 
 # OS
 .DS_Store

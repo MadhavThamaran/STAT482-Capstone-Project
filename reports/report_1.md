@@ -71,73 +71,73 @@ Source books span publication years 1860–2017 (mean: 1974, SD: 40.2). Films sp
 
 The 200 adaptations were assigned to nine genre buckets using keyword-based classification of title, author, and IMDb genre tags. As shown in Figure 1, **Drama/Literary Fiction dominates with 53 titles (26.5%)**, followed by Thriller/Mystery/Crime (30, 15%) and Action/Adventure (25, 12.5%). Comedy/Satire is the smallest category with 9 titles (4.5%). This distribution reflects Hollywood's long-standing preference for serious literary fiction and high-tension narratives as adaptation sources.
 
-![Genre Distribution](eda_01_genre_distribution.png)
+![Genre Distribution](../charts/eda/eda_01_genre_distribution.png)
 *Figure 1. Genre distribution of 200 book-to-movie adaptations.*
 
 ### Temporal Distribution of Films and Books
 
 Film release years (Figure 2) are spread roughly evenly across the 25-year window. The periods 2005–2009 and 2015–2019 are the densest (44 and 45 films respectively). Source book publication decades (Figure 3) show a strong concentration in recent decades — 32.5% of books were published in 2000 or later — while older works (pre-1950) form a smaller share, consistent with most pre-2000 classic adaptations having already been produced in earlier decades.
 
-![Movie Release Year](eda_02_movie_release_year.png)
+![Movie Release Year](../charts/eda/eda_02_movie_release_year.png)
 *Figure 2. Distribution of film release years (2000–2024).*
 
-![Book Publication Decade](eda_03_book_publication_decade.png)
+![Book Publication Decade](../charts/eda/eda_03_book_publication_decade.png)
 *Figure 3. Source book publication decade.*
 
 ### IMDb Rating Distribution
 
 IMDb ratings (Figure 4) are approximately normally distributed with a **mean of 6.19** (SD = 1.14) and a median of 6.3, ranging from 2.3 to 9.0. The concentration between 5.5 and 7.5 suggests that book adaptations tend to produce competent but rarely exceptional films — the source material raises the floor through narrative structure while production variance determines the ceiling. Fewer than 10% of adaptations exceed a rating of 7.5.
 
-![IMDb Rating Distribution](eda_04_imdb_rating_dist.png)
+![IMDb Rating Distribution](../charts/eda/eda_04_imdb_rating_dist.png)
 *Figure 4. Distribution of IMDb ratings.*
 
 ### Goodreads Book Rating Distribution
 
 Goodreads ratings (Figure 5) are tightly clustered between 3.5 and 4.5, with a **mean of 3.89** (SD = 0.30). This compressed range is characteristic of the Goodreads platform, where reader self-selection inflates ratings toward the upper-middle of the 1–5 scale. The lack of spread may limit this feature's standalone predictive power, though it may contribute meaningful signal in combination with ratings volume.
 
-![Book Rating Distribution](eda_05_book_rating_dist.png)
+![Book Rating Distribution](../charts/eda/eda_05_book_rating_dist.png)
 *Figure 5. Distribution of Goodreads average book ratings.*
 
 ### Book Rating vs. IMDb Rating
 
 Figure 6 plots Goodreads book rating against IMDb film rating, colored by genre. The Pearson correlation is **r = 0.135** — a weak positive association. A beloved book does not reliably produce a highly-rated film, consistent with the view that the qualities that make prose compelling (internal monologue, layered subplots, descriptive depth) are often difficult to translate to screen. By contrast, IMDb vote count correlates much more strongly with IMDb rating (**r = 0.511**), suggesting that critically successful films attract larger audiences rather than the reverse, and that production scale and marketing reach may be more determinative than source material quality.
 
-![Rating Scatter](eda_06_rating_scatter.png)
+![Rating Scatter](../charts/eda/eda_06_rating_scatter.png)
 *Figure 6. Goodreads book rating vs. IMDb film rating (r = 0.135), colored by genre.*
 
 ### IMDb Rating by Genre
 
 Figure 7 displays IMDb rating distributions by genre, ordered by median. **Historical/Biography adaptations achieve the highest median rating (~6.9)**, followed by Action/Adventure and Thriller/Mystery/Crime. Comedy/Satire and Romance show lower medians. Horror spans the widest range — a handful of critically acclaimed entries elevate the median while low-budget productions bring it down. Genre differences are substantial enough to warrant inclusion as a categorical feature in predictive models.
 
-![IMDb by Genre](eda_07_imdb_by_genre.png)
+![IMDb by Genre](../charts/eda/eda_07_imdb_by_genre.png)
 *Figure 7. IMDb rating by genre bucket.*
 
 ### MPAA Rating
 
 Of the 167 films with a US MPAA classification (Figure 8), **78.4% are rated R or PG-13**. R-rated films (68, 40.7%) and PG-13 films (63, 37.7%) dominate, reflecting the adult-oriented nature of most literary fiction. Only 24 films are PG and 4 are G. MPAA rating is a proxy for content maturity and target audience demographics, and we expect it to correlate with both IMDb ratings and box office stratification.
 
-![MPAA Rating](eda_08_mpaa_rating.png)
+![MPAA Rating](../charts/eda/eda_08_mpaa_rating.png)
 *Figure 8. MPAA rating distribution (167 rated films).*
 
 ### Release Seasonality
 
 Figure 9 shows that **September is the most common release month (26 films, 13.2%)**, followed by February (21) and August (19). September releases are typically positioned for awards-season consideration (Golden Globes, Oscars), while February captures the Valentine's Day market for Romance and Drama films. Summer months (June–July) are surprisingly sparse, likely because major franchise blockbusters — which tend to be non-literary adaptations or sequels — crowd out adaptation releases in those slots.
 
-![Release Month](eda_09_release_month.png)
+![Release Month](../charts/eda/eda_09_release_month.png)
 *Figure 9. Film release month distribution.*
 
 ### Runtime Distribution
 
 Runtimes (Figure 10) average **113.7 minutes** (SD = 20.6), ranging from 61 to 201 minutes. Runtime correlates moderately with IMDb rating (**r = 0.526**), the strongest single correlate in the dataset. This likely reflects that longer films signal larger budgets, prestige productions, and greater creative ambition — all of which tend to produce higher-quality outcomes — rather than runtime directly causing better ratings.
 
-![Runtime Distribution](eda_10_runtime_dist.png)
+![Runtime Distribution](../charts/eda/eda_10_runtime_dist.png)
 *Figure 10. Distribution of film runtimes.*
 
 ### Distributors
 
 Figure 11 shows the top 12 distributors. Warner Bros., Sony Pictures, and Universal Pictures each distributed more than 10 adaptations. Major studio representation is expected given that large studios have both the capital to acquire adaptation rights and the marketing infrastructure to maximize opening weekend performance. Distributor identity will serve as a proxy for production budget in our models.
 
-![Top Distributors](eda_11_top_distributors.png)
+![Top Distributors](../charts/eda/eda_11_top_distributors.png)
 *Figure 11. Top 12 distributors.*
 
 ### Book Characteristics
@@ -146,17 +146,17 @@ Source books have a median page count of **304 pages** (Figure 13), ranging from
 
 IMDb vote counts (Figure 14) span several orders of magnitude — from under 1,000 to over 2 million — and their log-transformed distribution (log₁₀ scale) is approximately normal, confirming that vote count should be log-transformed before use in linear models.
 
-![Book Page Count](eda_13_book_page_count.png)
+![Book Page Count](../charts/eda/eda_13_book_page_count.png)
 *Figure 13. Distribution of source book page counts.*
 
-![IMDb Votes Log](eda_14_imdb_votes_log.png)
+![IMDb Votes Log](../charts/eda/eda_14_imdb_votes_log.png)
 *Figure 14. IMDb vote count distribution (log₁₀ scale).*
 
 ### Missing Data
 
 Figure 12 summarizes missingness across key fields. `mpaa_rating` has the highest missing rate (16.5%), concentrated among foreign-language and streaming-only releases with no US MPAA classification. All core predictors (`imdb_rating`, `imdb_vote_count`, `runtime_minutes`) are missing in 2% or fewer rows. Book metadata is missing only for the 5 titles with no Goodreads presence, all non-English-origin works.
 
-![Missing Values](eda_12_missing_values.png)
+![Missing Values](../charts/eda/eda_12_missing_values.png)
 *Figure 12. Missing value rate by field.*
 
 ### Summary of EDA Findings

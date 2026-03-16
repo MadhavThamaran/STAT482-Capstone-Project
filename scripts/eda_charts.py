@@ -1,10 +1,15 @@
 """
 eda_charts.py — Generate all EDA charts for the book-to-movie adaptation dataset.
+Run from the project root: python scripts/eda_charts.py
 """
 
-import pandas as pd
+import os, pandas as pd
 import numpy as np
 import matplotlib
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA  = os.path.join(ROOT, "data", "final", "book_movie_adaptations_final_200.csv")
+OUTDIR = os.path.join(ROOT, "charts", "eda")
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
@@ -12,7 +17,7 @@ from matplotlib.gridspec import GridSpec
 import warnings
 warnings.filterwarnings("ignore")
 
-df = pd.read_csv("book_movie_adaptations_final_200.csv", encoding="utf-8-sig")
+df = pd.read_csv(DATA, encoding="utf-8-sig")
 
 PALETTE = [
     "#2E4057", "#048A81", "#54C6EB", "#EF8354", "#D4A5A5",
@@ -40,7 +45,7 @@ ax.set_xlabel("Number of Films")
 ax.set_title("Genre Distribution of 200 Book-to-Movie Adaptations")
 ax.set_xlim(0, counts.max() + 8)
 plt.tight_layout()
-plt.savefig("eda_01_genre_distribution.png")
+plt.savefig(os.path.join(OUTDIR, "eda_01_genre_distribution.png"))
 plt.close()
 print("Saved eda_01_genre_distribution.png")
 
@@ -55,7 +60,7 @@ ax.set_title("Movie Release Year Distribution (2000–2024)")
 ax.xaxis.set_major_locator(mticker.MultipleLocator(2))
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("eda_02_movie_release_year.png")
+plt.savefig(os.path.join(OUTDIR, "eda_02_movie_release_year.png"))
 plt.close()
 print("Saved eda_02_movie_release_year.png")
 
@@ -72,7 +77,7 @@ ax.set_ylabel("Number of Books")
 ax.set_title("Source Book Publication Decade")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("eda_03_book_publication_decade.png")
+plt.savefig(os.path.join(OUTDIR, "eda_03_book_publication_decade.png"))
 plt.close()
 print("Saved eda_03_book_publication_decade.png")
 
@@ -89,7 +94,7 @@ ax.set_ylabel("Count")
 ax.set_title("Distribution of IMDb Ratings")
 ax.legend()
 plt.tight_layout()
-plt.savefig("eda_04_imdb_rating_dist.png")
+plt.savefig(os.path.join(OUTDIR, "eda_04_imdb_rating_dist.png"))
 plt.close()
 print("Saved eda_04_imdb_rating_dist.png")
 
@@ -104,7 +109,7 @@ ax.set_ylabel("Count")
 ax.set_title("Distribution of Goodreads Book Ratings")
 ax.legend()
 plt.tight_layout()
-plt.savefig("eda_05_book_rating_dist.png")
+plt.savefig(os.path.join(OUTDIR, "eda_05_book_rating_dist.png"))
 plt.close()
 print("Saved eda_05_book_rating_dist.png")
 
@@ -124,7 +129,7 @@ ax.set_ylabel("IMDb Rating")
 ax.set_title(f"Book Rating vs. IMDb Rating  (r = {corr:.2f})")
 ax.legend(fontsize=7, loc="upper left", framealpha=0.6)
 plt.tight_layout()
-plt.savefig("eda_06_rating_scatter.png")
+plt.savefig(os.path.join(OUTDIR, "eda_06_rating_scatter.png"))
 plt.close()
 print("Saved eda_06_rating_scatter.png")
 
@@ -142,7 +147,7 @@ ax.set_xticklabels([g.replace("_", "\n") for g in genre_order], fontsize=8)
 ax.set_ylabel("IMDb Rating")
 ax.set_title("IMDb Rating by Genre")
 plt.tight_layout()
-plt.savefig("eda_07_imdb_by_genre.png")
+plt.savefig(os.path.join(OUTDIR, "eda_07_imdb_by_genre.png"))
 plt.close()
 print("Saved eda_07_imdb_by_genre.png")
 
@@ -159,7 +164,7 @@ ax.set_xlabel("MPAA Rating")
 ax.set_ylabel("Number of Films")
 ax.set_title("MPAA Rating Distribution (167 rated films)")
 plt.tight_layout()
-plt.savefig("eda_08_mpaa_rating.png")
+plt.savefig(os.path.join(OUTDIR, "eda_08_mpaa_rating.png"))
 plt.close()
 print("Saved eda_08_mpaa_rating.png")
 
@@ -176,7 +181,7 @@ ax.set_xlabel("Release Month")
 ax.set_ylabel("Number of Films")
 ax.set_title("Film Release Month Distribution (Seasonality)")
 plt.tight_layout()
-plt.savefig("eda_09_release_month.png")
+plt.savefig(os.path.join(OUTDIR, "eda_09_release_month.png"))
 plt.close()
 print("Saved eda_09_release_month.png")
 
@@ -191,7 +196,7 @@ ax.set_ylabel("Count")
 ax.set_title("Distribution of Film Runtimes")
 ax.legend()
 plt.tight_layout()
-plt.savefig("eda_10_runtime_dist.png")
+plt.savefig(os.path.join(OUTDIR, "eda_10_runtime_dist.png"))
 plt.close()
 print("Saved eda_10_runtime_dist.png")
 
@@ -208,7 +213,7 @@ ax.set_xlabel("Number of Films")
 ax.set_title("Top 12 Film Distributors")
 ax.set_xlim(0, dist_counts.max() + 5)
 plt.tight_layout()
-plt.savefig("eda_11_top_distributors.png")
+plt.savefig(os.path.join(OUTDIR, "eda_11_top_distributors.png"))
 plt.close()
 print("Saved eda_11_top_distributors.png")
 
@@ -230,7 +235,7 @@ ax.set_xlabel("Missing (%)")
 ax.set_title("Missing Value Rate by Field")
 ax.set_xlim(0, missing_pct.max() + 10)
 plt.tight_layout()
-plt.savefig("eda_12_missing_values.png")
+plt.savefig(os.path.join(OUTDIR, "eda_12_missing_values.png"))
 plt.close()
 print("Saved eda_12_missing_values.png")
 
@@ -245,7 +250,7 @@ ax.set_ylabel("Count")
 ax.set_title("Distribution of Source Book Page Counts")
 ax.legend()
 plt.tight_layout()
-plt.savefig("eda_13_book_page_count.png")
+plt.savefig(os.path.join(OUTDIR, "eda_13_book_page_count.png"))
 plt.close()
 print("Saved eda_13_book_page_count.png")
 
@@ -261,7 +266,7 @@ xticks = [3, 4, 5, 6, 7]
 ax.set_xticks(xticks)
 ax.set_xticklabels([f"10^{x}" for x in xticks])
 plt.tight_layout()
-plt.savefig("eda_14_imdb_votes_log.png")
+plt.savefig(os.path.join(OUTDIR, "eda_14_imdb_votes_log.png"))
 plt.close()
 print("Saved eda_14_imdb_votes_log.png")
 
