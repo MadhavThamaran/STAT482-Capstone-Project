@@ -1,12 +1,12 @@
 """
 build_final_200.py
 
-Reads the 838-row candidate pool (fiction_to_feature_films_2000_2024_guess.csv),
+Reads the 1679-row candidate pool (fiction_to_feature_films_1980_2024_guess.csv),
 applies inclusion/exclusion rules, assigns genre buckets, enforces year and genre
-diversity, and selects the final 200 book-to-movie adaptations.
+diversity, and selects the final 350 book-to-movie adaptations (1980-2024).
 
 Outputs:
-  book_movie_adaptations_final_200.csv      -- final 200 rows
+  book_movie_adaptations_final_200.csv      -- final 350 rows
   book_movie_adaptations_excluded.csv       -- dropped rows with reason
 """
 
@@ -19,7 +19,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 # ---------------------------------------------------------------------------
 # 1. Load candidate pool
 # ---------------------------------------------------------------------------
-df = pd.read_csv("fiction_to_feature_films_2000_2024_guess.csv", encoding="utf-8-sig")
+df = pd.read_csv("data/interim/fiction_to_feature_films_1980_2024_guess.csv", encoding="utf-8-sig")
 print(f"Loaded {len(df)} candidate rows")
 
 # ---------------------------------------------------------------------------
@@ -85,9 +85,9 @@ def exclude(mask, reason, df_pool, exc_list):
     return df_pool[~mask].copy()
 
 
-# 3a. Must have film year in 2000–2024
-mask = ~df["film_year"].between(2000, 2024)
-df = exclude(mask, "film_year_outside_2000_2024", df, excluded_rows)
+# 3a. Must have film year in 1980–2024
+mask = ~df["film_year"].between(1980, 2024)
+df = exclude(mask, "film_year_outside_1980_2024", df, excluded_rows)
 
 # 3b. Must have a parseable film title
 mask = df["film_title"].isna() | (df["film_title"].str.strip() == "")
@@ -394,18 +394,18 @@ GENRE_KEYWORDS = {
     ],
 }
 
-# Genre target ranges (min, max) per bucket
+# Genre target ranges (min, max) per bucket — scaled for 350 films (1980-2024)
 GENRE_TARGETS = {
-    "Drama_Literary":        (20, 53),  # broad catch-all for literary fiction
-    "Fantasy_SciFi":         (20, 30),
-    "Romance":               (10, 20),
-    "Thriller_Mystery_Crime":(20, 30),
-    "Horror":                (10, 20),
-    "Historical_Biography":  (10, 20),
-    "Family_Children_YA":    (15, 30),
-    "Action_Adventure":      (15, 25),
-    "Comedy_Satire":         (5,  15),
-    "Other":                 (0,  10),
+    "Drama_Literary":        (35, 90),
+    "Fantasy_SciFi":         (35, 55),
+    "Romance":               (18, 40),
+    "Thriller_Mystery_Crime":(35, 55),
+    "Horror":                (18, 40),
+    "Historical_Biography":  (18, 40),
+    "Family_Children_YA":    (25, 50),
+    "Action_Adventure":      (25, 45),
+    "Comedy_Satire":         (8,  25),
+    "Other":                 (0,  15),
 }
 
 
@@ -446,6 +446,10 @@ def release_period(year):
     if pd.isna(year):
         return None
     y = int(year)
+    if y <= 1984:   return "1980_1984"
+    if y <= 1989:   return "1985_1989"
+    if y <= 1994:   return "1990_1994"
+    if y <= 1999:   return "1995_1999"
     if y <= 2004:   return "2000_2004"
     if y <= 2009:   return "2005_2009"
     if y <= 2014:   return "2010_2014"
@@ -463,8 +467,9 @@ print(df["release_period"].value_counts().sort_index().to_string())
 # Strategy: stratified selection respecting genre targets and year balance.
 # Within each genre, sort by year spread to ensure temporal diversity.
 
-TARGET_TOTAL = 200
-YEAR_PERIODS = ["2000_2004", "2005_2009", "2010_2014", "2015_2019", "2020_2024"]
+TARGET_TOTAL = 350
+YEAR_PERIODS = ["1980_1984", "1985_1989", "1990_1994", "1995_1999",
+                "2000_2004", "2005_2009", "2010_2014", "2015_2019", "2020_2024"]
 MIN_PER_PERIOD = 25  # soft target
 
 selected_indices = []
@@ -543,7 +548,7 @@ for idx in all_remaining_sorted:
     genre_counts[genre] += 1
     period_counts[period] += 1
 
-print(f"After pass 2 (fill to 200): {len(selected_indices)} selected")
+print(f"After pass 2 (fill to 350): {len(selected_indices)} selected")
 
 # ---------------------------------------------------------------------------
 # 9. Build final and excluded DataFrames
@@ -591,7 +596,7 @@ excluded_out = all_excluded[excl_cols].copy()
 # 10. Print summary and save
 # ---------------------------------------------------------------------------
 
-print("\n=== FINAL 200 SUMMARY ===")
+print("\n=== FINAL 350 SUMMARY ===")
 print(f"Total rows: {len(final_df)}")
 print("\nGenre distribution:")
 print(final_df["genre_bucket"].value_counts().to_string())
@@ -600,9 +605,9 @@ print(final_df["release_period"].value_counts().sort_index().to_string())
 print(f"\nYear range: {final_df['movie_release_year'].min()} – {final_df['movie_release_year'].max()}")
 print(f"Excluded rows total: {len(excluded_out)}")
 
-final_df.to_csv("book_movie_adaptations_final_200.csv", index=False, encoding="utf-8-sig")
-excluded_out.to_csv("book_movie_adaptations_excluded.csv", index=False, encoding="utf-8-sig")
+final_df.to_csv("data/final/book_movie_adaptations_final_200.csv", index=False, encoding="utf-8-sig")
+excluded_out.to_csv("data/interim/book_movie_adaptations_excluded.csv", index=False, encoding="utf-8-sig")
 
 print("\nSaved:")
-print("  book_movie_adaptations_final_200.csv")
-print("  book_movie_adaptations_excluded.csv")
+print("  data/final/book_movie_adaptations_final_200.csv")
+print("  data/interim/book_movie_adaptations_excluded.csv")

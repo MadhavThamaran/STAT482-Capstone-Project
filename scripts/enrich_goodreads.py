@@ -26,10 +26,10 @@ from difflib import SequenceMatcher
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-FINAL_CSV   = "book_movie_adaptations_final_200.csv"
-GR_JSON     = "goodreads_books.json"
-OUT_CSV     = "book_movie_adaptations_final_200.csv"   # overwrite in place
-REPORT_CSV  = "goodreads_match_report.csv"
+FINAL_CSV   = "data/final/book_movie_adaptations_final_200.csv"
+GR_JSON     = "data/raw/goodreads_books.json"
+OUT_CSV     = "data/final/book_movie_adaptations_final_200.csv"
+REPORT_CSV  = "data/interim/goodreads_match_report.csv"
 
 # ── helpers ────────────────────────────────────────────────────────────────
 
@@ -238,8 +238,9 @@ print(f"\nSaved enriched CSV → {OUT_CSV}")
 # Match report
 matched   = enrich_df[enrich_df["goodreads_match_score"] > 0]
 unmatched = enrich_df[enrich_df["goodreads_match_score"] == 0]
-print(f"Matched:   {len(matched)}/200")
-print(f"Unmatched: {len(unmatched)}/200")
+total = len(df_out)
+print(f"Matched:   {len(matched)}/{total}")
+print(f"Unmatched: {len(unmatched)}/{total}")
 
 report = df_out[["row_id", "book_title", "book_author", "book_publication_year",
                   "goodreads_match_title", "goodreads_match_score",

@@ -1,0 +1,7 @@
+Rank,Title,Year,is_book,fields_to_fill,book_avg_rating,book_ratings_count,book_reviews_count,book_page_count,book_series_indicator,book_description_length
+157,Project Hail Mary,2026,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",4.51,1377860,192984,476,0,268
+199,The Bourne Ultimatum,2007,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",4.08,67553,1119,725,1,161
+234,It: Chapter Two,2019,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",4.24,1288572,44721,1184,0,140
+334,The Bourne Supremacy,2004,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",4.11,182612,1511,688,1,146
+373,The Hunger Games: The Ballad of Songbirds & Snakes,2023,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",3.99,1226426,139349,541,1,132
+392,Jason Bourne,2016,1,"book_avg_rating, book_ratings_count, book_reviews_count, book_page_count, book_series_indicator, book_description_length",3.87,3356,176,420,1,146

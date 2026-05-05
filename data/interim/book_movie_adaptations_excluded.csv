@@ -1,23 +1,48 @@
 ﻿book_title,book_author,film_title,film_year,fiction_work_raw,film_adaptation_raw,exclusion_reason
+One Thousand and One Nights,,Scooby-Doo in Arabian Nights,1994,One Thousand and One Nights (Arabic: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ ʾAlf Laylah wa-Laylah),Scooby-Doo in Arabian Nights (1994),missing_book_title_or_author
 One Thousand and One Nights,,Arabian Nights,2015,One Thousand and One Nights (Arabic: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ ʾAlf Laylah wa-Laylah),Arabian Nights (Portuguese: As Mil e uma Noites) (2015),missing_book_title_or_author
 Amu,Shonali Bose,Amu,2005,"Amu (2005), Shonali Bose",Amu (2005),book_not_published_before_film
+Christine,Stephen King,Christine,1983,"Christine (1983), Stephen King",Christine (1983),book_not_published_before_film
 The Christmas Secret,Donna VanLiere,The Christmas Secret,2002,"The Christmas Secret (2009), Donna VanLiere",The Christmas Secret (2002),book_not_published_before_film
 The Christmas Shoes,Donna VanLiere,The Christmas Shoes,2002,"The Christmas Shoes (2002), Donna VanLiere",The Christmas Shoes (2002),book_not_published_before_film
+Cocoon,David Saperstein,Cocoon,1985,"Cocoon (1985), David Saperstein",Cocoon (1985),book_not_published_before_film
 Dinner with a Perfect Stranger: An Invitation Worth Considering,David Gregory,The Perfect Stranger,2005,"Dinner with a Perfect Stranger: An Invitation Worth Considering (2005), David Gregory",The Perfect Stranger (2005),book_not_published_before_film
+Disclosure,Michael Crichton,Disclosure,1994,"Disclosure (1994), Michael Crichton",Disclosure (1994),book_not_published_before_film
+Kowloon Tong,Paul Theroux,Chinese Box,1997,"Kowloon Tong (1997), Paul Theroux",Chinese Box (1997),book_not_published_before_film
+A Lost Paradise,Junichi Watanabe,Lost Paradise,1997,"A Lost Paradise (失楽園, Shitsurakuen) (1997), Junichi Watanabe",Lost Paradise (1997),book_not_published_before_film
+The Shadow Riders,Louis L'Amour,The Shadow Riders,1982,"The Shadow Riders (1982), Louis L'Amour",The Shadow Riders (1982),book_not_published_before_film
 Sideways,Rex Pickett,Sideways,2004,"Sideways (2004), Rex Pickett",Sideways (2004),book_not_published_before_film
 The Sixth of May,Tomas Ross,06/05,2003,"The Sixth of May (Dutch: De Zesde Mei) (2003), Tomas Ross",06/05 (2003),book_not_published_before_film
 The Song of the Damned,Austregésilo Carrano Bueno,Brainstorm,2000,"The Song of the Damned (Portuguese: Canto dos Malditos) (2001), Austregésilo Carrano Bueno",Brainstorm (Portuguese: Bicho de Sete Cabeças) (2000),book_not_published_before_film
+Spirales,Christopher Frank,Spirale,1987,"Spirales (1987), Christopher Frank",Spirale (1987),book_not_published_before_film
 Adolphe,Benjamin Constant,Adolphe,2002,"Adolphe (1816), Benjamin Constant",Adolphe (2002),book_published_1850_or_earlier_or_unknown_year
+Beowulf,unknown,Beowulf,1999,"Beowulf (c. 700–1000 AD), unknown",Beowulf (1999),book_published_1850_or_earlier_or_unknown_year
 Beowulf,unknown,Beowulf & Grendel,2005,"Beowulf (c. 700–1000 AD), unknown",Beowulf & Grendel (2005),book_published_1850_or_earlier_or_unknown_year
 Beowulf,unknown,Beowulf,2007,"Beowulf (c. 700–1000 AD), unknown",Beowulf (2007),book_published_1850_or_earlier_or_unknown_year
+The Count of Monte Cristo,"Alexandre Dumas, père",Padayottam,1982,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",Padayottam (Malayalam: പടയോട്ടം) (1982),book_published_1850_or_earlier_or_unknown_year
+The Count of Monte Cristo,"Alexandre Dumas, père",Veta,1986,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",Veta (Telugu: వేట) (1986),book_published_1850_or_earlier_or_unknown_year
+The Count of Monte Cristo,"Alexandre Dumas, père",The Prisoner of Château d'If,1988,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",The Prisoner of Château d'If (Russian: Узник замка Иф) (1988),book_published_1850_or_earlier_or_unknown_year
+The Count of Monte Cristo,"Alexandre Dumas, père",The Count of Monte-Cristo,1992,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",The Count of Monte-Cristo (1992),book_published_1850_or_earlier_or_unknown_year
+The Count of Monte Cristo,"Alexandre Dumas, père",The Count of Monte Cristo,1997,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",The Count of Monte Cristo (1997),book_published_1850_or_earlier_or_unknown_year
 The Count of Monte Cristo,"Alexandre Dumas, père",The Count of Monte Cristo,2002,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",The Count of Monte Cristo (2002),book_published_1850_or_earlier_or_unknown_year
 The Count of Monte Cristo,"Alexandre Dumas, père",The Count of Monte Cristo,2024,"The Count of Monte Cristo (French: Le comte de Monte Cristo) (1844–1846), Alexandre Dumas, père",The Count of Monte Cristo (2024),book_published_1850_or_earlier_or_unknown_year
+The Dangerous Liaisons,Pierre Choderlos de Laclos,Les Liaisons dangereuses,1980,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Les Liaisons dangereuses (1980),book_published_1850_or_earlier_or_unknown_year
+The Dangerous Liaisons,Pierre Choderlos de Laclos,Dangerous Liaisons,1988,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Dangerous Liaisons (1988),book_published_1850_or_earlier_or_unknown_year
+The Dangerous Liaisons,Pierre Choderlos de Laclos,Valmont,1989,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Valmont (1989),book_published_1850_or_earlier_or_unknown_year
+The Dangerous Liaisons,Pierre Choderlos de Laclos,Cruel Intentions,1999,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Cruel Intentions (1999),book_published_1850_or_earlier_or_unknown_year
 The Dangerous Liaisons,Pierre Choderlos de Laclos,Untold Scandal,2003,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Untold Scandal (2003),book_published_1850_or_earlier_or_unknown_year
 The Dangerous Liaisons,Pierre Choderlos de Laclos,Michael Lucas' Dangerous Liaisons,2005,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Michael Lucas' Dangerous Liaisons (2005),book_published_1850_or_earlier_or_unknown_year
 The Dangerous Liaisons,Pierre Choderlos de Laclos,Dangerous Liaisons,2012,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Dangerous Liaisons (Chinese: 危險關係) (2012),book_published_1850_or_earlier_or_unknown_year
 The Dangerous Liaisons,Pierre Choderlos de Laclos,Dangerous Liaisons,2022,"The Dangerous Liaisons (French: Les Liaisons dangereuses) (1782), Pierre Choderlos de Laclos",Dangerous Liaisons (2022),book_published_1850_or_earlier_or_unknown_year
+David Copperfield,Charles Dickens,David Copperfield,1983,"David Copperfield (serialised 1849–1850, published as a book 1850), Charles Dickens",David Copperfield (1983),book_published_1850_or_earlier_or_unknown_year
+David Copperfield,Charles Dickens,David Copperfield,1993,"David Copperfield (serialised 1849–1850, published as a book 1850), Charles Dickens",David Copperfield (1993),book_published_1850_or_earlier_or_unknown_year
+David Copperfield,Charles Dickens,David Copperfield,1999,"David Copperfield (serialised 1849–1850, published as a book 1850), Charles Dickens",David Copperfield (1999),book_published_1850_or_earlier_or_unknown_year
 David Copperfield,Charles Dickens,David Copperfield,2000,"David Copperfield (serialised 1849–1850, published as a book 1850), Charles Dickens",David Copperfield (2000),book_published_1850_or_earlier_or_unknown_year
 David Copperfield,Charles Dickens,The Personal History of David Copperfield,2019,"David Copperfield (serialised 1849–1850, published as a book 1850), Charles Dickens",The Personal History of David Copperfield (2019),book_published_1850_or_earlier_or_unknown_year
+The Death of Arthur,Sir Thomas Malory,Excalibur,1981,"The Death of Arthur (French: Le Morte d'Arthur) (1485), Sir Thomas Malory",Excalibur (1981),book_published_1850_or_earlier_or_unknown_year
+Don Quixote,Miguel de Cervantes,Don Quixote,1983,"Don Quixote (1605–1615), Miguel de Cervantes",Don Quixote (Italian: Don Chisciotte) (1983),book_published_1850_or_earlier_or_unknown_year
+Don Quixote,Miguel de Cervantes,Don Quixote of La Mancha,1987,"Don Quixote (1605–1615), Miguel de Cervantes",Don Quixote of La Mancha (1987),book_published_1850_or_earlier_or_unknown_year
+Don Quixote,Miguel de Cervantes,Don Quixote Returns,1997,"Don Quixote (1605–1615), Miguel de Cervantes",Don Quixote Returns (Russian: Дон Кихот возвращается) (1997),book_published_1850_or_earlier_or_unknown_year
 Don Quixote,Miguel de Cervantes,Don Quixote,2000,"Don Quixote (1605–1615), Miguel de Cervantes",Don Quixote (2000),book_published_1850_or_earlier_or_unknown_year
 Don Quixote,Miguel de Cervantes,"Don Quixote, Knight Errant",2002,"Don Quixote (1605–1615), Miguel de Cervantes","Don Quixote, Knight Errant (Spanish: El caballero Don Quijote) (2002)",book_published_1850_or_earlier_or_unknown_year
 Don Quixote,Miguel de Cervantes,Honor of the Knights,2006,"Don Quixote (1605–1615), Miguel de Cervantes",Honor of the Knights (Catalan: Honor de cavalleria) (2006),book_published_1850_or_earlier_or_unknown_year
@@ -27,8 +52,31 @@ Don Quixote,Miguel de Cervantes,Don Quixote,2010,"Don Quixote (1605–1615), Mig
 Don Quixote,Miguel de Cervantes,Don Quixote,2015,"Don Quixote (1605–1615), Miguel de Cervantes",Don Quixote (2015),book_published_1850_or_earlier_or_unknown_year
 Don Quixote,Miguel de Cervantes,The Man Who Killed Don Quixote,2018,"Don Quixote (1605–1615), Miguel de Cervantes",The Man Who Killed Don Quixote (2018),book_published_1850_or_earlier_or_unknown_year
 Don Quixote,Miguel de Cervantes,The True Don Quixote,2019,"Don Quixote (1605–1615), Miguel de Cervantes",The True Don Quixote (2019),book_published_1850_or_earlier_or_unknown_year
+Emma,Jane Austen,Clueless,1995,"Emma (1815), Jane Austen",Clueless (1995),book_published_1850_or_earlier_or_unknown_year
+Emma,Jane Austen,Emma,1996,"Emma (1815), Jane Austen",Emma (1996),book_published_1850_or_earlier_or_unknown_year
 Emma,Jane Austen,Aisha,2010,"Emma (1815), Jane Austen",Aisha (2010),book_published_1850_or_earlier_or_unknown_year
 Emma,Jane Austen,Emma.,2020,"Emma (1815), Jane Austen",Emma. (2020),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,"Frankenstein (恐怖伝説 怪奇！フランケンシュタイン, Kyōfu Densetsu: Kaiki! Furankenshutain)",1981,"Frankenstein (1818), Mary Shelley","Frankenstein (恐怖伝説 怪奇！フランケンシュタイン, Kyōfu Densetsu: Kaiki! Furankenshutain) (1981)",book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein Island,1981,"Frankenstein (1818), Mary Shelley",Frankenstein Island (1981),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein's Mother-in-Law,1983,"Frankenstein (1818), Mary Shelley",Frankenstein's Mother-in-Law (German: Frankensteins Schwiegermutter) (1983),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein,1984,"Frankenstein (1818), Mary Shelley",Frankenstein (1984),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein 90,1984,"Frankenstein (1818), Mary Shelley",Frankenstein 90 (1984),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein's Great Aunt Tillie,1984,"Frankenstein (1818), Mary Shelley",Frankenstein's Great Aunt Tillie (1984),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,The Bride,1985,"Frankenstein (1818), Mary Shelley",The Bride (1985),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein,1986,"Frankenstein (1818), Mary Shelley",Frankenstein (1986),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein General Hospital,1988,"Frankenstein (1818), Mary Shelley",Frankenstein General Hospital (1988),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenhooker,1990,"Frankenstein (1818), Mary Shelley",Frankenhooker (1990),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein Unbound,1990,"Frankenstein (1818), Mary Shelley",Frankenstein Unbound (1990),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frank Enstein,1991,"Frankenstein (1818), Mary Shelley",Frank Enstein (1991),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein: The College Years,1991,"Frankenstein (1818), Mary Shelley",Frankenstein: The College Years (1991),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein,1992,"Frankenstein (1818), Mary Shelley",Frankenstein (1992),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Mary Shelley's Frankenstein,1994,"Frankenstein (1818), Mary Shelley",Mary Shelley's Frankenstein (1994),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein and Me,1996,"Frankenstein (1818), Mary Shelley",Frankenstein and Me (1996),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Billy Frankenstein,1998,"Frankenstein (1818), Mary Shelley",Billy Frankenstein (1998),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Lust for Frankenstein,1998,"Frankenstein (1818), Mary Shelley",Lust for Frankenstein (1998),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Frankenstein Reborn!,1998,"Frankenstein (1818), Mary Shelley",Frankenstein Reborn! (1998),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Rock 'N Roll Frankenstein,1999,"Frankenstein (1818), Mary Shelley",Rock 'N Roll Frankenstein (1999),book_published_1850_or_earlier_or_unknown_year
+Frankenstein,Mary Shelley,Alvin and the Chipmunks Meet Frankenstein,1999,"Frankenstein (1818), Mary Shelley",Alvin and the Chipmunks Meet Frankenstein (1999),book_published_1850_or_earlier_or_unknown_year
 Frankenstein,Mary Shelley,Van Helsing,2004,"Frankenstein (1818), Mary Shelley",Van Helsing (2004),book_published_1850_or_earlier_or_unknown_year
 Frankenstein,Mary Shelley,Frankenstein,2004,"Frankenstein (1818), Mary Shelley",Frankenstein (2004),book_published_1850_or_earlier_or_unknown_year
 Frankenstein,Mary Shelley,Frankenstein vs. the Creature from Blood Cove,2005,"Frankenstein (1818), Mary Shelley",Frankenstein vs. the Creature from Blood Cove (2005),book_published_1850_or_earlier_or_unknown_year
@@ -42,12 +90,42 @@ Frankenstein,Mary Shelley,Army of Frankensteins,2014,"Frankenstein (1818), Mary 
 Frankenstein,Mary Shelley,Frankenstein vs. The Mummy,2015,"Frankenstein (1818), Mary Shelley",Frankenstein vs. The Mummy (2015),book_published_1850_or_earlier_or_unknown_year
 Frankenstein,Mary Shelley,FRANKƐN5TƐ1N,2015,"Frankenstein (1818), Mary Shelley",FRANKƐN5TƐ1N (2015),book_published_1850_or_earlier_or_unknown_year
 Frankenstein,Mary Shelley,Victor Frankenstein,2015,"Frankenstein (1818), Mary Shelley",Victor Frankenstein (2015),book_published_1850_or_earlier_or_unknown_year
+Gulliver's Travels,Jonathan Swift,Gulliver in the Country of Giants,1980,"Gulliver's Travels (1726), Jonathan Swift",Gulliver in the Country of Giants (Hungarian: Gulliver az óriások országában) (1980),book_published_1850_or_earlier_or_unknown_year
+Gulliver's Travels,Jonathan Swift,Gulliver's Travels,1983,"Gulliver's Travels (1726), Jonathan Swift",Gulliver's Travels (Spanish: Los viajes de Gulliver) (1983),book_published_1850_or_earlier_or_unknown_year
+Gulliver's Travels,Jonathan Swift,Gulliver's Travels (1996) (V),1996,"Gulliver's Travels (1726), Jonathan Swift",Gulliver's Travels (1996) (V),book_published_1850_or_earlier_or_unknown_year
+Gulliver's Travels,Jonathan Swift,Crayola Kids Adventures: Tales of Gulliver's Travels,1997,"Gulliver's Travels (1726), Jonathan Swift",Crayola Kids Adventures: Tales of Gulliver's Travels (1997),book_published_1850_or_earlier_or_unknown_year
 Gulliver's Travels,Jonathan Swift,Jajantaram Mamantaram,2003,"Gulliver's Travels (1726), Jonathan Swift",Jajantaram Mamantaram (2003),book_published_1850_or_earlier_or_unknown_year
 Gulliver's Travels,Jonathan Swift,Gulliver's Travel,2005,"Gulliver's Travels (1726), Jonathan Swift",Gulliver's Travel (2005),book_published_1850_or_earlier_or_unknown_year
 Gulliver's Travels,Jonathan Swift,Gulliver's Travels,2010,"Gulliver's Travels (1726), Jonathan Swift",Gulliver's Travels (2010),book_published_1850_or_earlier_or_unknown_year
+"The History of Tom Jones, a Foundling",Henry Fielding,Tom Jones,1996,"The History of Tom Jones, a Foundling (1749), Henry Fielding",Tom Jones (1996),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame,1982,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1982),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame,1986,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1986),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Secret of the Hunchback,1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Secret of the Hunchback (1996),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame (1996; Golden Films),1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1996; Golden Films),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame (1996; Jetlag Productions),1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1996; Jetlag Productions),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame (1996; Burbank Animation Studios),1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1996; Burbank Animation Studios),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame (1996; Walt Disney Animation Studios),1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1996; Walt Disney Animation Studios),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame (1996; Dingo Pictures),1996,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame (1996; Dingo Pictures),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,The Hunchback,1997,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback (1997),book_published_1850_or_earlier_or_unknown_year
+The Hunchback of Notre-Dame,Victor Hugo,Quasimodo d'El Paris,1999,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",Quasimodo d'El Paris (1999),book_published_1850_or_earlier_or_unknown_year
 The Hunchback of Notre-Dame,Victor Hugo,The Hunchback of Notre Dame II,2002,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",The Hunchback of Notre Dame II (2002),book_published_1850_or_earlier_or_unknown_year
 The Hunchback of Notre-Dame,Victor Hugo,Quasi,2023,"The Hunchback of Notre-Dame (French: Notre-Dame de Paris. 1482) (1831), Victor Hugo",Quasi (2023),book_published_1850_or_earlier_or_unknown_year
+Ivanhoe,Sir Walter Scott,Ivanhoe,1982,"Ivanhoe (1820), Sir Walter Scott",Ivanhoe (1982),book_published_1850_or_earlier_or_unknown_year
+Ivanhoe,Sir Walter Scott,The Ballad of the Valiant Knight Ivanhoe,1983,"Ivanhoe (1820), Sir Walter Scott",The Ballad of the Valiant Knight Ivanhoe (Russian: Баллада о доблестном рыцаре Айвенго) (1983),book_published_1850_or_earlier_or_unknown_year
+Ivanhoe,Sir Walter Scott,Ivanhoe,1986,"Ivanhoe (1820), Sir Walter Scott",Ivanhoe (1986),book_published_1850_or_earlier_or_unknown_year
+Ivanhoe,Sir Walter Scott,Young Ivanhoe,1995,"Ivanhoe (1820), Sir Walter Scott",Young Ivanhoe (1995),book_published_1850_or_earlier_or_unknown_year
+Ivanhoe,Sir Walter Scott,The Legend of Ivanhoe,1999,"Ivanhoe (1820), Sir Walter Scott",The Legend of Ivanhoe (1999),book_published_1850_or_earlier_or_unknown_year
+Jane Eyre,Charlotte Brontë,Jane Eyre,1996,"Jane Eyre (1847), Charlotte Brontë",Jane Eyre (1996),book_published_1850_or_earlier_or_unknown_year
+Jane Eyre,Charlotte Brontë,Jane Eyre,1997,"Jane Eyre (1847), Charlotte Brontë",Jane Eyre (1997),book_published_1850_or_earlier_or_unknown_year
 Jane Eyre,Charlotte Brontë,Jane Eyre,2011,"Jane Eyre (1847), Charlotte Brontë",Jane Eyre (2011),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,Ginseng Fruit (人参果; Renshenguo),1981,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Ginseng Fruit (人参果; Renshenguo) (1981),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,New Pilgrims to the West (新西遊記; Xīnxīyóujì),1982,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",New Pilgrims to the West (新西遊記; Xīnxīyóujì) (1982),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,Monkey War (新西遊記續集 孫悟空大戰飛人國; Sun Wu Kong dai zhan fei ren kuo),1982,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Monkey War (新西遊記續集 孫悟空大戰飛人國; Sun Wu Kong dai zhan fei ren kuo) (1982),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,The Monkey King Conquers the Demon (金猴降妖; Jīn hóu jiàng yāo),1985,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",The Monkey King Conquers the Demon (金猴降妖; Jīn hóu jiàng yāo) (1985),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,Go West to Subdue Demons (西行平妖; Xi Xing Ping Yao),1992,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Go West to Subdue Demons (西行平妖; Xi Xing Ping Yao) (1992),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,A Chinese Odyssey Part One: Pandora's Box (西遊記第壹佰零壹回之月光寶盒; Xīyóujì Dì Yībǎilíngyī Huí Zhī Yuèguāng Bǎohé),1995,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",A Chinese Odyssey Part One: Pandora's Box (西遊記第壹佰零壹回之月光寶盒; Xīyóujì Dì Yībǎilíngyī Huí Zhī Yuèguāng Bǎohé) (1995),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,A Chinese Odyssey Part Two: Cinderella (西遊記大結局之仙履奇緣; Xīyóujì Dà Jiéjú Zhī Xiānlǚ Qíyuán),1995,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",A Chinese Odyssey Part Two: Cinderella (西遊記大結局之仙履奇緣; Xīyóujì Dà Jiéjú Zhī Xiānlǚ Qíyuán) (1995),book_published_1850_or_earlier_or_unknown_year
+Journey to the West,Wu Cheng'en,Heavenly Legend,1998,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Heavenly Legend (1998),book_published_1850_or_earlier_or_unknown_year
 Journey to the West,Wu Cheng'en,My Son Goku (ぼくの孫悟空),2003,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",My Son Goku (ぼくの孫悟空) (2003),book_published_1850_or_earlier_or_unknown_year
 Journey to the West,Wu Cheng'en,A Chinese Tall Story,2005,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",A Chinese Tall Story (Chinese: 情癲大聖; Cantonese Yale: Ching din dai sing) (2005),book_published_1850_or_earlier_or_unknown_year
 Journey to the West,Wu Cheng'en,Fire Ball (紅孩兒：決戰火焰山),2005,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Fire Ball (紅孩兒：決戰火焰山) (2005),book_published_1850_or_earlier_or_unknown_year
@@ -62,31 +140,75 @@ Journey to the West,Wu Cheng'en,A Chinese Odyssey Part Three (大话西游3),201
 Journey to the West,Wu Cheng'en,Journey to the West: The Demons Strike Back (西遊伏妖篇),2017,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",Journey to the West: The Demons Strike Back (西遊伏妖篇) (2017),book_published_1850_or_earlier_or_unknown_year
 Journey to the West,Wu Cheng'en,The Monkey King 3 (西遊記女兒國; Xī yóu jì nǚ'ér guó),2018,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",The Monkey King 3 (西遊記女兒國; Xī yóu jì nǚ'ér guó) (2018),book_published_1850_or_earlier_or_unknown_year
 Journey to the West,Wu Cheng'en,The Monkey King,2023,"Journey to the West (Chinese: 西遊記, Xī Yóu Jì) (c. 1592), Wu Cheng'en",The Monkey King (2023),book_published_1850_or_earlier_or_unknown_year
+The Lady of the Camellias,"Alexandre Dumas, fils",Camille 2000,2000,"The Lady of the Camellias (French: La Dame aux Camélias) (1848), Alexandre Dumas, fils",Camille 2000 (1969),book_published_1850_or_earlier_or_unknown_year
+The Lady of the Camellias,"Alexandre Dumas, fils",The Lady of the Camellias,1981,"The Lady of the Camellias (French: La Dame aux Camélias) (1848), Alexandre Dumas, fils",The Lady of the Camellias (1981),book_published_1850_or_earlier_or_unknown_year
+The Lady of the Camellias,"Alexandre Dumas, fils",Camille,1984,"The Lady of the Camellias (French: La Dame aux Camélias) (1848), Alexandre Dumas, fils",Camille (1984),book_published_1850_or_earlier_or_unknown_year
+The Lady of the Camellias,"Alexandre Dumas, fils",The Lady of the Camellias,1994,"The Lady of the Camellias (French: La Dame aux Camélias) (1848), Alexandre Dumas, fils",The Lady of the Camellias (Polish: Dama kameliowa) (1994),book_published_1850_or_earlier_or_unknown_year
+The Last of the Mohicans,James Fenimore Cooper,The Last of the Mohicans,1987,"The Last of the Mohicans (1826), James Fenimore Cooper",The Last of the Mohicans (1987),book_published_1850_or_earlier_or_unknown_year
+The Last of the Mohicans,James Fenimore Cooper,The Last of the Mohicans,1992,"The Last of the Mohicans (1826), James Fenimore Cooper",The Last of the Mohicans (1992),book_published_1850_or_earlier_or_unknown_year
 "The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne,A Cock and Bull Story,2006,"The Life and Opinions of Tristram Shandy, Gentleman (1759–1767), Laurence Sterne",A Cock and Bull Story (2006),book_published_1850_or_earlier_or_unknown_year
+Nicholas Nickleby,Charles Dickens,Nicholas Nickleby,1985,"Nicholas Nickleby (serialised 1838–1839, published as a book 1839), Charles Dickens",Nicholas Nickleby (1985),book_published_1850_or_earlier_or_unknown_year
 Nicholas Nickleby,Charles Dickens,The Life and Adventures of Nicholas Nickleby,2001,"Nicholas Nickleby (serialised 1838–1839, published as a book 1839), Charles Dickens",The Life and Adventures of Nicholas Nickleby (2001),book_published_1850_or_earlier_or_unknown_year
 Nicholas Nickleby,Charles Dickens,Nicholas Nickleby,2002,"Nicholas Nickleby (serialised 1838–1839, published as a book 1839), Charles Dickens",Nicholas Nickleby (2002),book_published_1850_or_earlier_or_unknown_year
+Odyssey,Homer,The Odyssey,1987,"Odyssey (8th century BC), Homer",The Odyssey (1987),book_published_1850_or_earlier_or_unknown_year
+Odyssey,Homer,Ulysses' Gaze,1995,"Odyssey (8th century BC), Homer","Ulysses' Gaze (Greek: Το βλέμμα του Οδυσσέα, To Vlemma tou Odyssea) (1995)",book_published_1850_or_earlier_or_unknown_year
 Odyssey,Homer,"O Brother, Where Art Thou?",2000,"Odyssey (8th century BC), Homer","O Brother, Where Art Thou? (2000)",book_published_1850_or_earlier_or_unknown_year
 Odyssey,Homer,Odysseus and the Isle of the Mists,2007,"Odyssey (8th century BC), Homer",Odysseus and the Isle of the Mists (2007),book_published_1850_or_earlier_or_unknown_year
+The Old Curiosity Shop,Charles Dickens,The Old Curiosity Shop,1984,"The Old Curiosity Shop (serialised 1840–1841, published as a book 1841), Charles Dickens",The Old Curiosity Shop (1984),book_published_1850_or_earlier_or_unknown_year
+The Old Curiosity Shop,Charles Dickens,The Old Curiosity Shop,1995,"The Old Curiosity Shop (serialised 1840–1841, published as a book 1841), Charles Dickens",The Old Curiosity Shop (1995),book_published_1850_or_earlier_or_unknown_year
 The Old Curiosity Shop,Charles Dickens,The Old Curiosity Shop,2007,"The Old Curiosity Shop (serialised 1840–1841, published as a book 1841), Charles Dickens",The Old Curiosity Shop (2007),book_published_1850_or_earlier_or_unknown_year
+Oliver Twist,Charles Dickens,"Oliver Twist (1982, Hallmark Hall of Fame) (TV)",1982,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens","Oliver Twist (1982, Hallmark Hall of Fame) (TV)",book_published_1850_or_earlier_or_unknown_year
+Oliver Twist,Charles Dickens,"Oliver Twist (1982, Burbank Films Australia) (TV)",1982,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens","Oliver Twist (1982, Burbank Films Australia) (TV)",book_published_1850_or_earlier_or_unknown_year
+Oliver Twist,Charles Dickens,Oliver & Company,1988,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Oliver & Company (1988),book_published_1850_or_earlier_or_unknown_year
+Oliver Twist,Charles Dickens,Oliver Twist,1997,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Oliver Twist (1997),book_published_1850_or_earlier_or_unknown_year
 Oliver Twist,Charles Dickens,Twist,2003,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Twist (2003),book_published_1850_or_earlier_or_unknown_year
 Oliver Twist,Charles Dickens,Boy called Twist,2004,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Boy called Twist (2004),book_published_1850_or_earlier_or_unknown_year
 Oliver Twist,Charles Dickens,Oliver Twist,2005,"Oliver Twist (serialised 1837–1839, published as a book 1838), Charles Dickens",Oliver Twist (2005),book_published_1850_or_earlier_or_unknown_year
+The Pickwick Papers,Charles Dickens,The Pickwick Papers,1985,"The Pickwick Papers (serialised 1836–1837, published as a book 1837), Charles Dickens",The Pickwick Papers (1985),book_published_1850_or_earlier_or_unknown_year
+The Pickwick Papers,Charles Dickens,Ghost Stories from the Pickwick Papers,1987,"The Pickwick Papers (serialised 1836–1837, published as a book 1837), Charles Dickens",Ghost Stories from the Pickwick Papers (1987),book_published_1850_or_earlier_or_unknown_year
 Pride and Prejudice,Jane Austen,Pride & Prejudice: A Latter-Day Comedy,2003,"Pride and Prejudice (1813), Jane Austen",Pride & Prejudice: A Latter-Day Comedy (2003),book_published_1850_or_earlier_or_unknown_year
 Pride and Prejudice,Jane Austen,Bride and Prejudice,2004,"Pride and Prejudice (1813), Jane Austen",Bride and Prejudice (2004),book_published_1850_or_earlier_or_unknown_year
 Pride and Prejudice,Jane Austen,Pride & Prejudice,2005,"Pride and Prejudice (1813), Jane Austen",Pride & Prejudice (2005),book_published_1850_or_earlier_or_unknown_year
+Robinson Crusoe,Daniel Defoe,Robinson Crusoe mercante di York,1981,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe mercante di York (1981),book_published_1850_or_earlier_or_unknown_year
+Robinson Crusoe,Daniel Defoe,"Adventures of Robinson Crusoe, a Sailor from York",1982,"Robinson Crusoe (1719), Daniel Defoe","Adventures of Robinson Crusoe, a Sailor from York (Czech: Dobrodružství Robinsona Crusoe, námořníka z Yorku) (1982)",book_published_1850_or_earlier_or_unknown_year
+Robinson Crusoe,Daniel Defoe,Crusoe,1988,"Robinson Crusoe (1719), Daniel Defoe",Crusoe (1988),book_published_1850_or_earlier_or_unknown_year
+Robinson Crusoe,Daniel Defoe,Robinson and Company,1991,"Robinson Crusoe (1719), Daniel Defoe",Robinson and Company (French: Robinson et compagnie) (1991),book_published_1850_or_earlier_or_unknown_year
+Robinson Crusoe,Daniel Defoe,Robinson Crusoe,1997,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe (1997),book_published_1850_or_earlier_or_unknown_year
 Robinson Crusoe,Daniel Defoe,Robinson Crusoe,2004,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe (Greek: Rovinsonas Krousos) (2004),book_published_1850_or_earlier_or_unknown_year
 Robinson Crusoe,Daniel Defoe,Robinson Crusoe on Sin Island,2005,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe on Sin Island (2005),book_published_1850_or_earlier_or_unknown_year
 Robinson Crusoe,Daniel Defoe,Robinson Crusoe: The Great Blitzkrieg,2008,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe: The Great Blitzkrieg (2008),book_published_1850_or_earlier_or_unknown_year
 Robinson Crusoe,Daniel Defoe,Robinson Crusoe & Cuma,2015,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe & Cuma (2015),book_published_1850_or_earlier_or_unknown_year
 Robinson Crusoe,Daniel Defoe,Robinson Crusoe,2016,"Robinson Crusoe (1719), Daniel Defoe",Robinson Crusoe (2016),book_published_1850_or_earlier_or_unknown_year
+Romance of the Three Kingdoms,Luo Guanzhong,Sangokushi (三国志),1985,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Sangokushi (三国志) (1985),book_published_1850_or_earlier_or_unknown_year
+Romance of the Three Kingdoms,Luo Guanzhong,Sangokushi II: Amakakeru Otoko-tachi (三国志II 天翔ける英雄たち),1986,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Sangokushi II: Amakakeru Otoko-tachi (三国志II 天翔ける英雄たち) (1986),book_published_1850_or_earlier_or_unknown_year
+Romance of the Three Kingdoms,Luo Guanzhong,Sangokushi (1): Eiyū-tachi no Yoake (三国志（第1部） 英雄たちの夜明け),1992,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Sangokushi (1): Eiyū-tachi no Yoake (三国志（第1部） 英雄たちの夜明け) (1992),book_published_1850_or_earlier_or_unknown_year
+Romance of the Three Kingdoms,Luo Guanzhong,Sangokushi (2): Chōkō Moyu! (三国志（第2部） 長江燃ゆ！),1993,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Sangokushi (2): Chōkō Moyu! (三国志（第2部） 長江燃ゆ！) (1993),book_published_1850_or_earlier_or_unknown_year
+Romance of the Three Kingdoms,Luo Guanzhong,Sangokushi (3): Harukanaru Taichi (三国志（第3部） 遥かなる大地),1994,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Sangokushi (3): Harukanaru Taichi (三国志（第3部） 遥かなる大地) (1994),book_published_1850_or_earlier_or_unknown_year
 Romance of the Three Kingdoms,Luo Guanzhong,Three Kingdoms: Resurrection of the Dragon (三國之見龍卸甲; Sān Guó Zhī Jiàn Lóng Xiè Jiǎ),2008,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Three Kingdoms: Resurrection of the Dragon (三國之見龍卸甲; Sān Guó Zhī Jiàn Lóng Xiè Jiǎ) (2008),book_published_1850_or_earlier_or_unknown_year
 Romance of the Three Kingdoms,Luo Guanzhong,Red Cliff (赤壁; Chì Bì) (2008–09),2008,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Red Cliff (赤壁; Chì Bì) (2008–09),book_published_1850_or_earlier_or_unknown_year
 Romance of the Three Kingdoms,Luo Guanzhong,The Lost Bladesman (關雲長; Guān Yún cháng),2011,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",The Lost Bladesman (關雲長; Guān Yún cháng) (2011),book_published_1850_or_earlier_or_unknown_year
 Romance of the Three Kingdoms,Luo Guanzhong,The Assassins (铜雀台; Tóng Què Tái),2012,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",The Assassins (铜雀台; Tóng Què Tái) (2012),book_published_1850_or_earlier_or_unknown_year
 Romance of the Three Kingdoms,Luo Guanzhong,Dynasty Warriors (真·三国无双; Zhēn Sān Guó Wú Shuāng),2021,"Romance of the Three Kingdoms (三國演義; Sānguó Yǎnyì) (14th century), Luo Guanzhong",Dynasty Warriors (真·三国无双; Zhēn Sān Guó Wú Shuāng) (2021),book_published_1850_or_earlier_or_unknown_year
+The Scarlet Letter,Nathaniel Hawthorne,The Scarlet Letter,1995,"The Scarlet Letter (1850), Nathaniel Hawthorne",The Scarlet Letter (1995),book_published_1850_or_earlier_or_unknown_year
+Sense and Sensibility,Jane Austen,Sense and Sensibility,1995,"Sense and Sensibility (1811), Jane Austen",Sense and Sensibility (1995),book_published_1850_or_earlier_or_unknown_year
 Sense and Sensibility,Jane Austen,Kandukondain Kandukondain,2000,"Sense and Sensibility (1811), Jane Austen",Kandukondain Kandukondain (2000),book_published_1850_or_earlier_or_unknown_year
 Sense and Sensibility,Jane Austen,From Prada to Nada,2011,"Sense and Sensibility (1811), Jane Austen",From Prada to Nada (2011),book_published_1850_or_earlier_or_unknown_year
+The Swiss Family Robinson,Johann David Wyss,Swiss Family Robinson,1996,"The Swiss Family Robinson (French: Der Schweizerische Robinson) (1812), Johann David Wyss",Swiss Family Robinson (1996),book_published_1850_or_earlier_or_unknown_year
+The Swiss Family Robinson,Johann David Wyss,The Adventures of Swiss Family Robinson,1998,"The Swiss Family Robinson (French: Der Schweizerische Robinson) (1812), Johann David Wyss",The Adventures of Swiss Family Robinson (1998),book_published_1850_or_earlier_or_unknown_year
+The Swiss Family Robinson,Johann David Wyss,Beverly Hills Family Robinson,1997,"The Swiss Family Robinson (French: Der Schweizerische Robinson) (1812), Johann David Wyss",Beverly Hills Family Robinson (1997),book_published_1850_or_earlier_or_unknown_year
+The Swiss Family Robinson,Johann David Wyss,The New Swiss Family Robinson,1999,"The Swiss Family Robinson (French: Der Schweizerische Robinson) (1812), Johann David Wyss",The New Swiss Family Robinson (1999),book_published_1850_or_earlier_or_unknown_year
 The Swiss Family Robinson,Johann David Wyss,Stranded,2002,"The Swiss Family Robinson (French: Der Schweizerische Robinson) (1812), Johann David Wyss",Stranded (2002),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Crazy Story of the Three Musketeers,1983,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Crazy Story of the Three Musketeers (Spanish: La loca historia de los tres mosqueteros) (1983),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",D'Artagnan Junior,1984,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",D'Artagnan Junior (French: Le Fou du roi) (1984),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Three Musketeers,1986,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Musketeers (1986),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Three Mouseketeers,1988,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Mouseketeers (Romanian: Uimitoarele aventuri ale muschetarilor) (1988),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père","The Three Musketeers Anime: Aramis' Adventure (アニメ三銃士 アラミスの冒険, Anime Sanjūshi: Aramisu no Bōken)",1989,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père","The Three Musketeers Anime: Aramis' Adventure (アニメ三銃士 アラミスの冒険, Anime Sanjūshi: Aramisu no Bōken) (1989)",book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père","Kero Kero Keroppi's Three Musketeers (けろけろけろっぴの三銃士, Kero Kero Keroppi no Sanjūshi)",1991,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père","Kero Kero Keroppi's Three Musketeers (けろけろけろっぴの三銃士, Kero Kero Keroppi no Sanjūshi) (1991)",book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Three Musketeers,1992,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Musketeers (1992),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Erotic Adventures of the Three Musketeers,1992,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Erotic Adventures of the Three Musketeers (1992),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",Ring of the Musketeers [de],1992,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",Ring of the Musketeers [de] (1992),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",The Three Musketeers,1993,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Musketeers (1993),book_published_1850_or_earlier_or_unknown_year
+The Three Musketeers,"Alexandre Dumas, père",Revenge of the Musketeers,1994,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",Revenge of the Musketeers (French: La fille de d'Artagnan) (1994),book_published_1850_or_earlier_or_unknown_year
 The Three Musketeers,"Alexandre Dumas, père",The Musketeer,2001,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Musketeer (2001),book_published_1850_or_earlier_or_unknown_year
 The Three Musketeers,"Alexandre Dumas, père",La Femme Musketeer,2004,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",La Femme Musketeer (2004),book_published_1850_or_earlier_or_unknown_year
 The Three Musketeers,"Alexandre Dumas, père","Mickey, Donald, Goofy: The Three Musketeers",2004,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père","Mickey, Donald, Goofy: The Three Musketeers (2004)",book_published_1850_or_earlier_or_unknown_year
@@ -104,12 +226,19 @@ The Three Musketeers,"Alexandre Dumas, père",The King's Musketeers 2,2020,"The 
 The Three Musketeers,"Alexandre Dumas, père",Dogtanian and the Three Muskehounds,2021,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",Dogtanian and the Three Muskehounds (Spanish: D'Artacán y los Tres Mosqueperros) (2021),book_published_1850_or_earlier_or_unknown_year
 The Three Musketeers,"Alexandre Dumas, père",The Three Musketeers: D'Artagnan,2023,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Musketeers: D'Artagnan (2023),book_published_1850_or_earlier_or_unknown_year
 The Three Musketeers,"Alexandre Dumas, père",The Three Musketeers: Milady,2023,"The Three Musketeers (French: Les Trois Mousquetaires) (1844), Alexandre Dumas, père",The Three Musketeers: Milady (2023),book_published_1850_or_earlier_or_unknown_year
+Twenty Years After,"Alexandre Dumas, père",The Return of the Musketeers,1989,"Twenty Years After (French: Vingt ans après) (1845), Alexandre Dumas, père",The Return of the Musketeers (1989),book_published_1850_or_earlier_or_unknown_year
 Vanity Fair,William Makepeace Thackeray,Vanity Fair,2004,"Vanity Fair (1847–1848), William Makepeace Thackeray",Vanity Fair (2004),book_published_1850_or_earlier_or_unknown_year
+The Vicomte of Bragelonne: Ten Years Later,"Alexandre Dumas, père",The Man in the Iron Mask,1985,"The Vicomte of Bragelonne: Ten Years Later (French: Le Vicomte de Bragelonne ou Dix ans plus tard) (1847–1850), Alexandre Dumas, père",The Man in the Iron Mask (1985),book_published_1850_or_earlier_or_unknown_year
+The Vicomte of Bragelonne: Ten Years Later,"Alexandre Dumas, père",The Man in the Iron Mask,1998,"The Vicomte of Bragelonne: Ten Years Later (French: Le Vicomte de Bragelonne ou Dix ans plus tard) (1847–1850), Alexandre Dumas, père",The Man in the Iron Mask (1998),book_published_1850_or_earlier_or_unknown_year
 Wieland,Charles Brockden Brown,Wieland,2024,"Wieland (1798), Charles Brockden Brown",Wieland (2024),book_published_1850_or_earlier_or_unknown_year
+Wuthering Heights,Emily Brontë,Emily Brontë's Wuthering Heights,1992,"Wuthering Heights (1847), Emily Brontë",Emily Brontë's Wuthering Heights (1992),book_published_1850_or_earlier_or_unknown_year
 Wuthering Heights,Emily Brontë,Wuthering Heights,2003,"Wuthering Heights (1847), Emily Brontë",Wuthering Heights (2003),book_published_1850_or_earlier_or_unknown_year
 Wuthering Heights,Emily Brontë,Wuthering Heights,2011,"Wuthering Heights (1847), Emily Brontë",Wuthering Heights (2011),book_published_1850_or_earlier_or_unknown_year
 The Adventures of Captain Alatriste,Arturo Pérez-Reverte,Alatriste,2006,"The Adventures of Captain Alatriste (Spanish: Las aventuras del capitán Alatriste) (1996–present) (series), Arturo Pérez-Reverte",Alatriste (2006),source_is_series_not_single_book
+Biggles,W. E. Johns,Biggles: Adventures in Time,1986,"Biggles (1932–1968) (series), W. E. Johns",Biggles: Adventures in Time (1986),source_is_series_not_single_book
+The Black Stallion,Walter Farley,The Black Stallion Returns,1983,"The Black Stallion (1941–1989) (series), Walter Farley",The Black Stallion Returns (1983),source_is_series_not_single_book
 The Black Stallion,Walter Farley,The Young Black Stallion,2003,"The Black Stallion (1941–1989) (series), Walter Farley",The Young Black Stallion (2003),source_is_series_not_single_book
+Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Identity,1988,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Identity (1988),source_is_series_not_single_book
 Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Identity,2002,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Identity (2002),source_is_series_not_single_book
 Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Supremacy,2004,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Supremacy (2004),source_is_series_not_single_book
 Bourne,Robert Ludlum and Eric Van Lustbader,The Bourne Ultimatum,2007,"Bourne (1980–2012) (series), Robert Ludlum and Eric Van Lustbader",The Bourne Ultimatum (2007),source_is_series_not_single_book
@@ -124,6 +253,8 @@ The Cheetah Girls,Deborah Gregory,The Cheetah Girls: One World,2008,"The Cheetah
 The Chronicles of Narnia,C.S. Lewis,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",source_is_series_not_single_book
 The Chronicles of Narnia,C.S. Lewis,The Chronicles of Narnia: Prince Caspian,2008,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis",The Chronicles of Narnia: Prince Caspian (2008),source_is_series_not_single_book
 The Chronicles of Narnia,C.S. Lewis,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,"The Chronicles of Narnia (1950–1956) (series), C.S. Lewis",The Chronicles of Narnia: The Voyage of the Dawn Treader (2010),source_is_series_not_single_book
+The Chronicles of Prydain,Lloyd Alexander,The Black Cauldron,1985,"The Chronicles of Prydain (1964—1968) (series), Lloyd Alexander",The Black Cauldron (1985),source_is_series_not_single_book
+Cycle of the Werewolf,Stephen King,Silver Bullet,1985,"Cycle of the Werewolf (1983), Stephen King",Silver Bullet (1985),source_is_series_not_single_book
 The Dark Is Rising Sequence,Susan Cooper,The Seeker,2007,"The Dark Is Rising Sequence (1965–1977) (series), Susan Cooper",The Seeker (2007),source_is_series_not_single_book
 The Dark Tower,Stephen King,The Dark Tower,2017,"The Dark Tower (1998–2012) (series), Stephen King",The Dark Tower (2017),source_is_series_not_single_book
 Fifty Shades,E. L. James,Fifty Shades of Grey,2015,"Fifty Shades (2011—2012) (series), E. L. James",Fifty Shades of Grey (2015),source_is_series_not_single_book
@@ -155,6 +286,7 @@ Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind: The Movie,2000,"Left Be
 Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind II: Tribulation Force,2002,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind II: Tribulation Force (2002),source_is_series_not_single_book
 Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind: World at War,2005,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind: World at War (2005),source_is_series_not_single_book
 Left Behind,Tim LaHaye and Jerry B. Jenkins,Left Behind,2014,"Left Behind (1995–2007) (series), Tim LaHaye and Jerry B. Jenkins",Left Behind (2014),source_is_series_not_single_book
+Longarm,Lou Cameron,Longarm,1987,"Longarm (1978–2006) (series), Lou Cameron",Longarm (1987),source_is_series_not_single_book
 Mary Poppins,P. L. Travers,Mary Poppins Returns,2018,"Mary Poppins (1934–1988) (series), P. L. Travers",Mary Poppins Returns (2018),source_is_series_not_single_book
 Millennium,Stieg Larsson,The Girl with the Dragon Tattoo,2009,"Millennium (2005–2007) (series), Stieg Larsson",The Girl with the Dragon Tattoo (2009),source_is_series_not_single_book
 Millennium,Stieg Larsson,The Girl Who Played with Fire,2009,"Millennium (2005–2007) (series), Stieg Larsson",The Girl Who Played with Fire (2009),source_is_series_not_single_book
@@ -168,6 +300,13 @@ The Princess Diaries,Meg Cabot,The Princess Diaries,2002,"The Princess Diaries (
 The Princess Diaries,Meg Cabot,The Princess Diaries 2: Royal Engagement,2004,"The Princess Diaries (2000–2009) (series), Meg Cabot",The Princess Diaries 2: Royal Engagement (2004),source_is_series_not_single_book
 Riverworld,Philip José Farmer,Riverworld,2003,"Riverworld (1971–1983) (series), Philip José Farmer",Riverworld (2003),source_is_series_not_single_book
 Riverworld,Philip José Farmer,Riverworld,2010,"Riverworld (1971–1983) (series), Philip José Farmer",Riverworld (2010),source_is_series_not_single_book
+The Saga of Pecos Bill,Edward O'Reilly,Tall Tale,1995,"The Saga of Pecos Bill (1923), Edward O'Reilly",Tall Tale (1995),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,"Tarzan, the Ape Man",1981,"Tarzan (1912–1965) (series), Edgar Rice Burroughs","Tarzan, the Ape Man (1981)",source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,"Greystoke: The Legend of Tarzan, Lord of the Apes",1984,"Tarzan (1912–1965) (series), Edgar Rice Burroughs","Greystoke: The Legend of Tarzan, Lord of the Apes (1984)",source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Adventures of Tarzan,1985,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Adventures of Tarzan (1985),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan and the Lost City,1998,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan and the Lost City (1998),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan of the Apes,1999,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan of the Apes (1999),source_is_series_not_single_book
+Tarzan,Edgar Rice Burroughs,Tarzan,1999,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan (1999),source_is_series_not_single_book
 Tarzan,Edgar Rice Burroughs,Tarzan Ki Beti,2002,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan Ki Beti (2002),source_is_series_not_single_book
 Tarzan,Edgar Rice Burroughs,Tarzan & Jane,2002,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan & Jane (2002),source_is_series_not_single_book
 Tarzan,Edgar Rice Burroughs,Tarzan II,2005,"Tarzan (1912–1965) (series), Edgar Rice Burroughs",Tarzan II (2005),source_is_series_not_single_book
@@ -178,6 +317,8 @@ Twilight,Stephenie Meyer,The Twilight Saga: New Moon,2009,"Twilight (2005–2008
 Twilight,Stephenie Meyer,The Twilight Saga: Eclipse,2010,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Eclipse (2010),source_is_series_not_single_book
 Twilight,Stephenie Meyer,The Twilight Saga: Breaking Dawn – Part 1,2011,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Breaking Dawn – Part 1 (2011),source_is_series_not_single_book
 Twilight,Stephenie Meyer,The Twilight Saga: Breaking Dawn – Part 2,2012,"Twilight (2005–2008) (series), Stephenie Meyer",The Twilight Saga: Breaking Dawn – Part 2 (2012),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Pooh's Grand Adventure: The Search for Christopher Robin,1997,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Pooh's Grand Adventure: The Search for Christopher Robin (1997),source_is_series_not_single_book
+Winnie-the-Pooh,A.A. Milne,Winnie the Pooh: Seasons of Giving,1999,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie the Pooh: Seasons of Giving (1999),source_is_series_not_single_book
 Winnie-the-Pooh,A.A. Milne,The Tigger Movie,2000,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",The Tigger Movie (2000),source_is_series_not_single_book
 Winnie-the-Pooh,A.A. Milne,The Book of Pooh: Stories from the Heart,2001,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",The Book of Pooh: Stories from the Heart (2001),source_is_series_not_single_book
 Winnie-the-Pooh,A.A. Milne,Winnie the Pooh: A Very Merry Pooh Year,2002,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie the Pooh: A Very Merry Pooh Year (2002),source_is_series_not_single_book
@@ -192,26 +333,286 @@ Winnie-the-Pooh,A.A. Milne,Winnie the Pooh,2011,"Winnie-the-Pooh (1926–1928) (
 Winnie-the-Pooh,A.A. Milne,Christopher Robin,2018,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Christopher Robin (2018),source_is_series_not_single_book
 Winnie-the-Pooh,A.A. Milne,Winnie-the-Pooh: Blood and Honey,2023,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie-the-Pooh: Blood and Honey (2023),source_is_series_not_single_book
 Winnie-the-Pooh,A.A. Milne,Winnie-the-Pooh: Blood and Honey 2,2024,"Winnie-the-Pooh (1926–1928) (series), A.A. Milne",Winnie-the-Pooh: Blood and Honey 2 (2024),source_is_series_not_single_book
+At Play in the Fields of the Lord,Peter Matthiessen,At Play in the Fields of the Lord,1991,"At Play in the Fields of the Lord (1965), Peter Matthiessen",At Play in the Fields of the Lord (1991),source_is_not_novel_or_single_book
+The Beast Master,Andre Norton,Beastmaster III: The Eye of Braxus (1996) (TV),1996,"The Beast Master (1959), Andre Norton",Beastmaster III: The Eye of Braxus (1996) (TV),film_appears_to_be_tv_or_dtv
+Le Blé en herbe,Colette,Le Blé en herbe (1990) (TV),1990,"Le Blé en herbe (1923), Colette",Le Blé en herbe (1990) (TV),film_appears_to_be_tv_or_dtv
+Buffalo Girls,Larry McMurtry,Buffalo Girls (1995) (TV) (mini),1995,"Buffalo Girls (1990), Larry McMurtry",Buffalo Girls (1995) (TV) (mini),film_appears_to_be_tv_or_dtv
+Great Expectations,Charles Dickens,Great Expectations (1999) (TV),1999,"Great Expectations (serialised 1860–1861, published as a book 1861), Charles Dickens",Great Expectations (1999) (TV),film_appears_to_be_tv_or_dtv
+One Hundred Years Ahead,Kir Bulychev,Guest from the Future (Russian: Гостья из будущего) (1985) (TV),1985,"One Hundred Years Ahead (Russian: Сто лет тому вперед) (1976), Kir Bulychev",Guest from the Future (Russian: Гостья из будущего) (1985) (TV),film_appears_to_be_tv_or_dtv
 The Other Boleyn Girl,Philippa Gregory,The Other Boleyn Girl (2003) (TV),2003,"The Other Boleyn Girl (2001), Philippa Gregory",The Other Boleyn Girl (2003) (TV),film_appears_to_be_tv_or_dtv
+The Sea-Wolf,Jack London,The Sea Wolf (1993) (TV),1993,"The Sea-Wolf (1904), Jack London",The Sea Wolf (1993) (TV),film_appears_to_be_tv_or_dtv
+Split Images,Elmore Leonard,Split Images (1992) (TV),1992,"Split Images (1981), Elmore Leonard",Split Images (1992) (TV),film_appears_to_be_tv_or_dtv
+The Sun Also Rises,Ernest Hemingway,The Sun Also Rises (1984) (TV),1984,"The Sun Also Rises (1926), Ernest Hemingway",The Sun Also Rises (1984) (TV),film_appears_to_be_tv_or_dtv
+Treasure Island,Robert Louis Stevenson,Return to Treasure Island (1998) (TV),1998,"Treasure Island (1883), Robert Louis Stevenson",Return to Treasure Island (1998) (TV),film_appears_to_be_tv_or_dtv
 4.50 from Paddington,Agatha Christie,Crime Is Our Business,2008,"4.50 from Paddington (1957), Agatha Christie",Crime Is Our Business (French: Le Crime est notre affaire) (2008),likely_non_english_language_film
-All She Was Worth,Miyuki Miyabe,Helpless,2012,"All She Was Worth (火車, Kasha) (1992), Miyuki Miyabe",Helpless (Korean: 화차; RR: Hwa-cha) (2012),likely_non_english_language_film
 An Ancient Tale: A Novel in Polish History,Józef Ignacy Kraszewski,An Ancient Tale: When the Sun Was a God,2003,"An Ancient Tale: A Novel in Polish History (Polish: Stara baśń. Powieść z dziejów Polski) (1876), Józef Ignacy Kraszewski",An Ancient Tale: When the Sun Was a God (Polish: Stara baśń: Kiedy słońce było bogiem) (2003),likely_non_english_language_film
 Balzac and the Little Chinese Seamstress,Dai Sijie,Balzac and the Little Chinese Seamstress,2002,"Balzac and the Little Chinese Seamstress (French: Balzac et la petite tailleuse chinoise) (2000), Dai Sijie",Balzac and the Little Chinese Seamstress (2002),likely_non_english_language_film
+Confessions of a Crap Artist,Philip K. Dick,Barjo,1992,"Confessions of a Crap Artist (1975), Philip K. Dick",Barjo (French: Confessions d'un Barjo) (1992),likely_non_english_language_film
 Death Notice,Zhou Haohui,Death Notice,2023,"Death Notice (Chinese: 死亡通知单：暗黑者) (2014), Zhou Haohui",Death Notice (Chinese: 暗殺風暴) (2023),likely_non_english_language_film
+Diary of a Mad Old Man,Jun'ichirō Tanizaki,Diary of a Old Man,1987,"Diary of a Mad Old Man (瘋癲老人日記, Fūten rōjin nikki) (1961), Jun'ichirō Tanizaki",Diary of a Old Man (Dutch: Dagboek van een Oude Dwaas) (1987),likely_non_english_language_film
 Fear and Trembling,Amélie Nothomb,Fear and Trembling,2003,"Fear and Trembling (French: Stupeur et tremblements) (1999), Amélie Nothomb",Fear and Trembling (French: Stupeur et Tremblements) (2003),likely_non_english_language_film
 La chair du maître,Dany Laferrière,Heading South,2005,"La chair du maître (1997), Dany Laferrière",Heading South (French: Vers le sud) (2005),likely_non_english_language_film
+Live Flesh,Ruth Rendell,Live Flesh,1997,"Live Flesh (1986), Ruth Rendell",Live Flesh (Spanish: Carne trémula) (1997),likely_non_english_language_film
+Midaq Alley,Naguib Mahfouz,Midaq Alley,1995,"Midaq Alley (Arabic: زقاق المدق, romanized: Zuqāq al-Midaqq) (1947), Naguib Mahfouz",Midaq Alley (Spanish: El callejón de los milagros) (1995),likely_non_english_language_film
 Mother of Mine,Heikki Hietamies,Mother of Mine,2005,"Mother of Mine (Finnish: Äideistä parhain) (1999), Heikki Hietamies","Mother of Mine (Finnish: Äideistä parhain, Swedish: Den bästa av mödrar) (2005)",likely_non_english_language_film
 Sacred Wood,Liu Qingbang,Blind Shaft,2003,"Sacred Wood (Chinese: 神木 Shen Mu) (1999), Liu Qingbang",Blind Shaft (Chinese: 盲井; pinyin: Mángjǐng) (2003),likely_non_english_language_film
+Story of O,Anne Desclos (as Pauline Réage),Story of O: Chapter 2,1984,"Story of O (French: Histoire d'O) (1954), Anne Desclos (as Pauline Réage)",Story of O: Chapter 2 (French: Histoire d'O: Chapitre 2) (1984),likely_non_english_language_film
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,The Blue Carbuncle,1980,"The Adventures of Sherlock Holmes (serialised 1891–1892, published as a book 1892), Arthur Conan Doyle",The Blue Carbuncle (Russian: Голубой карбункул) (1980),likely_non_english_language_film
+The Amateur,Mauricio Dayub,The Amateur,1999,"The Amateur (Spanish: El Amateur) (1990), Mauricio Dayub",The Amateur (Spanish: El Amateur) (1999),likely_non_english_language_film
 The Ax,Donald E. Westlake,The Axe,2005,"The Ax (1997), Donald E. Westlake",The Axe (French: Le couperet) (2005),likely_non_english_language_film
 The Beast in the Heart,Cristina Comencini,Don't Tell,2005,"The Beast in the Heart (Italian: La bestia nel cuore) (2003), Cristina Comencini",Don't Tell (Italian: La bestia nel cuore) (2005),likely_non_english_language_film
 The Blue Room,Georges Simenon,The Blue Room,2002,"The Blue Room (French: La Chambre bleue) (1964), Georges Simenon",The Blue Room (Spanish: La habitación azul) (2002),likely_non_english_language_film
+The French Lieutenant's Woman,John Fowles,The French Lieutenant's Woman,1981,"The French Lieutenant's Woman (1969), John Fowles",The French Lieutenant's Woman (1981),likely_non_english_language_film
 The Good German,Joseph Kanon,The Good German,2006,"The Good German (2001), Joseph Kanon",The Good German (2006),likely_non_english_language_film
+The Grizzly King,James Oliver Curwood,The Bear,1988,"The Grizzly King (1916), James Oliver Curwood",The Bear (French: L'Ours) (1988),likely_non_english_language_film
+The Riddle of the Sands: A Record of Secret Service,Erskine Childers,The Riddle of the Sands,1985,"The Riddle of the Sands: A Record of Secret Service (1903), Erskine Childers",The Riddle of the Sands (German: Das Rätsel der Sandbank) (1985),likely_non_english_language_film
 Water Margin,Shi Nai'an,Troublesome Night 16,2002,"Water Margin (Chinese: 水滸傳) (1963), Shi Nai'an",Troublesome Night 16 (Chinese: 水滸傳) (2002),likely_non_english_language_film
-White Fang,Jack London,White Fang,2018,"White Fang (1906), Jack London",White Fang (French: Croc-Blanc) (2018),likely_non_english_language_film
 Will O' the Wisp,Pierre Drieu La Rochelle,"Oslo, August 31st",2011,"Will O' the Wisp (French: Le feu follet) (1931), Pierre Drieu La Rochelle","Oslo, August 31st (Norwegian: Oslo, 31. august) (2011)",likely_non_english_language_film
-The Island of Doctor Moreau,H. G. Wells,Dr. Moreau's House of Pain,2004,"The Island of Doctor Moreau (1896), H. G. Wells",Dr. Moreau's House of Pain (2004),not_selected_sampling_design
-The Rules of Attraction,Bret Easton Ellis,The Rules of Attraction,2002,"The Rules of Attraction (1987), Bret Easton Ellis",The Rules of Attraction (2002),not_selected_sampling_design
-The Shipping News,Annie Proulx,The Shipping News,2001,"The Shipping News (1993), Annie Proulx",The Shipping News (2001),not_selected_sampling_design
+Slayground,Donald E. Westlake,Slayground,1983,"Slayground (1971), Donald E. Westlake",Slayground (1983),not_selected_sampling_design
+Terms of Endearment,Larry McMurtry,Terms of Endearment,1983,"Terms of Endearment (1975), Larry McMurtry",Terms of Endearment (1983),not_selected_sampling_design
+Tex,S. E. Hinton,Tex,1982,"Tex (1979), S. E. Hinton",Tex (1982),not_selected_sampling_design
+The Apple Dumpling Gang,Jack Bickham,Tales from the Apple Dumpling Gang,1982,"The Apple Dumpling Gang (1971), Jack Bickham",Tales from the Apple Dumpling Gang (1982),not_selected_sampling_design
+The Blue Lagoon,Henry De Vere Stacpoole,The Blue Lagoon,1980,"The Blue Lagoon (1908), Henry De Vere Stacpoole",The Blue Lagoon (1980),not_selected_sampling_design
+The Boat,Lothar-Günther Buchheim,Das Boot (The Boat),1981,"The Boat (German: Das Boot) (1973), Lothar-Günther Buchheim",Das Boot (The Boat) (1981),not_selected_sampling_design
+The Book of Daniel,E. L. Doctorow,Daniel,1983,"The Book of Daniel (1971), E. L. Doctorow",Daniel (1983),not_selected_sampling_design
+The Bostonians,Henry James,The Bostonians,1984,"The Bostonians (serialised 1885–1886, published as a book 1886), Henry James",The Bostonians (1984),not_selected_sampling_design
+The Dream Master,Roger Zelazny,Dreamscape,1984,"The Dream Master (1966), Roger Zelazny",Dreamscape (1984),not_selected_sampling_design
+The Entity,Frank De Felitta,The Entity,1982,"The Entity (1978), Frank De Felitta",The Entity (1982),not_selected_sampling_design
+The Formula,Steve Shagan,The Formula,1980,"The Formula (1979), Steve Shagan",The Formula (1980),not_selected_sampling_design
+The Fourth Man,Gerard Reve,The Fourth Man,1983,"The Fourth Man (Dutch: De vierde man) (1981), Gerard Reve",The Fourth Man (1983),not_selected_sampling_design
+The Game of X,Robert Sheckley,Condorman,1981,"The Game of X (1965), Robert Sheckley",Condorman (1981),not_selected_sampling_design
+The Heart of the Matter,Graham Greene,The Heart of the Matter,1983,"The Heart of the Matter (1948), Graham Greene",The Heart of the Matter (1983),not_selected_sampling_design
+The Home and the World,Rabindranath Tagore,Ghare Baire,1984,"The Home and the World (Bengali: ঘরে বাইরে, Ghôre Baire) (1916), Rabindranath Tagore",Ghare Baire (1984),not_selected_sampling_design
+The Honorary Consul,Graham Greene,The Honorary Consul,1983,"The Honorary Consul (1973), Graham Greene",The Honorary Consul (1983),not_selected_sampling_design
+The Last Unicorn,Peter S. Beagle,The Last Unicorn,1982,"The Last Unicorn (1968), Peter S. Beagle",The Last Unicorn (1982),not_selected_sampling_design
+The Legend of the Condor Heroes,Jin Yong,The Brave Archer and His Mate,1982,"The Legend of the Condor Heroes (Chinese: 射鵰英雄傳, Shè Diāo Yīng Xióng Zhuàn) (1957–1959), Jin Yong",The Brave Archer and His Mate (1982),not_selected_sampling_design
+The Lizard's Tail,Marc Brandell,The Hand,1981,"The Lizard's Tail (1979), Marc Brandell",The Hand (1981),not_selected_sampling_design
+The Lords of Discipline,Pat Conroy,The Lords of Discipline,1983,"The Lords of Discipline (1980), Pat Conroy",The Lords of Discipline (1983),not_selected_sampling_design
+The Naked Face,Sidney Sheldon,The Naked Face,1984,"The Naked Face (1970), Sidney Sheldon",The Naked Face (1984),not_selected_sampling_design
+The Natural,Bernard Malamud,The Natural,1984,"The Natural (1952), Bernard Malamud",The Natural (1984),not_selected_sampling_design
+The Ninth Configuration,William Peter Blatty,The Ninth Configuration,1980,"The Ninth Configuration (1978), William Peter Blatty",The Ninth Configuration (1980),not_selected_sampling_design
+The Pope of Greenwich Village,Vincent Patrick,The Pope of Greenwich Village,1984,"The Pope of Greenwich Village (1979), Vincent Patrick",The Pope of Greenwich Village (1984),not_selected_sampling_design
+The Postman Always Rings Twice,James Cain,The Postman Always Rings Twice,1981,"The Postman Always Rings Twice (1934), James Cain",The Postman Always Rings Twice (1981),not_selected_sampling_design
+The Razor's Edge,W. Somerset Maugham,The Razor's Edge,1984,"The Razor's Edge (1944), W. Somerset Maugham",The Razor's Edge (1984),not_selected_sampling_design
+The Return of the Condor Heroes,Jin Yong,The Brave Archer and His Mate,1982,"The Return of the Condor Heroes (神鵰俠侶; Shén Diāo Xiá Lǚ) (1959), Jin Yong",The Brave Archer and His Mate (1982),not_selected_sampling_design
+The Salamander,Morris West,The Salamander,1981,"The Salamander (1973), Morris West",The Salamander (1981),not_selected_sampling_design
+The Shrinking Man,Richard Matheson,The Incredible Shrinking Woman,1981,"The Shrinking Man (1956), Richard Matheson",The Incredible Shrinking Woman (1981),not_selected_sampling_design
+The Turning Point,Hermann Kant,The Turning Point,1983,"The Turning Point (German: Der Aufenthalt) (1977), Hermann Kant",The Turning Point (1983),not_selected_sampling_design
+The Winter of Our Discontent,John Steinbeck,The Winter of Our Discontent,1983,"The Winter of Our Discontent (1961), John Steinbeck",The Winter of Our Discontent (1983),not_selected_sampling_design
+The Wolfen,Whitley Strieber,Wolfen,1981,"The Wolfen (1978), Whitley Strieber",Wolfen (1981),not_selected_sampling_design
+The Woman in White,Wilkie Collins,Zhenshchina v belom,1981,"The Woman in White (serialised 1859–1860, published as a book 1860), Wilkie Collins",Zhenshchina v belom (1981),not_selected_sampling_design
+The World According to Garp,John Irving,The World According to Garp,1982,"The World According to Garp (1978), John Irving",The World According to Garp (1982),not_selected_sampling_design
+The Year of Living Dangerously,Christopher Koch,The Year of Living Dangerously,1982,"The Year of Living Dangerously (1978), Christopher Koch",The Year of Living Dangerously (1982),not_selected_sampling_design
+The Year of the Jellyfish,Christopher Frank,Year of the Jellyfish,1984,"The Year of the Jellyfish (French: L'Année des méduses) (1983), Christopher Frank",Year of the Jellyfish (1984),not_selected_sampling_design
+Thunderball,Ian Fleming,Never Say Never Again,1983,"Thunderball (1961), Ian Fleming",Never Say Never Again (1983),not_selected_sampling_design
+White Dog,Romain Gary,White Dog,1982,"White Dog (1970), Romain Gary",White Dog (1982),not_selected_sampling_design
+Your Ticket Is No Longer Valid,Romain Gary,Your Ticket Is No Longer Valid,1981,"Your Ticket Is No Longer Valid (1977), Romain Gary",Your Ticket Is No Longer Valid (1981),not_selected_sampling_design
+La lampe dans la fenêtre,Pauline Cadieux,Cordélia,1980,"La lampe dans la fenêtre (1972), Pauline Cadieux",Cordélia (1980),not_selected_sampling_design
+Black Rain,Masuji Ibuse,Black Rain,1989,"Black Rain (黒い雨, Kuroi Ame) (1965), Masuji Ibuse",Black Rain (1989),not_selected_sampling_design
+Blood and Sand,Vicente Blasco Ibáñez,Blood and Sand,1989,"Blood and Sand (Spanish: Sangre y arena) (1908), Vicente Blasco Ibáñez",Blood and Sand (1989),not_selected_sampling_design
+Blood on the Moon,James Ellroy,Cop,1988,"Blood on the Moon (1984), James Ellroy",Cop (1988),not_selected_sampling_design
+"Bright Lights, Big City",Jay McInerney,"Bright Lights, Big City",1988,"Bright Lights, Big City (1984), Jay McInerney","Bright Lights, Big City (1988)",not_selected_sampling_design
+Cat Chaser,Elmore Leonard,Cat Chaser,1989,"Cat Chaser (1982), Elmore Leonard",Cat Chaser (1989),not_selected_sampling_design
+Cocoon,David Saperstein,Cocoon: The Return,1988,"Cocoon (1985), David Saperstein",Cocoon: The Return (1988),not_selected_sampling_design
+Creator,Jeremy Leven,Creator,1985,"Creator (1980), Jeremy Leven",Creator (1985),not_selected_sampling_design
+Dad,William Wharton,Dad,1989,"Dad (1981), William Wharton",Dad (1989),not_selected_sampling_design
+Dead Calm,Charles K. Williams,Dead Calm,1989,"Dead Calm (1963), Charles K. Williams",Dead Calm (1989),not_selected_sampling_design
+Desert of the Heart,Jane Rule,Desert Hearts,1985,"Desert of the Heart (1964), Jane Rule",Desert Hearts (1985),not_selected_sampling_design
+Doctor Slaughter,Paul Theroux,Half Moon Street,1986,"Doctor Slaughter (1984), Paul Theroux",Half Moon Street (1986),not_selected_sampling_design
+Does Not Give a Damn,Dan Ben-Amotz,I Don't Give a Damn,1987,"Does Not Give a Damn (Hebrew: לא שם זין) (1973), Dan Ben-Amotz",I Don't Give a Damn (1987),not_selected_sampling_design
+Everybody's All-American,Frank Deford,Everybody's All-American,1988,"Everybody's All-American (1981), Frank Deford",Everybody's All-American (1988),not_selected_sampling_design
+Falling Angel,William Hjortsberg,Angel Heart,1987,"Falling Angel (1978), William Hjortsberg",Angel Heart (1987),not_selected_sampling_design
+Farewell to the King,Pierre Schoendoerffer,Farewell to the King,1989,"Farewell to the King (French: L'Adieu au roi) (1969), Pierre Schoendoerffer",Farewell to the King (1989),not_selected_sampling_design
+Friend,Diana Henstell,Deadly Friend,1986,"Friend (1985), Diana Henstell",Deadly Friend (1986),not_selected_sampling_design
+Gardens of Stone,Nicholas Proffitt,Gardens of Stone,1987,"Gardens of Stone (1983), Nicholas Proffitt",Gardens of Stone (1987),not_selected_sampling_design
+Gate of Flesh,Taijiro Tamura,Gate of Flesh,1988,"Gate of Flesh (肉体の門, Nikutai no mo) (1947), Taijiro Tamura",Gate of Flesh (1988),not_selected_sampling_design
+Glitz,Elmore Leonard,Glitz,1988,"Glitz (1985), Elmore Leonard",Glitz (1988),not_selected_sampling_design
+Hana no Furu Gogo,Teru Miyamoto,Hana no Furu Gogo,1989,"Hana no Furu Gogo (花の降る午後) (1988), Teru Miyamoto",Hana no Furu Gogo (1989),not_selected_sampling_design
+In Country,Bobbie Ann Mason,In Country,1989,"In Country (1985), Bobbie Ann Mason",In Country (1989),not_selected_sampling_design
+Ironweed,William Kennedy,Ironweed,1987,"Ironweed (1983), William Kennedy",Ironweed (1987),not_selected_sampling_design
+Jaws,Peter Benchley,Jaws: The Revenge,1987,"Jaws (1974), Peter Benchley",Jaws: The Revenge (1987),not_selected_sampling_design
+Kiss of the Spider Woman,Manuel Puig,Kiss of the Spider Woman,1985,"Kiss of the Spider Woman (1976), Manuel Puig",Kiss of the Spider Woman (1985),not_selected_sampling_design
+Kitchen,Banana Yoshimoto,Kitchen,1989,"Kitchen (キッチン, Kitchin) (1988), Banana Yoshimoto",Kitchen (1989),not_selected_sampling_design
+Lay This Laurel,Lincoln Kirstein,Glory,1989,"Lay This Laurel (1973), Lincoln Kirstein",Glory (1989),not_selected_sampling_design
+Less than Zero,Bret Easton Ellis,Less than Zero,1987,"Less than Zero (1985), Bret Easton Ellis",Less than Zero (1987),not_selected_sampling_design
+Maurice,E. M. Forster,Maurice,1987,"Maurice (1971), E. M. Forster",Maurice (1987),not_selected_sampling_design
+Millennium,John Varley,Millennium,1989,"Millennium (1983), John Varley",Millennium (1989),not_selected_sampling_design
+Nothing Lasts Forever,Roderick Thorp,Die Hard,1988,"Nothing Lasts Forever (1979), Roderick Thorp",Die Hard (1988),not_selected_sampling_design
+One Gallant Rush,Peter Burchard,Glory,1989,"One Gallant Rush (1965), Peter Burchard",Glory (1989),not_selected_sampling_design
+Pin,Andrew Neiderman,Pin,1988,"Pin (1981), Andrew Neiderman",Pin (1988),not_selected_sampling_design
+Shoeless Joe,W. P. Kinsella,Field of Dreams,1989,"Shoeless Joe (1982), W. P. Kinsella",Field of Dreams (1989),not_selected_sampling_design
+Slugs,Shaun Hutson,Slugs,1988,"Slugs (1982), Shaun Hutson",Slugs (1988),not_selected_sampling_design
+Sour Sweet,Timothy Mo,Soursweet,1989,"Sour Sweet (1982), Timothy Mo",Soursweet (1989),not_selected_sampling_design
+Tai-Pan,James Clavell,Tai-Pan,1986,"Tai-Pan (1966), James Clavell",Tai-Pan (1986),not_selected_sampling_design
+The Accidental Tourist,Anne Tyler,The Accidental Tourist,1988,"The Accidental Tourist (1985), Anne Tyler",The Accidental Tourist (1988),not_selected_sampling_design
+The Assault,Harry Mulisch,The Assault,1986,"The Assault (Dutch: De Aanslag) (1982), Harry Mulisch",The Assault (1986),not_selected_sampling_design
+The Aviator,Ernest K. Gann,The Aviator,1985,"The Aviator (1981), Ernest K. Gann",The Aviator (1985),not_selected_sampling_design
+The Big Clock,Kenneth Fearing,No Way Out,1987,"The Big Clock (1946), Kenneth Fearing",No Way Out (1987),not_selected_sampling_design
+The Black Arrow: A Tale of the Two Roses,Robert Louis Stevenson,The Black Arrow,1988,"The Black Arrow: A Tale of the Two Roses (1888), Robert Louis Stevenson",The Black Arrow (1988),not_selected_sampling_design
+The Burglar in the Closet,Lawrence Block,Burglar,1987,"The Burglar in the Closet (1978), Lawrence Block",Burglar (1987),not_selected_sampling_design
+The Burmese Harp,Michio Takeyama,The Burmese Harp,1985,"The Burmese Harp (Japanese: ビルマの竪琴, Biruma no tategoto) (1946), Michio Takeyama",The Burmese Harp (1985),not_selected_sampling_design
+The Clan of the Cave Bear,Jean Auel,The Clan of the Cave Bear,1986,"The Clan of the Cave Bear (1980), Jean Auel",The Clan of the Cave Bear (1986),not_selected_sampling_design
+The Color of Money,Walter Tevis,The Color of Money,1986,"The Color of Money (1984), Walter Tevis",The Color of Money (1986),not_selected_sampling_design
+The Deceivers,John Masters,The Deceivers,1988,"The Deceivers (1952), John Masters",The Deceivers (1988),not_selected_sampling_design
+The Fourth Protocol,Frederick Forsyth,The Fourth Protocol,1987,"The Fourth Protocol (1984), Frederick Forsyth",The Fourth Protocol (1987),not_selected_sampling_design
+The Lair of the White Worm,Bram Stoker,The Lair of the White Worm,1988,"The Lair of the White Worm (1911), Bram Stoker",The Lair of the White Worm (1988),not_selected_sampling_design
+The Man Who Fell to Earth,Walter Tevis,The Man Who Fell to Earth,1987,"The Man Who Fell to Earth (1963), Walter Tevis",The Man Who Fell to Earth (1987),not_selected_sampling_design
+The Mosquito Coast,Paul Theroux,The Mosquito Coast,1986,"The Mosquito Coast (1981), Paul Theroux",The Mosquito Coast (1986),not_selected_sampling_design
+The Naked Country,Morris West,The Naked Country,1985,"The Naked Country (1960), Morris West",The Naked Country (1985),not_selected_sampling_design
+The Name of the Rose,Umberto Eco,The Name of the Rose,1986,"The Name of the Rose (1980), Umberto Eco",The Name of the Rose (1986),not_selected_sampling_design
+The Princess Bride,William Goldman,The Princess Bride,1987,"The Princess Bride (1973), William Goldman",The Princess Bride (1987),not_selected_sampling_design
+The Prisoner of Zenda,Anthony Hope,Prisoner of Zenda,1988,"The Prisoner of Zenda (1894), Anthony Hope",Prisoner of Zenda (1988),not_selected_sampling_design
+The Quick and the Dead,Louis L'Amour,The Quick and the Dead,1987,"The Quick and the Dead (1973), Louis L'Amour",The Quick and the Dead (1987),not_selected_sampling_design
+The Rainbow,D. H. Lawrence,The Rainbow,1989,"The Rainbow (1915), D. H. Lawrence",The Rainbow (1989),not_selected_sampling_design
+The Second Victory,Morris West,The Second Victory,1986,"The Second Victory (1958) (a. k. a. Backlash), Morris West",The Second Victory (1986),not_selected_sampling_design
+The Sound of Waves,Yukio Mishima,The Sound of Waves,1985,"The Sound of Waves (潮騒, Shiosai) (1954), Yukio Mishima",The Sound of Waves (1985),not_selected_sampling_design
+The Three Worlds of Johnny Handsome,Morton Freedgood,Johnny Handsome,1989,"The Three Worlds of Johnny Handsome (1973), Morton Freedgood",Johnny Handsome (1989),not_selected_sampling_design
+The Unbearable Lightness of Being,Milan Kundera,The Unbearable Lightness of Being,1988,"The Unbearable Lightness of Being (Czech: Nesnesitelná lehkost bytí) (1984), Milan Kundera",The Unbearable Lightness of Being (1988),not_selected_sampling_design
+The Witches of Eastwick,John Updike,The Witches of Eastwick,1987,"The Witches of Eastwick (1984), John Updike",The Witches of Eastwick (1987),not_selected_sampling_design
+The Women of Brewster Place,Gloria Naylor,The Women of Brewster Place,1989,"The Women of Brewster Place (1982), Gloria Naylor",The Women of Brewster Place (1989),not_selected_sampling_design
+Wilt,Tom Sharpe,Wilt,1989,"Wilt (1976), Tom Sharpe",Wilt (1989),not_selected_sampling_design
+To Have and Have Not,Ernest Hemingway,Captain Khorshid,1987,"To Have and Have Not (1937), Ernest Hemingway","Captain Khorshid (Persian: ناخدا خورشید, Nakhoda Khorshid) (1987)",not_selected_sampling_design
+Angel Square,Brian Doyle,Angel Square,1990,"Angel Square (1987), Brian Doyle",Angel Square (1990),not_selected_sampling_design
+Anglo-Saxon Attitudes,Angus Wilson,Anglo-Saxon Attitudes,1992,"Anglo-Saxon Attitudes (1956), Angus Wilson",Anglo-Saxon Attitudes (1992),not_selected_sampling_design
+Billy Bathgate,E. L. Doctorow,Billy Bathgate,1991,"Billy Bathgate (1989), E. L. Doctorow",Billy Bathgate (1991),not_selected_sampling_design
+Bitter Moon,Pascal Bruckner,Bitter Moon,1992,"Bitter Moon (French: Lunes de fiel) (1981), Pascal Bruckner",Bitter Moon (1992),not_selected_sampling_design
+Bump in the Night,Isabelle Holland,Bump in the Night,1991,"Bump in the Night (1988), Isabelle Holland",Bump in the Night (1991),not_selected_sampling_design
+Burton and Speke,William Harrison,Mountains of the Moon,1990,"Burton and Speke (1982), William Harrison",Mountains of the Moon (1990),not_selected_sampling_design
+Coins in the Fountain,John Hermes Secondari,Coins in the Fountain,1990,"Coins in the Fountain (1952), John Hermes Secondari",Coins in the Fountain (1990),not_selected_sampling_design
+Conagher,Louis L'Amour,Conagher,1991,"Conagher (1968), Louis L'Amour",Conagher (1991),not_selected_sampling_design
+Damage,Josephine Hart,Damage,1992,"Damage (1991), Josephine Hart",Damage (1992),not_selected_sampling_design
+Dirty Weekend,Helen Zahavi,Dirty Weekend,1993,"Dirty Weekend (1991), Helen Zahavi",Dirty Weekend (1993),not_selected_sampling_design
+Dying Young,Marti Leimbach,Dying Young,1991,"Dying Young (1990), Marti Leimbach",Dying Young (1991),not_selected_sampling_design
+Elles n'oublient jamais,Christopher Frank,Elles n'oublient jamais,1994,"Elles n'oublient jamais (1993), Christopher Frank",Elles n'oublient jamais (1994),not_selected_sampling_design
+Farewell My Concubine,Lilian Lee,Farewell My Concubine,1993,"Farewell My Concubine (1991), Lilian Lee",Farewell My Concubine (1993),not_selected_sampling_design
+Felidae,Akif Pirinçci,Felidae,1994,"Felidae (1989), Akif Pirinçci",Felidae (1994),not_selected_sampling_design
+Flight of the Intruder,Stephen Coonts,Flight of the Intruder,1991,"Flight of the Intruder (1986), Stephen Coonts",Flight of the Intruder (1991),not_selected_sampling_design
+Forrest Gump,Winston Groom,Forrest Gump,1994,"Forrest Gump (1986), Winston Groom",Forrest Gump (1994),not_selected_sampling_design
+Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,Fried Green Tomatoes,1991,"Fried Green Tomatoes at the Whistle Stop Cafe (1987), Fannie Flagg",Fried Green Tomatoes (1991),not_selected_sampling_design
+God's Mischief,M. Mukundan,Daivathinte Vikrithikal,1992,"God's Mischief (Malayalam: ദൈവത്തിന്റെ വികൃതികള്‍) (1989), M. Mukundan",Daivathinte Vikrithikal (1992),not_selected_sampling_design
+Hammers Over the Anvil,Alan Marshall,Hammers Over the Anvil,1991,"Hammers Over the Anvil (1952), Alan Marshall",Hammers Over the Anvil (1991),not_selected_sampling_design
+"Immortality, Inc.",Robert Sheckley,Freejack,1992,"Immortality, Inc. (1959), Robert Sheckley",Freejack (1992),not_selected_sampling_design
+Jack in the Box,William Kotzwinkle,Book of Love,1990,"Jack in the Box (1980), William Kotzwinkle",Book of Love (1990),not_selected_sampling_design
+Like Water for Chocolate,Laura Esquivel,Like Water for Chocolate,1992,"Like Water for Chocolate (Spanish: Como agua para chocolate) (1989), Laura Esquivel",Like Water for Chocolate (1992),not_selected_sampling_design
+Lord of the Flies,William Golding,Lord of the Flies,1990,"Lord of the Flies (1954), William Golding",Lord of the Flies (1990),not_selected_sampling_design
+Madame Doubtfire,Anne Fine,Mrs. Doubtfire,1993,"Madame Doubtfire (1987), Anne Fine",Mrs. Doubtfire (1993),not_selected_sampling_design
+Naked Lunch,William S. Burroughs,Naked Lunch,1991,"Naked Lunch (1959), William S. Burroughs",Naked Lunch (1991),not_selected_sampling_design
+Night and the City,Gerald Kersh,Night and the City,1992,"Night and the City (1938), Gerald Kersh",Night and the City (1992),not_selected_sampling_design
+Of Mice and Men,John Steinbeck,Of Mice and Men,1992,"Of Mice and Men (1937), John Steinbeck",Of Mice and Men (1992),not_selected_sampling_design
+Presumed Innocent,Scott Turow,Presumed Innocent,1990,"Presumed Innocent (1987), Scott Turow",Presumed Innocent (1990),not_selected_sampling_design
+Q & A,Edwin Torres,Q & A,1990,"Q & A (1977), Edwin Torres",Q & A (1990),not_selected_sampling_design
+Quick Change,Jay Cronley,Quick Change,1990,"Quick Change (1981), Jay Cronley",Quick Change (1990),not_selected_sampling_design
+Shining Through,Susan Isaacs,Shining Through,1992,"Shining Through (1988), Susan Isaacs",Shining Through (1992),not_selected_sampling_design
+Sliver,Ira Levin,Sliver,1993,"Sliver (1991), Ira Levin",Sliver (1993),not_selected_sampling_design
+Stella Dallas,Olive Higgins Prouty,Stella,1990,"Stella Dallas (1923), Olive Higgins Prouty",Stella (1990),not_selected_sampling_design
+Texasville,Larry McMurtry,Texasville,1990,"Texasville (1987), Larry McMurtry",Texasville (1990),not_selected_sampling_design
+The Age of Innocence,Edith Wharton,The Age of Innocence,1993,"The Age of Innocence (1921), Edith Wharton",The Age of Innocence (1993),not_selected_sampling_design
+The Beast Master,Andre Norton,Beastmaster 2: Through the Portal of Time,1991,"The Beast Master (1959), Andre Norton",Beastmaster 2: Through the Portal of Time (1991),not_selected_sampling_design
+The Bilingual Lover,Juan Marsé,The Bilingual Lover,1993,"The Bilingual Lover (Spanish: El amante bilingüe) (1990), Juan Marsé",The Bilingual Lover (1993),not_selected_sampling_design
+The Bonfire of the Vanities,Tom Wolfe,The Bonfire of the Vanities,1990,"The Bonfire of the Vanities (1987), Tom Wolfe",The Bonfire of the Vanities (1990),not_selected_sampling_design
+The Cement Garden,Ian McEwan,The Cement Garden,1993,"The Cement Garden (1978), Ian McEwan",The Cement Garden (1993),not_selected_sampling_design
+The Comfort of Strangers,Ian McEwan,The Comfort of Strangers,1990,"The Comfort of Strangers (1981), Ian McEwan",The Comfort of Strangers (1990),not_selected_sampling_design
+The Desperate Hours,Joseph Hayes,Desperate Hours,1990,"The Desperate Hours (1954), Joseph Hayes",Desperate Hours (1990),not_selected_sampling_design
+The Executioners,John D. MacDonald,Cape Fear,1991,"The Executioners (1957), John D. MacDonald",Cape Fear (1991),not_selected_sampling_design
+The Garden of God,Henry De Vere Stacpoole,Return to the Blue Lagoon,1991,"The Garden of God (1923), Henry De Vere Stacpoole",Return to the Blue Lagoon (1991),not_selected_sampling_design
+The Getaway,Jim Thompson,The Getaway,1994,"The Getaway (1959), Jim Thompson",The Getaway (1994),not_selected_sampling_design
+The Godfather,Mario Puzo,The Godfather Part III,1990,"The Godfather (1969), Mario Puzo",The Godfather Part III (1990),not_selected_sampling_design
+The Grifters,Jim Thompson,The Grifters,1990,"The Grifters (1963), Jim Thompson",The Grifters (1990),not_selected_sampling_design
+The Guilty Head,Romain Gary,Les faussaires,1994,"The Guilty Head (1969), Romain Gary",Les faussaires (1994),not_selected_sampling_design
+The Handmaid's Tale,Margaret Atwood,The Handmaid's Tale,1990,"The Handmaid's Tale (1985), Margaret Atwood",The Handmaid's Tale (1990),not_selected_sampling_design
+The House of the Spirits,Isabel Allende,The House of the Spirits,1993,"The House of the Spirits (Spanish: La casa de los espíritus) (1982), Isabel Allende",The House of the Spirits (1993),not_selected_sampling_design
+The Innocent,Ian McEwan,The Innocent,1993,"The Innocent (1990), Ian McEwan",The Innocent (1993),not_selected_sampling_design
+The Joy Luck Club,Amy Tan,The Joy Luck Club,1993,"The Joy Luck Club (1989), Amy Tan",The Joy Luck Club (1993),not_selected_sampling_design
+The Law at Randado,Elmore Leonard,Border Shootout,1990,"The Law at Randado (1954), Elmore Leonard",Border Shootout (1990),not_selected_sampling_design
+The Nanny,Dan Greenburg,The Guardian,1990,"The Nanny (1987), Dan Greenburg",The Guardian (1990),not_selected_sampling_design
+The Neverending Story,Michael Ende,The NeverEnding Story III,1994,"The Neverending Story (1979), Michael Ende",The NeverEnding Story III (1994),not_selected_sampling_design
+The Penal Colony,Richard Herley,No Escape,1994,"The Penal Colony (1987), Richard Herley",No Escape (1994),not_selected_sampling_design
+The Power of One,Bryce Courtenay,The Power of One,1992,"The Power of One (1989), Bryce Courtenay",The Power of One (1992),not_selected_sampling_design
+The Prince of Tides,Pat Conroy,The Prince of Tides,1991,"The Prince of Tides (1986), Pat Conroy",The Prince of Tides (1991),not_selected_sampling_design
+The Puppet Masters,Robert A. Heinlein,The Puppet Masters,1994,"The Puppet Masters (1951), Robert A. Heinlein",The Puppet Masters (1994),not_selected_sampling_design
+The Remains of the Day,Ishiguro,The Remains of the Day,1993,"The Remains of the Day (1989), Ishiguro",The Remains of the Day (1993),not_selected_sampling_design
+The Rescuers,Margery Sharp,The Rescuers Down Under,1990,"The Rescuers (1959), Margery Sharp",The Rescuers Down Under (1990),not_selected_sampling_design
+The Trial,Franz Kafka,The Trial,1993,"The Trial (1925), Franz Kafka",The Trial (1993),not_selected_sampling_design
+Why Me?,Donald E. Westlake,Why Me?,1990,"Why Me? (1983), Donald E. Westlake",Why Me? (1990),not_selected_sampling_design
+All She Was Worth,Miyuki Miyabe,Kasha: Kâdo hasan no onna!,1994,"All She Was Worth (火車, Kasha) (1992), Miyuki Miyabe",Kasha: Kâdo hasan no onna! (1994),not_selected_sampling_design
+"Always Outnumbered, Always Outgunned",Walter Mosley,Always Outnumbered,1998,"Always Outnumbered, Always Outgunned (1987), Walter Mosley",Always Outnumbered (1998),not_selected_sampling_design
+Anna and the King of Siam,Margaret Landon,The King and I,1999,"Anna and the King of Siam (1944), Margaret Landon",The King and I (1999),not_selected_sampling_design
+Audition,Ryu Murakami,Audition,1999,"Audition (オーディション, Ōdishon) (1997), Ryu Murakami",Audition (1999),not_selected_sampling_design
+Bastard Out of Carolina,Dorothy Allison,Bastard Out of Carolina,1996,"Bastard Out of Carolina (1992), Dorothy Allison",Bastard Out of Carolina (1996),not_selected_sampling_design
+Beast,Peter Benchley,The Beast,1996,"Beast (1991), Peter Benchley",The Beast (1996),not_selected_sampling_design
+Beloved,Toni Morrison,Beloved,1998,"Beloved (1987), Toni Morrison",Beloved (1998),not_selected_sampling_design
+Brave New World,Aldous Huxley,Brave New World,1998,"Brave New World (1932), Aldous Huxley",Brave New World (1998),not_selected_sampling_design
+Bringing Out the Dead,Joe Connelly,Bringing Out the Dead,1999,"Bringing Out the Dead (1998), Joe Connelly",Bringing Out the Dead (1999),not_selected_sampling_design
+Brown's Requiem,James Ellroy,Brown's Requiem,1998,"Brown's Requiem (1981), James Ellroy",Brown's Requiem (1998),not_selected_sampling_design
+Clockers,Richard Price,Clockers,1995,"Clockers (1992), Richard Price",Clockers (1995),not_selected_sampling_design
+Contact,Carl Sagan,Contact,1997,"Contact (1985), Carl Sagan",Contact (1997),not_selected_sampling_design
+Cracking India,Bapsi Sidhwa,Earth,1998,"Cracking India (1991), Bapsi Sidhwa",Earth (1998),not_selected_sampling_design
+Crash,J. G. Ballard,Crash,1996,"Crash (1973), J. G. Ballard",Crash (1996),not_selected_sampling_design
+Don't Tell Anyone,Jaime Bayly,No se lo Digas a Nadie (Don't Tell Anyone),1998,"Don't Tell Anyone (Spanish: No se lo digas a nadie) (1994), Jaime Bayly",No se lo Digas a Nadie (Don't Tell Anyone) (1998),not_selected_sampling_design
+Down Will Come Baby,Gloria Murphy,Down Will Come Baby,1999,"Down Will Come Baby (1991), Gloria Murphy",Down Will Come Baby (1999),not_selected_sampling_design
+Fight Club,Chuck Palahniuk,Fight Club,1999,"Fight Club (1996), Chuck Palahniuk",Fight Club (1999),not_selected_sampling_design
+For Love of the Game,Michael Shaara,For Love of the Game,1999,"For Love of the Game (1991), Michael Shaara",For Love of the Game (1999),not_selected_sampling_design
+Get Shorty,Elmore Leonard,Get Shorty,1995,"Get Shorty (1990), Elmore Leonard",Get Shorty (1995),not_selected_sampling_design
+Gold Coast,Elmore Leonard,Gold Coast,1997,"Gold Coast (1980), Elmore Leonard",Gold Coast (1997),not_selected_sampling_design
+Jimmy the Kid,Donald E. Westlake,Jimmy the Kid,1998,"Jimmy the Kid (1967), Donald E. Westlake",Jimmy the Kid (1998),not_selected_sampling_design
+Jude the Obscure,Thomas Hardy,Jude,1996,"Jude the Obscure (1895), Thomas Hardy",Jude (1996),not_selected_sampling_design
+L.A. Confidential,James Ellroy,L.A. Confidential,1997,"L.A. Confidential (1990), James Ellroy",L.A. Confidential (1997),not_selected_sampling_design
+Last Stand at Saber River,Elmore Leonard,Last Stand at Saber River,1997,"Last Stand at Saber River (1959), Elmore Leonard",Last Stand at Saber River (1997),not_selected_sampling_design
+Loaded,Christos Tsiolkas,Head On,1998,"Loaded (1995), Christos Tsiolkas",Head On (1998),not_selected_sampling_design
+Lolita,Vladimir Nabokov,Lolita,1997,"Lolita (1955), Vladimir Nabokov",Lolita (1997),not_selected_sampling_design
+Morpho Eugenia,A. S. Byatt,Angels & Insects,1996,"Morpho Eugenia (1992), A. S. Byatt",Angels & Insects (1996),not_selected_sampling_design
+Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,The Secret of NIMH 2: Timmy to the Rescue,1999,"Mrs. Frisby and the Rats of NIMH (1971), Robert C. O'Brien",The Secret of NIMH 2: Timmy to the Rescue (1999),not_selected_sampling_design
+My Ántonia,Willa Cather,My Antonia,1995,"My Ántonia (1918), Willa Cather",My Antonia (1995),not_selected_sampling_design
+Out of Sight,Elmore Leonard,Out of Sight,1998,"Out of Sight (1996), Elmore Leonard",Out of Sight (1998),not_selected_sampling_design
+Perfect Little Angels,Andrew Neiderman,Perfect Little Angels,1998,"Perfect Little Angels (1989), Andrew Neiderman",Perfect Little Angels (1998),not_selected_sampling_design
+Poodle Springs,Raymond Chandler and Robert B. Parker,Poodle Springs,1998,"Poodle Springs (written 1959–1988, published 1989), Raymond Chandler and Robert B. Parker",Poodle Springs (1998),not_selected_sampling_design
+Pronto,Elmore Leonard,Pronto,1997,"Pronto (1993), Elmore Leonard",Pronto (1997),not_selected_sampling_design
+Psycho,Robert Bloch,Psycho,1998,"Psycho (1959), Robert Bloch",Psycho (1998),not_selected_sampling_design
+Riders of the Purple Sage,Zane Grey,Riders of the Purple Sage,1996,"Riders of the Purple Sage (1912), Zane Grey",Riders of the Purple Sage (1996),not_selected_sampling_design
+Rum Punch,Elmore Leonard,Jackie Brown,1997,"Rum Punch (1992), Elmore Leonard",Jackie Brown (1997),not_selected_sampling_design
+Simple Simon,Ryne Douglas Pearson,Mercury Rising,1998,"Simple Simon (1996), Ryne Douglas Pearson",Mercury Rising (1998),not_selected_sampling_design
+Small Vices,Robert B. Parker,Spenser: Small Vices,1999,"Small Vices (1997), Robert B. Parker",Spenser: Small Vices (1999),not_selected_sampling_design
+Strangers on a Train,Patricia Highsmith,Once You Meet a Stranger,1996,"Strangers on a Train (1950), Patricia Highsmith",Once You Meet a Stranger (1996),not_selected_sampling_design
+The Beast in Man,Émile Zola,Cruel Train,1995,"The Beast in Man (French: La Bête humaine) (1890), Émile Zola",Cruel Train (1995),not_selected_sampling_design
+The Bishop's Wife,Robert Nathan,The Preacher's Wife,1996,"The Bishop's Wife (1928), Robert Nathan",The Preacher's Wife (1996),not_selected_sampling_design
+The Blood Oranges,John Hawkes,The Blood Oranges,1997,"The Blood Oranges (1970), John Hawkes",The Blood Oranges (1997),not_selected_sampling_design
+The Brave Little Toaster,Thomas M. Disch,The Brave Little Toaster Goes to Mars,1998,"The Brave Little Toaster (1986), Thomas M. Disch",The Brave Little Toaster Goes to Mars (1998),not_selected_sampling_design
+The Bridges of Madison County,Robert James Waller,The Bridges of Madison County,1995,"The Bridges of Madison County (a. k. a. Love in Black and White) (1992), Robert James Waller",The Bridges of Madison County (1995),not_selected_sampling_design
+The Castle,Franz Kafka,The Castle,1997,"The Castle (German: Das Schloß) (1926), Franz Kafka",The Castle (1997),not_selected_sampling_design
+The Cider House Rules,John Irving,The Cider House Rules,1999,"The Cider House Rules (1985), John Irving",The Cider House Rules (1999),not_selected_sampling_design
+The Club Dumas,Arturo Pérez-Reverte,The Ninth Gate,1999,"The Club Dumas (Spanish: El Club Dumas) (1993), Arturo Pérez-Reverte",The Ninth Gate (1999),not_selected_sampling_design
+The Day of the Jackal,Frederick Forsyth,The Jackal,1997,"The Day of the Jackal (1971), Frederick Forsyth",The Jackal (1997),not_selected_sampling_design
+The Deep End of the Ocean,Jacquelyn Mitchard,The Deep End of the Ocean,1999,"The Deep End of the Ocean (1996), Jacquelyn Mitchard",The Deep End of the Ocean (1999),not_selected_sampling_design
+The Dork of Cork,Chet Raymo,Frankie Starlight,1995,"The Dork of Cork (1993), Chet Raymo",Frankie Starlight (1995),not_selected_sampling_design
+The End of the Affair,Graham Greene,The End of the Affair,1999,"The End of the Affair (1951), Graham Greene",The End of the Affair (1999),not_selected_sampling_design
+The English Patient,Michael Ondaatje,The English Patient,1996,"The English Patient (1992), Michael Ondaatje",The English Patient (1996),not_selected_sampling_design
+The Evening Star,Larry McMurtry,The Evening Star,1996,"The Evening Star (1992), Larry McMurtry",The Evening Star (1996),not_selected_sampling_design
+The Eye of the Beholder,Marc Behm,Eye of the Beholder,1999,"The Eye of the Beholder (1980), Marc Behm",Eye of the Beholder (1999),not_selected_sampling_design
+The Fan,Peter Abrahams,The Fan,1996,"The Fan (1995), Peter Abrahams",The Fan (1996),not_selected_sampling_design
+The First Wives Club,Olivia Goldsmith,The First Wives Club,1996,"The First Wives Club (1992), Olivia Goldsmith",The First Wives Club (1996),not_selected_sampling_design
+The Grotesque,Patrick McGrath,"The Grotesque (1995) (a. k. a. Grave Indiscretion, Gentlemen Don't Eat Poets)",1995,"The Grotesque (1989), Patrick McGrath","The Grotesque (1995) (a. k. a. Grave Indiscretion, Gentlemen Don't Eat Poets)",not_selected_sampling_design
+The Lands of Risk,Agustina Bessa-Luís,The Convent,1995,"The Lands of Risk (Portuguese: As Terras Do Risco) (1994), Agustina Bessa-Luís",The Convent (1995),not_selected_sampling_design
+The Maddening,Andrew Neiderman,The Maddening,1995,"The Maddening (1987), Andrew Neiderman",The Maddening (1995),not_selected_sampling_design
+The Midwich Cuckoos,John Wyndham,Village of the Damned,1995,"The Midwich Cuckoos (1957), John Wyndham",Village of the Damned (1995),not_selected_sampling_design
+The Moonstone,Wilkie Collins,The Moonstone,1996,"The Moonstone (1868), Wilkie Collins",The Moonstone (1996),not_selected_sampling_design
+The North Star,Henry Wilson Allen,North Star,1996,"The North Star (1956), Henry Wilson Allen",North Star (1996),not_selected_sampling_design
+The Old Man and the Sea,Ernest Hemingway,The Old Man and the Sea,1999,"The Old Man and the Sea (written 1951, published 1952), Ernest Hemingway",The Old Man and the Sea (1999),not_selected_sampling_design
+The Parasite,Arthur Conan Doyle,The Parasite,1997,"The Parasite (1894), Arthur Conan Doyle",The Parasite (1997),not_selected_sampling_design
+The Peacock Spring,Rumer Godden,The Peacock Spring,1996,"The Peacock Spring (1975), Rumer Godden",The Peacock Spring (1996),not_selected_sampling_design
+The Postman,David Brin,The Postman,1997,"The Postman (1985), David Brin",The Postman (1997),not_selected_sampling_design
+The Secret Agent,Joseph Conrad,The Secret Agent,1996,"The Secret Agent (1907), Joseph Conrad",The Secret Agent (1996),not_selected_sampling_design
+The Talented Mr. Ripley,Patricia Highsmith,The Talented Mr. Ripley,1999,"The Talented Mr. Ripley (1955), Patricia Highsmith",The Talented Mr. Ripley (1999),not_selected_sampling_design
+The Wings of the Dove,Henry James,The Wings of the Dove,1997,"The Wings of the Dove (1902), Henry James",The Wings of the Dove (1997),not_selected_sampling_design
+The Woman Chaser,Charles Willeford,The Woman Chaser,1999,"The Woman Chaser (1960), Charles Willeford",The Woman Chaser (1999),not_selected_sampling_design
+Thor,Wayne Smith,Bad Moon,1996,"Thor (1993), Wayne Smith",Bad Moon (1996),not_selected_sampling_design
+Touch,Elmore Leonard,Touch,1997,"Touch (1987), Elmore Leonard",Touch (1997),not_selected_sampling_design
+Two Much!,Donald E. Westlake,Two Much,1995,"Two Much! (1975), Donald E. Westlake",Two Much (1995),not_selected_sampling_design
+Undercover Cat,Gordon Gordon and Mildred Gordon,That Darn Cat,1997,"Undercover Cat (1963), Gordon Gordon and Mildred Gordon",That Darn Cat (1997),not_selected_sampling_design
+Vennello Adapilla,Yandamuri Veerendranath,Beladingala Baale,1995,"Vennello Adapilla (1991), Yandamuri Veerendranath",Beladingala Baale (1995),not_selected_sampling_design
+Victory,Joseph Conrad,Victory,1996,"Victory (1915), Joseph Conrad",Victory (1996),not_selected_sampling_design
+What Dreams May Come,Richard Matheson,What Dreams May Come,1998,"What Dreams May Come (1978), Richard Matheson",What Dreams May Come (1998),not_selected_sampling_design
+Whatever,Michel Houellebecq,Whatever,1999,"Whatever (French: Extension du domaine de la lutte) (1994), Michel Houellebecq",Whatever (1999),not_selected_sampling_design
+A Judgement in Stone,Ruth Rendell,La Cérémonie,1995,"A Judgement in Stone (1977), Ruth Rendell",La Cérémonie (1995),not_selected_sampling_design
 About Schmidt,Louis Begley,About Schmidt,2002,"About Schmidt (1996), Louis Begley",About Schmidt (2002),not_selected_sampling_design
 Adams Fall,Sean Desmond,Abandon,2002,"Adams Fall (2000), Sean Desmond",Abandon (2002),not_selected_sampling_design
 Adiliya by the River,Jin Renshun,Green Tea,2003,"Adiliya by the River (1999), Jin Renshun",Green Tea (2003),not_selected_sampling_design
@@ -403,6 +804,15 @@ The Woman in Black,Susan Hill,The Woman in Black: Angel of Death,2014,"The Woman
 Water for Elephants,Sara Gruen,Water for Elephants,2011,"Water for Elephants (2006), Sara Gruen",Water for Elephants (2011),not_selected_sampling_design
 Winter's Bone,Daniel Woodrell,Winter's Bone,2010,"Winter's Bone (2006), Daniel Woodrell",Winter's Bone (2010),not_selected_sampling_design
 "Woman, Thou Art Loosed!: Healings the Wounds of the Past",T. D. Jakes,Woman Thou Art Loosed: On the 7th Day,2012,"Woman, Thou Art Loosed!: Healings the Wounds of the Past (1993), T. D. Jakes",Woman Thou Art Loosed: On the 7th Day (2012),not_selected_sampling_design
+Berlin Alexanderplatz,Alfred Döblin,Berlin Alexanderplatz,2020,"Berlin Alexanderplatz (1929), Alfred Döblin",Berlin Alexanderplatz (2020),not_selected_sampling_design
+Black Beauty,Anna Sewell,Black Beauty,2020,"Black Beauty (1877), Anna Sewell",Black Beauty (2020),not_selected_sampling_design
+Bonjour Tristesse,Françoise Sagan,Bonjour Tristesse,2024,"Bonjour Tristesse (Hello Sadness) (1954), Françoise Sagan",Bonjour Tristesse (2024),not_selected_sampling_design
+Deep Water,Patricia Highsmith,Deep Water,2022,"Deep Water (1957), Patricia Highsmith",Deep Water (2022),not_selected_sampling_design
+Fletch,Gregory Mcdonald,"Confess, Fletch",2022,"Fletch (1974), Gregory Mcdonald","Confess, Fletch (2022)",not_selected_sampling_design
+"Good Morning, Midnight",Lily Brooks-Dalton,The Midnight Sky,2020,"Good Morning, Midnight (2016), Lily Brooks-Dalton",The Midnight Sky (2020),not_selected_sampling_design
+I'm Thinking of Ending Things,Iain Reid,I'm Thinking of Ending Things,2020,"I'm Thinking of Ending Things (2016), Iain Reid",I'm Thinking of Ending Things (2020),not_selected_sampling_design
+Lassie Come-Home,Eric Knight,Lassie Come Home,2020,"Lassie Come-Home (1940), Eric Knight",Lassie Come Home (2020),not_selected_sampling_design
+Legend of the Galactic Heroes,Yoshiki Tanaka,Legend of the Galactic Heroes: Die Neue These - Intrigue,2022,"Legend of the Galactic Heroes (Japanese: 銀河英雄伝説, Hepburn: Ginga Eiyū Densetsu) (1982–1987), Yoshiki Tanaka",Legend of the Galactic Heroes: Die Neue These - Intrigue (2022),not_selected_sampling_design
 Lonely Castle in the Mirror,Mizuki Tsujimura,Lonely Castle in the Mirror,2022,"Lonely Castle in the Mirror (かがみの孤城, Kagami no Kojō) (2017), Mizuki Tsujimura",Lonely Castle in the Mirror (2022),not_selected_sampling_design
 Martin Eden,Jack London,Jack London's Martin Eden,2021,"Martin Eden (1909), Jack London",Jack London's Martin Eden (2021),not_selected_sampling_design
 News of the World,Paulette Jiles,News of the World,2020,"News of the World (2016), Paulette Jiles",News of the World (2020),not_selected_sampling_design
@@ -422,8 +832,12 @@ The Last Thing He Wanted,Joan Didion,The Last Thing He Wanted,2020,"The Last Thi
 The Life Before Us,Romain Gary (as Émile Ajar),The Life Ahead,2020,"The Life Before Us (French: La vie devant soi) (1975), Romain Gary (as Émile Ajar)",The Life Ahead (2020),not_selected_sampling_design
 The Radleys,Matt Haig,The Radleys,2024,"The Radleys (2010), Matt Haig",The Radleys (2024),not_selected_sampling_design
 The Wages of Fear,Georges-Jean Arnaud,The Wages of Fear,2024,"The Wages of Fear (French: Le Salaire de la peur) (1950), Georges-Jean Arnaud",The Wages of Fear (2024),not_selected_sampling_design
+Legion,William Peter Blatty,The Exorcist III,1990,"Legion (1983), William Peter Blatty",The Exorcist III (1990),not_selected_sampling_design
+Misery,Stephen King,Misery,1990,"Misery (1987), Stephen King",Misery (1990),not_selected_sampling_design
 The Bandits of Bombay,Satyajit Ray,Bombaiyer Bombete,2003,"The Bandits of Bombay (Bengali: বোম্বাইয়ের বোম্বেটে, Bombaiyer Bombete) (1976), Satyajit Ray",Bombaiyer Bombete (2003),not_selected_sampling_design
 The Queen of the Damned,Anne Rice,Queen of the Damned,2002,"The Queen of the Damned (1988), Anne Rice",Queen of the Damned (2002),not_selected_sampling_design
+The Devil Wears Prada,Lauren Weisberger,The Devil Wears Prada,2006,"The Devil Wears Prada (2003), Lauren Weisberger",The Devil Wears Prada (2006),not_selected_sampling_design
 The Glass Rabbit,Toshiko Takagi,Glass no Usagi,2005,"The Glass Rabbit (ガラスのうさぎ, Garasu no Usagi) (1977), Toshiko Takagi",Glass no Usagi (2005),not_selected_sampling_design
 Uncle Remus,Joel Chandler Harris,The Adventures of Brer Rabbit,2006,"Uncle Remus (1881), Joel Chandler Harris",The Adventures of Brer Rabbit (2006),not_selected_sampling_design
 Vampire$,John Steakley,Vampires: The Turning,2005,"Vampire$ (1990), John Steakley",Vampires: The Turning (2005),not_selected_sampling_design
+True Grit,Charles Portis,True Grit,2010,"True Grit (1968), Charles Portis",True Grit (2010),not_selected_sampling_design

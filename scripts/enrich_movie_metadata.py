@@ -33,14 +33,14 @@ sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
-INPUT_CSV       = "book_movie_adaptations_final_200.csv"
-IMDB_BASICS     = "title.basics.tsv"
-IMDB_RATINGS    = "title.ratings.tsv"
-OUTPUT_CSV      = "book_movie_adaptations_final_200.csv"
-REVIEW_CSV      = "movie_match_review.csv"
+INPUT_CSV       = "data/final/book_movie_adaptations_final_200.csv"
+IMDB_BASICS     = "data/raw/title.basics.tsv"
+IMDB_RATINGS    = "data/raw/title.ratings.tsv"
+OUTPUT_CSV      = "data/final/book_movie_adaptations_final_200.csv"
+REVIEW_CSV      = "data/interim/movie_match_review.csv"
 
 # Load token from .env file if not already in environment
-_env_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+_env_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
 if os.path.exists(_env_file):
     with open(_env_file) as _f:
         for _line in _f:
